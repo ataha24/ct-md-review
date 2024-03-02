@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<Trials_downloaded_from_ICTRP>
+
+    
+  <Trial><Export_date>02/03/2024 14:33:48</Export_date>
+    <Internal_Number>12776696
+    </Internal_Number>
+    <TrialID>NCT05678725
+    </TrialID>
+    <Last_Refreshed_on>23 January 2023
+    </Last_Refreshed_on>
+    <Public_title>Transcranial Direct/ Alternating Current Stimulation for Parkinson's Disease Treatment
+    </Public_title>
+    <Scientific_title>Comparison of Transcranial Direct Current Stimulation and Transcranial Alternating Current Stimulation Treatments in Improving the Motor and Cognitive Performance in Parkinson's Disease
+    </Scientific_title>
+    <Acronym/>
+    <Primary_sponsor>Anhui Medical University
+    </Primary_sponsor>
+    <Retrospective_flag>No
+    </Retrospective_flag>
+    <Date_registration3>20221214
+    </Date_registration3>
+    <Date_registration>14/12/2022
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/show/NCT05678725
+    </web_address>
+    <Recruitment_Status>Not recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>40 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>80 Years
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>October 15, 2022
+    </Date_enrollement>
+    <Target_size>80
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: Randomized. Intervention model: Parallel Assignment. Primary purpose: Treatment. Masking: Triple (Participant, Investigator, Outcomes Assessor). 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>China
+    </Countries>
+    <Contact_Firstname>&#x20;
+    </Contact_Firstname>
+    <Contact_Lastname>Junjie Bu, Professor
+    </Contact_Lastname>
+    <Contact_Email/>
+    <Contact_Tel/>
+    <Contact_Affiliation>Anhui Medical University
+    </Contact_Affiliation>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  diagnosis of idiopathic PD according to the movement disorder society criteria&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  right-handed&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  no clinically known hearing or vision impairment&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  no history of epilepsy, dementia, other brain disorders apart from PD, severe internal&#x0D;&lt;br&gt;             organs disease, age-related frailty, etc.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  parkinsonism due to drugs, Cerebrovascular disease, encephalitis, poisoning, traumatic&#x0D;&lt;br&gt;             brain injury, etc.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Metal implants in the head (i.e., deep brain stimulator or aneurysm clips)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  severe somatic or psychiatric disorders that require medication or routinely&#x0D;&lt;br&gt;             monitoring&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  participated in other interventional studies within the past 3 months&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Parkinson Disease;tACS;tDCS
+    </Condition>
+    <Intervention>Device: tACS;Device: tDCS;Device: sham
+    </Intervention>
+    <Primary_outcome>the changes in UPDRS III;the changes in MoCA
+    </Primary_outcome>
+    <Secondary_outcome>simple reaction task;the changes in EEG power
+    </Secondary_outcome>
+    <Secondary_ID>tAtDComparePD
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>02/03/2024 14:33:48</Export_date>
+    <Internal_Number>11897258
+    </Internal_Number>
+    <TrialID>NCT05220449
+    </TrialID>
+    <Last_Refreshed_on>7 February 2022
+    </Last_Refreshed_on>
+    <Public_title>Re-Orchestration of Interregional Oscillatory Activity to Promote Visual Recovery
+    </Public_title>
+    <Scientific_title>Individualized Brain Stimulation to Improve Functional Rehabilitation in Two Models of Sensorimotor Disorders: Stroke and Parkinson's Disease
+    </Scientific_title>
+    <Acronym>R4V
+    </Acronym>
+    <Primary_sponsor>Ecole Polytechnique Fédérale de Lausanne
+    </Primary_sponsor>
+    <Retrospective_flag>No
+    </Retrospective_flag>
+    <Date_registration3>20211130
+    </Date_registration3>
+    <Date_registration>30/11/2021
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/show/NCT05220449
+    </web_address>
+    <Recruitment_Status>Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>N/A
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>September 1, 2017
+    </Date_enrollement>
+    <Target_size>30
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: Randomized. Intervention model: Crossover Assignment. Primary purpose: Treatment. Masking: Single (Investigator). 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>Switzerland
+    </Countries>
+    <Contact_Firstname> ; 
+    </Contact_Firstname>
+    <Contact_Lastname>Estelle Raffin, PhD;Pauline Stehli, Msc
+    </Contact_Lastname>
+    <Contact_Email>estelle.raffin@epfl.ch;
+    </Contact_Email>
+    <Contact_Tel>0216955185;
+    </Contact_Tel>
+    <Contact_Affiliation/>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          1. the patient can consent for themselves;&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          2. age 18+ years old;&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          3. at least 7 days since diagnosis "stroke".&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          4. Patients should demonstrate a clear deficit in either simple or complex visual&#x0D;&lt;br&gt;             perception in portions of their visual field&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          1. Diminished capacity to consent;&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          2. Pregnancy&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          3. Known or suspected non-compliance, drug or alcohol abuse&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          4. Inability to follow the procedures of the study, e.g., due to language problems,&#x0D;&lt;br&gt;             psychological disorders, dementia, etc. of the participant,&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          5. Non-compliance to the instructions of the experimenter or an inappropriate behavior&#x0D;&lt;br&gt;             hindering the normal progress of the experiment.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          6. Previous enrolment into the current study&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          7. Exclusion criteria of MRI, tACS, TMS&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          8. Use of psychoactive medication&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Visual Impairment;Stroke;Parkinson Disease
+    </Condition>
+    <Intervention>Other: Cross-frequency dual-site tACS
+    </Intervention>
+    <Primary_outcome>Changes in visual field functions
+    </Primary_outcome>
+    <Secondary_outcome>Changes in motion discrimination and integration performances;Changes in inter-areal cross-frequency interaction;Changes in visual tracts integrity;Changes in functional connectivity within the broad visual network
+    </Secondary_outcome>
+    <Secondary_ID>2017-01761
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>02/03/2024 14:33:48</Export_date>
+    <Internal_Number>13645400
+    </Internal_Number>
+    <TrialID>DRKS00024035
+    </TrialID>
+    <Last_Refreshed_on>22 January 2024
+    </Last_Refreshed_on>
+    <Public_title>The effects of gamma tACS on cortical excitability and movement in Parkinson patients compared to healthy controls
+    </Public_title>
+    <Scientific_title>The effects of gamma tACS on cortical excitability and movement in Parkinson patients compared to healthy controls - park GammatACS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+    </Scientific_title>
+    <Primary_sponsor>Carl von Ossietzky Universität Oldenburg Fakultät VI - Medizin und Gesundheitswissenschaften Department für Humanmedizin
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20210406
+    </Date_registration3>
+    <Date_registration>06/04/2021
+    </Date_registration>
+    <Source_Register>German Clinical Trials Register
+    </Source_Register>
+    <web_address>http://drks.de/search/en/trial/DRKS00024035
+    </web_address>
+    <Recruitment_Status>Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>50 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>75 Years
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>22/04/2021
+    </Date_enrollement>
+    <Target_size>24
+    </Target_size>
+    <Study_type>interventional
+    </Study_type>
+    <Study_design>Allocation: Randomized controlled study; Masking: Blinded (masking used); Control: placebo; Assignment: factorial; Study design purpose: treatment 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>Germany
+    </Countries>
+    <Contact_Firstname>Martina
+    </Contact_Firstname>
+    <Contact_Lastname>Bantel
+    </Contact_Lastname>
+    <Contact_Address>Heiligengeisthöfe 4
+    </Contact_Address>
+    <Contact_Email>neurologie@uol.de
+    </Contact_Email>
+    <Contact_Tel> +49 (0)441 798-4657
+    </Contact_Tel>
+    <Contact_Affiliation>Sekretariat der Universitätsklinik für NeurologieCarl von Ossietzky Universität Oldenburg
+    </Contact_Affiliation>
+    <Inclusion_Criteria>Inclusion criteria: Parkinson Patients:&#x0D;&lt;br&gt;a) diagnosed PD in a mild to moderate stage, equivalent UPDRS (part III) &lt; 35&#x0D;&lt;br&gt;b) Right-handedness &#x0D;&lt;br&gt;c) Age 50 -75 years&#x0D;&lt;br&gt;d) Fluency in German or English.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;Healthy Subjects are recruited based on : b), c) and d)
+    </Inclusion_Criteria>
+    <Exclusion_Criteria>Exclusion criteria: For healthy subjects and PD patients:&#x0D;&lt;br&gt;a) Implanted neurostimulators, cochlear implants or general implanted metal in the cranium&#x0D;&lt;br&gt;b) Psychiatric disorders (i.e. schizophrenia, severe dementia)&#x0D;&lt;br&gt;c) Epilepsy&#x0D;&lt;br&gt;d) Use of contraindicated medication (i.e. neuroleptics, opioids)&#x0D;&lt;br&gt;e) Coffee or alcohol consumption prior to the experiment
+    </Exclusion_Criteria>
+    <Condition> &lt;br&gt;G20 &lt;br&gt;G20.1;Parkinson disease;G20.1
+    </Condition>
+    <Intervention>Group 1: This study evaluates the effect of gamma tACS on movement and cortical excitability in Parkinson patients and healthy participants. Both groups undergo 2 sessions: in one session they will receive 20 min. of gamma tACS, whereas in the other session they will receive sham stimulation. Which session the participant will first be enrolled in is randomized.&lt;br&gt;&lt;br&gt;Arm 1= Parkinson patients (gamma tACS and Sham)&lt;br&gt;Group 2: Arm 2 = healthy participants (gamma tACS and sham)
+    </Intervention>
+    <Primary_outcome>The endpoint is the improvement of motor function after gamma tACS. Improve motor function will be assessed by the UPDRS, and changes in results in the Nine-hole- peg test and alternating finger tapping task.
+    </Primary_outcome>
+    <Secondary_outcome>The secondary endpoint is the change in reaction time after the execution of a motor task in the course of the experiment.
+    </Secondary_outcome>
+    <Source_Support>Carl von Ossietzky Universität OldenburgFakultät VI - Medizin und GesundheitswissenschaftenDepartment für Humanmedizin
+    </Source_Support>
+    <Ethics_review_status>Approved
+    </Ethics_review_status>
+    <Ethics_review_approval_date>01/04/2021
+    </Ethics_review_approval_date>
+    <Ethics_review_contact_name>med.ethikkommission@uni-oldenburg.de
+    </Ethics_review_contact_name>
+    <Ethics_review_contact_address>Geschäftsstelle der medizinischen Ethikkommission, Fakultät VI Medizin und Gesundheitswissenschaften, Carl von Ossietzky Universität Oldenburg, Gebäude V04 (Raum 1-137)
+    </Ethics_review_contact_address>
+    <Ethics_review_contact_phone>+49-441-7983109
+    </Ethics_review_contact_phone>
+    <Ethics_review_contact_email>med.ethikkommission@uni-oldenburg.de
+    </Ethics_review_contact_email>
+    <results_url_link>http://drks.de/search/en/trial/DRKS00024035#studyResults
+    </results_url_link>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>02/03/2024 14:33:48</Export_date>
+    <Internal_Number>10920903
+    </Internal_Number>
+    <TrialID>NCT03221413
+    </TrialID>
+    <Last_Refreshed_on>10 May 2021
+    </Last_Refreshed_on>
+    <Public_title>Transcranial Alternating Current for Oscillopathies
+    </Public_title>
+    <Scientific_title>A Translational, Multimodal Approach to Implementing Non-invasive Paradigms for the Treatment of Oscillopathies
+    </Scientific_title>
+    <Acronym>tACS_EEG
+    </Acronym>
+    <Primary_sponsor>University of Padova
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20160211
+    </Date_registration3>
+    <Date_registration>11/02/2016
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/show/NCT03221413
+    </web_address>
+    <Recruitment_Status>Not recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>N/A
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>May 1, 2016
+    </Date_enrollement>
+    <Target_size>30
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: Randomized. Intervention model: Crossover Assignment. Primary purpose: Treatment. Masking: Single (Participant). 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>Italy
+    </Countries>
+    <Contact_Firstname>&#x20;
+    </Contact_Firstname>
+    <Contact_Lastname>Alessandra Del Felice, PhD
+    </Contact_Lastname>
+    <Contact_Email/>
+    <Contact_Tel/>
+    <Contact_Affiliation>University of Padua, Italy
+    </Contact_Affiliation>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  PD: diagnosis of idiopathic PD within the last 5 years (UK Brain Bank criteria);&#x0D;&lt;br&gt;             stable dose of antiparkinson therapy for at least 4 weeks; total off-medication motor&#x0D;&lt;br&gt;             Hoen and Yahr 1-2.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  NP: stable chronic pain for at least the preceding six months; score greater than or&#x0D;&lt;br&gt;             equal to 3 (0 no pain, 10 worst pain) on the visual analog scale (VAS) for pain&#x0D;&lt;br&gt;             perception during the last month before start of stimulation; refractoriness to drugs&#x0D;&lt;br&gt;             for pain relief (pain resistance to at least two of these drugs supplied in adequate&#x0D;&lt;br&gt;             dosages for 6 months).&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  PD: concomitant psychiatric disorder; benzodiazepine treatment; Mini Mental State&#x0D;&lt;br&gt;             Examination (MMSE) &lt;26&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  NP: clinically significant or unstable medical or psychiatric disorder, history of&#x0D;&lt;br&gt;             substance abuse&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Parkinson Disease;Pain
+    </Condition>
+    <Intervention>Device: transcranial alternating current stimulation (tACS)
+    </Intervention>
+    <Primary_outcome>Proportion of people displaying fast brain oscillatory activity [measured as electroencephalographic (EEG) beta band prevalence];Proportion of people dispalying slow brain oscillatory activity [measured as electroencephalographic (EEG) theta band prevalence];Improvement = 30% of the total off-medication on a motor performance scale (Unified Parkinson's Disease Rating Scale,part III);Pain reduction, measured with a specific scale (NPQ-Neuropathic Pain Questionnaire), as a reduction of at least 4 points
+    </Primary_outcome>
+    <Secondary_outcome>Modifications of frequencies of oscillatory brain activity, measured as spectral power modifications (prevalence of electroencefalographic frequencies) between T0 and T1 and T1 and T2;Neuropsychological testing: improvement between T0 and T1 and T1 and T2.;Mean change in visual analogue scale (VAS) for pain;Mean change in Short Form (36) Health Survey for NP
+    </Secondary_outcome>
+    <Secondary_ID>UPadova
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    
+  </Trial>
+</Trials_downloaded_from_ICTRP>
