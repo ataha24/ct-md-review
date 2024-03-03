@@ -2,7 +2,7 @@
 <Trials_downloaded_from_ICTRP>
 
     
-  <Trial><Export_date>02/03/2024 14:32:58</Export_date>
+  <Trial><Export_date>03/02/2024 23:25:57</Export_date>
     <Internal_Number>13140733
     </Internal_Number>
     <TrialID>IRCT20090301001722N29
@@ -84,7 +84,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:32:58</Export_date>
+  <Trial><Export_date>03/02/2024 23:25:57</Export_date>
     <Internal_Number>12510684
     </Internal_Number>
     <TrialID>IRCT20220725055552N1
@@ -168,7 +168,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:32:58</Export_date>
+  <Trial><Export_date>03/02/2024 23:25:57</Export_date>
     <Internal_Number>10897852
     </Internal_Number>
     <TrialID>ChiCTR2100042452
@@ -250,7 +250,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:32:58</Export_date>
+  <Trial><Export_date>03/02/2024 23:25:57</Export_date>
     <Internal_Number>13384209
     </Internal_Number>
     <TrialID>ISRCTN89158865
@@ -330,7 +330,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:32:58</Export_date>
+  <Trial><Export_date>03/02/2024 23:25:57</Export_date>
     <Internal_Number>13089080
     </Internal_Number>
     <TrialID>RBR-6bvnx6
@@ -404,6 +404,170 @@
     <Secondary_Sponsor>Universidade Federal do Espírito Santo
     </Secondary_Sponsor>
     <results_url_link/>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:25:57</Export_date>
+    <Internal_Number>13434595
+    </Internal_Number>
+    <TrialID>JPRN-jRCTs072180090
+    </TrialID>
+    <Last_Refreshed_on>17 October 2023
+    </Last_Refreshed_on>
+    <Public_title>Efficiency of transcranial direct current electrical stimulation for voice disorder
+    </Public_title>
+    <Scientific_title>Efficiency of transcranial direct current electrical stimulation for voice disorder - Efficiency of transcranial direct current electrical stimulation for voice disorder                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+    </Scientific_title>
+    <Primary_sponsor>Kiyuna Asanori
+    </Primary_sponsor>
+    <Retrospective_flag>No
+    </Retrospective_flag>
+    <Date_registration3>20190329
+    </Date_registration3>
+    <Date_registration>29/03/2019
+    </Date_registration>
+    <Source_Register>JPRN
+    </Source_Register>
+    <web_address>https://jrct.niph.go.jp/latest-detail/jRCTs072180090
+    </web_address>
+    <Recruitment_Status>Not Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>&gt;= 20age old
+    </Inclusion_agemin>
+    <Inclusion_agemax>&lt;= 75age old
+    </Inclusion_agemax>
+    <Inclusion_gender>Both
+    </Inclusion_gender>
+    <Date_enrollement>28/06/2017
+    </Date_enrollement>
+    <Target_size>5
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>single arm study, open(masking not used), no treatment control/standard of care control, single assignment, treatment purpose
+    </Study_design>
+    <Phase>2
+    </Phase>
+    <Countries>United States;Japan
+    </Countries>
+    <Contact_Firstname>Asanori
+    </Contact_Firstname>
+    <Contact_Lastname>Kiyuna
+    </Contact_Lastname>
+    <Contact_Address>207 Uehara, Nishihara-cho, Okinawa
+    </Contact_Address>
+    <Contact_Email>asanori@med.u-ryukyu.ac.jp
+    </Contact_Email>
+    <Contact_Tel>+81-98-895-1183
+    </Contact_Tel>
+    <Contact_Affiliation>University of the Ryukyus
+    </Contact_Affiliation>
+    <Inclusion_Criteria>Inclusion criteria: 1. Patients with voice disorder without organic disease in the vocal cords who received the Otolaryngology Department of the University of the Ryukyus.&lt;br&gt;2.  SD patients who do not hope for surgical treatment or symptom is mild,or are no indication for surgical treatment, or the patient has operated but the symptoms remain.&lt;br&gt;3. Cases in which normal speech rehabilitation was performed for more than 3 months in all cases and there was no effect.
+    </Inclusion_Criteria>
+    <Exclusion_Criteria>Exclusion criteria: 1.Cases of brain abnormalities such as epilepsy, cerebral infarction, and brain tumor.&lt;br&gt;2.Case in which there are scars or eczema on the head skin.&lt;br&gt;3.Cases with poor physical condition on the day of examination
+    </Exclusion_Criteria>
+    <Condition>Voice disorder(Spasmodic dysphonia,essential Voice tremor, Psychogenic dysphonia)
+    </Condition>
+    <Intervention>For patients with dysphonia, we will investigate whether the improvement of the speech disorder can be seen by modifying the nerve activity just below the electrodes by performing weak direct current electrical stimulation from above the scalp using a transcranial electrical stimulation device.
+    </Intervention>
+    <Primary_outcome>Laryngeal fiber findings, auditory impression, voice inspection; vocal function test, acoustic analysis, time to count from 1 to 20, mora method, patient impairment evaluation, voice interview slip
+    </Primary_outcome>
+    <Secondary_outcome>Adverse event
+    </Secondary_outcome>
+    <Secondary_Sponsor>Mikio Suzuki
+    </Secondary_Sponsor>
+    <Ethics_review_status>Approval
+    </Ethics_review_status>
+    <Ethics_review_approval_date>01/01/1900
+    </Ethics_review_approval_date>
+    <Ethics_review_contact_name>knknkyu@to.jim.u-ryukyu.ac.jp
+    </Ethics_review_contact_name>
+    <Ethics_review_contact_address>Review Board of University of the Ryukyus for Clinical Research Ethics
+    </Ethics_review_contact_address>
+    <Ethics_review_contact_phone>+81-98-895-8016
+    </Ethics_review_contact_phone>
+    <Ethics_review_contact_email>knknkyu@to.jim.u-ryukyu.ac.jp
+    </Ethics_review_contact_email>
+    <results_yes_no>Yes
+    </results_yes_no>
+    <results_date_posted>28/08/2021
+    </results_date_posted>
+    <results_date_completed>28/08/2021
+    </results_date_completed>
+    <results_url_link/>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:25:57</Export_date>
+    <Internal_Number>12203473
+    </Internal_Number>
+    <TrialID>NCT03369613
+    </TrialID>
+    <Last_Refreshed_on>2 May 2022
+    </Last_Refreshed_on>
+    <Public_title>Transcranial Electrical Stimulation for Cervical Dystonia
+    </Public_title>
+    <Scientific_title>Transcranial Electrical Stimulation (tES) for the Treatment of Cervical Dystonia
+    </Scientific_title>
+    <Acronym/>
+    <Primary_sponsor>University of Colorado, Denver
+    </Primary_sponsor>
+    <Retrospective_flag>No
+    </Retrospective_flag>
+    <Date_registration3>20171129
+    </Date_registration3>
+    <Date_registration>29/11/2017
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/show/NCT03369613
+    </web_address>
+    <Recruitment_Status>Not recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>N/A
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>October 27, 2017
+    </Date_enrollement>
+    <Target_size>36
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: Randomized. Intervention model: Parallel Assignment. Primary purpose: Basic Science. Masking: Double (Participant, Investigator). 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>United States
+    </Countries>
+    <Contact_Firstname>&#x20;
+    </Contact_Firstname>
+    <Contact_Lastname>Brian Berman, MD
+    </Contact_Lastname>
+    <Contact_Email/>
+    <Contact_Tel/>
+    <Contact_Affiliation>University of Colorado, Denver
+    </Contact_Affiliation>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Primary Cervical Dystonia&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Right-handed&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  On a stable dose of all medications used to treat dystonia for the month previous to&#x0D;&lt;br&gt;             enrollment&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  No botox injections in the 10 weeks previous to enrollment&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Any contraindication to MRI scanning, tES, or TMS (e.g pregnancy, history of seizures,&#x0D;&lt;br&gt;             significant systemic medical conditions, untreated psychiatric or neurological&#x0D;&lt;br&gt;             conditions)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Evidence on neurological exam of any potentially confounding neurological disorder&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Evidence of significant cognitive impairment&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Patients with dystonia symptoms beginning prior to the age of 18 will be excluded&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Patients with secondary dystonia resulting from medications or that are part of&#x0D;&lt;br&gt;             another neurological disorder (e.g. Parkinson's disease) will be excluded&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Medication that might predispose the subject to seizures&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Healthy Controls&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        - Right-handed&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Any contraindication to MRI scanning, tES, or TMS (e.g pregnancy, history of seizures,&#x0D;&lt;br&gt;             significant systemic medical conditions, untreated psychiatric or neurological&#x0D;&lt;br&gt;             conditions)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Evidence on neurological exam of any potentially confounding neurological disorder&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Evidence of significant cognitive impairment&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Medication that might predispose the subject to seizures&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Primary Cervical Dystonia
+    </Condition>
+    <Intervention>Device: transcranial electrical stimulation
+    </Intervention>
+    <Primary_outcome>Phase I: A change in brain functional connectivity in primary cervical dystonia;Phase II: Improvement in Toronto Western Spasmodic Torticollis Rating Scale (TWSTRS) score
+    </Primary_outcome>
+    <Secondary_ID>17-1322
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
     
   </Trial>
 </Trials_downloaded_from_ICTRP>

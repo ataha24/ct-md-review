@@ -1,0 +1,750 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<Trials_downloaded_from_ICTRP>
+
+    
+  <Trial><Export_date>03/02/2024 23:49:44</Export_date>
+    <Internal_Number>12984533
+    </Internal_Number>
+    <TrialID>ACTRN12622000775718
+    </TrialID>
+    <Last_Refreshed_on>24 April 2023
+    </Last_Refreshed_on>
+    <Public_title>The use of MRI guided focused ultrasound for the management of focal hand dystonia
+    </Public_title>
+    <Scientific_title>Evaluation of the efficacy and safety of MRI guided focused ultrasound (MRgFUS) for focal hand dystonia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+    </Scientific_title>
+    <Primary_sponsor>St Vincent's Health Network Sydney
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20220531
+    </Date_registration3>
+    <Date_registration>31/05/2022
+    </Date_registration>
+    <Source_Register>ANZCTR
+    </Source_Register>
+    <web_address>https://anzctr.org.au/ACTRN12622000775718.aspx
+    </web_address>
+    <Recruitment_Status>Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>No limit
+    </Inclusion_agemax>
+    <Inclusion_gender>Both males and females
+    </Inclusion_gender>
+    <Date_enrollement>09/01/2023
+    </Date_enrollement>
+    <Target_size>10
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Purpose: Treatment; Allocation: Non-randomised trial; Type of endpoint: Safety/efficacy;
+    </Study_design>
+    <Phase>Not Applicable
+    </Phase>
+    <Countries>Australia
+    </Countries>
+    <Inclusion_Criteria>Inclusion criteria: Patients will be included based on a formal diagnosis of focal hand dystonia (of either musician’s dystonia or writer’s subtype) as made by a consultant neurologist with specialisation in movement disorders. All patients must be at least 18 years of age and be willing to provide written consent to participate in the study. Patients must have tried and failed first line therapies for focal hand dystonia including hand therapy, oral medications and/or botulinum toxin injections.&#x0D;&lt;br&gt;All patients must be ambulant at the time of the procedure.
+    </Inclusion_Criteria>
+    <Exclusion_Criteria>Exclusion criteria: Patients will be excluded if any of the following criteria are fulfilled&#x0D;&lt;br&gt;•	History of ischaemic stroke or transient ischaemic event&#x0D;&lt;br&gt;•	History of stereotactic cerebral surgery&#x0D;&lt;br&gt;•	Diagnosis of unstable cardiac disease&#x0D;&lt;br&gt;•	Diagnosis of psychiatric disease&#x0D;&lt;br&gt;•	Cognitive impairment as indicated by a mini-mental state examination score of &lt; 24&#x0D;&lt;br&gt;•	Coagulopathy or on anticoagulation that cannot be withheld for the intervention&#x0D;&lt;br&gt;•	Skull density ratio of &lt;0.3&#x0D;&lt;br&gt;•	Absolute contraindication to MRI (eg: non-MR compatible pacemaker/defibrillator or other non-MR compatible device in situ).&#x0D;&lt;br&gt;•	Relative contraindication to MRI (such as severe claustrophobia) will be assessed on a case-by-case basis&#x0D;&lt;br&gt;•	Unwilling to provide written consent
+    </Exclusion_Criteria>
+    <Condition>focal hand dystonia; &lt;br&gt;focal hand dystonia;Neurological - Other neurological disorders
+    </Condition>
+    <Intervention>This trial aims to assess the efficacy and safety of MRgFUS in the treatment of focal hand dystonia. We aim to enrol 10 patients with focal hand dystonia, according to specific inclusion and exclusion criteria, and assess the benefit of MRgFUS in the treatment of this condition.&lt;br&gt;&lt;br&gt;All patients will undergo regular physical examination by a consultant neurologist and fellow with specialisation in movement disorders. Administration of standardised questionnaires, including the Arm Dystonia Disability Scale (ADDS), Michigan Health Outcome Questionnaire (MHOQ), Tubiana Musicians Dystonia Scale/Writer's Cramp Rating Scale (TMDS/WCRS), Short-Form 36 (SF-36) and pain numerical rating scale (NRS) will be administered at all visits except for the day of the procedure. Pre-procedure cognitive impairment will be screened using the mini-mental state examination (MMSE) and, similarly, pre- and post procedure depressive illness will be screened using the Beck Depression Inventory (BDI). If the participants meet all relevant inclusion, and no exclusion, criteria, a CT brain scan will be performed to measure the skull density ratio (SDR) using a low radiation dose CT scanner (at baseline only, not a treatment outcome). Further pre-procedural baseline screening will include assessment of neural pathways with MRI DTI tractography and resting state fMRI. Kinematic measures will be obtained using AMADEO upper extremity system and neurophysiological testing, using paired associative stimulation (PAS), will be used to measure cortical plasticity. The neurophysiological assessments are non-invasive (no recording needles are inserted) and the duration of neurophysiological testing is 60-90 minutes per study visit, with the patient seated comfortably in a neurophysiology laboratory with o
+    </Intervention>
+    <Primary_outcome>Change in Arm Dystonia Disability Scale (ADDS) [Baseline, and 1, 3, 6, and 12 months post the procedure];Change in Burke-Fahn-Marsden Scale of Dystonia[Baseline, and 1, 3, 6 and 12 months post the procedure];Tubiana Musicians Dystonia Scale (TMDS) for musicians dystonia&lt;br&gt;&lt;br&gt;OR&lt;br&gt;&lt;br&gt;Writers Cramp Rating Scale (WCRS)[Baseline, and 1, 3, 6, and 12 months post the procedure]
+    </Primary_outcome>
+    <Secondary_outcome>Safety using study specific questionnaire/sheet[Occurrence of any adverse events at the following timepoints:&#x0D;&lt;br&gt;Intraprocedural (day 0), day 1, 1 week, and 1, 3, 6, 12 months post procedure];Kinematic measures:&#x0D;&lt;br&gt;Finger/hand strength and velocity using the AMADEO upper extremity rehabilitation and analysis system[Baseline, and 1, 3, 6, 12 months post procedure];Upper limb function using the Purdue 9-hole peg-test[Baseline, and 1, 3, 6, and 12 months post the procedure];Upper limb function using the Michigan Hand Outcome Questionnaire (MHOQ)[Baseline, and 1, 3, 6, and 12 months post the procedure];Changes in cortical plasticity using paired associative stimuli latency and spatial specificity[Baseline, and 1, 3, and 12 months post the procedure];Changes in neural pathways using MRI diffusion tract imaging[Baseline, and 1, 3, and 12 months post the procedure];Screening for depression and low mood using the Beck Depression Inventory (BDI)[Baseline, and 1, 3, 6, and 12 months post the procedure];Quality of life using the Short-Form 36[Baseline, and 1, 3, 6, and 12 months post the procedure];Hand pain/discomfort using the Pain numerical rating scale (NRS)[Baseline, and 1, 3, 6, and 12 months post the procedure]
+    </Secondary_outcome>
+    <Secondary_ID>Nil known
+    </Secondary_ID>
+    <Source_Support>Dr Tisch Research Trust Fund/Curran Foundation/Philanthropic Donation;Dystonia Network of Australia;Brain Foundation
+    </Source_Support>
+    <Ethics_review_status>Approved
+    </Ethics_review_status>
+    <Ethics_review_approval_date>22/06/2022
+    </Ethics_review_approval_date>
+    <Ethics_review_contact_name/>
+    <Ethics_review_contact_address>St Vincent's Hospital Research Ethics Committee
+    </Ethics_review_contact_address>
+    <Ethics_review_contact_phone/>
+    <Ethics_review_contact_email/>
+    <results_url_link/>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:49:44</Export_date>
+    <Internal_Number>11306415
+    </Internal_Number>
+    <TrialID>IRCT20170703034879N3
+    </TrialID>
+    <Last_Refreshed_on>30 August 2021
+    </Last_Refreshed_on>
+    <Public_title>Effect of transcranial direct current stimulation in diplegic cerebral palsy
+    </Public_title>
+    <Scientific_title>Clinical trial of transcranial direct current stimulation effect on gait in children with diplegic spastic cerebral palsy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+    </Scientific_title>
+    <Primary_sponsor>Tehran University of Medical Sciences
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20210731
+    </Date_registration3>
+    <Date_registration>2021-07-31
+    </Date_registration>
+    <Source_Register>IRCT
+    </Source_Register>
+    <web_address>http://en.irct.ir/trial/57633
+    </web_address>
+    <Recruitment_Status>Not Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>5 years
+    </Inclusion_agemin>
+    <Inclusion_agemax>12 years
+    </Inclusion_agemax>
+    <Inclusion_gender>Both
+    </Inclusion_gender>
+    <Date_enrollement>2021-09-23
+    </Date_enrollement>
+    <Target_size>20
+    </Target_size>
+    <Study_type>interventional
+    </Study_type>
+    <Study_design>Randomization: Randomized, Blinding: Double blinded, Placebo: Used, Assignment: Crossover, Purpose: Treatment, Randomization description: We will use computer-generated randomization. Five blocks of 4 will be made by third party not involving in the study and randomization list will be generated. Neither investigator nor patients know the groups, Blinding description: A third party will make randomization list. The list will be given to investigator. Investigator, occupational therapist, outcome assessor and patients are blinded to the groups. After completion of study blinding will be removed. Data analyzer will not be blinded to the groups.
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>Iran (Islamic Republic of)
+    </Countries>
+    <Contact_Firstname>Dr Siamak Abdi
+    </Contact_Firstname>
+    <Contact_Lastname/>
+    <Contact_Address>Neurology department, Shariati hospital, Jalal-e-Al-e-Ahmad Hwy
+    </Contact_Address>
+    <Contact_Email>Siamak.Abdi@yahoo.com
+    </Contact_Email>
+    <Contact_Tel>+98 21 8490 2224
+    </Contact_Tel>
+    <Contact_Affiliation>Tehran University of Medical Sciences
+    </Contact_Affiliation>
+    <Inclusion_Criteria>Inclusion criteria: Diplegic spastic cerebral palsy&lt;br&gt;Gross Motor Function Classification System (GMFCS) less than 4, i.e. can walk independently or with walking aid&lt;br&gt;age between 5 and 12 years
+    </Inclusion_Criteria>
+    <Exclusion_Criteria>Exclusion criteria: patient or parents do not consent&lt;br&gt;history of surgery in previous 12 months&lt;br&gt;uncontrolled epilepsy&lt;br&gt;metallic foreign body in brain&lt;br&gt;orthopedic problem needing urgent surgery&lt;br&gt;cognitive problem troubling cooperation
+    </Exclusion_Criteria>
+    <Condition>spastic diplegic Cerebral palsy. &lt;br&gt;Spastic diplegic cerebral palsy;G80.1
+    </Condition>
+    <Intervention>Intervention 1: Intervention group: In intervention group direct electrical stimulation is performed using saline wet sponge; anode is placed on cortical motor area Cz and cathode is placed on forehead. There will be 30 seconds of ascending direct current at the beginning,  thereafter 20 minutes of stable 2 mA current  and at the end 30 seconds of descending current will be employed. Intervention 2: . Intervention 3: Control group: In the sham group direct electrical stimulation is performed using saline wet sponge; anode is placed on cortical motor area Cz and cathode is placed on forehead. There will be 30 seconds of ascending direct current at the beginning, in the next 20 minutes no current is employed. Thereafter 30 seconds of descending current will be employed.
+    </Intervention>
+    <Primary_outcome>Velocity of gait. Timepoint: gait velocity will be measured 1 week after the completion of first and second course (after crossover) of tDCS. Method of measurement: Measured during gait analysis by velocity sensors.
+    </Primary_outcome>
+    <Secondary_outcome>Cadence. Timepoint: cadence will be measured 1 week after the completion of first and second course (after crossover) of tDCS. Method of measurement: Measured during gait analysis by velocity and time sensors.;PEDI : Pediatric evaluation of disability inventory. Timepoint: PEDI will be filled 1 week after the completion of first and second course (after crossover) of tDCS. Method of measurement: The investigator will fill the inventory.;6MWT: six minute walk test. Timepoint: 6MWT be measured 1 week after the completion of first and second course (after crossover) of tDCS. Method of measurement: The distance walked in 6 minutes will be measured by the investigator.
+    </Secondary_outcome>
+    <Source_Support>Tehran University of Medical Sciences
+    </Source_Support>
+    <Ethics_review_status>Approved
+    </Ethics_review_status>
+    <Ethics_review_approval_date>27/06/2021
+    </Ethics_review_approval_date>
+    <Ethics_review_contact_name/>
+    <Ethics_review_contact_address>Ethics committee of Tehran University of Medical Sciences
+    </Ethics_review_contact_address>
+    <Ethics_review_contact_phone/>
+    <Ethics_review_contact_email/>
+    <results_url_link/>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:49:44</Export_date>
+    <Internal_Number>13644068
+    </Internal_Number>
+    <TrialID>DRKS00021799
+    </TrialID>
+    <Last_Refreshed_on>22 January 2024
+    </Last_Refreshed_on>
+    <Public_title>Organization of cortical and subcortical neural networks in psychiatric patients treated with deep brain stimulation
+    </Public_title>
+    <Scientific_title>Organization of cortical and subcortical neural networks in psychiatric patients treated with deep brain stimulation - None                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+    </Scientific_title>
+    <Primary_sponsor>Klinik für Stereotaxie und Funktionelle NeurochirurgieUniversitätsklinikum Köln
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20210621
+    </Date_registration3>
+    <Date_registration>21/06/2021
+    </Date_registration>
+    <Source_Register>German Clinical Trials Register
+    </Source_Register>
+    <web_address>http://drks.de/search/en/trial/DRKS00021799
+    </web_address>
+    <Recruitment_Status>Not Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>80 Years
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>01/08/2021
+    </Date_enrollement>
+    <Target_size>20
+    </Target_size>
+    <Study_type>observational
+    </Study_type>
+    <Study_design>Allocation: ; Masking: ; Control: ; Assignment: ; Study design purpose: Prognosis 
+    </Study_design>
+    <Phase/>
+    <Countries>Germany
+    </Countries>
+    <Contact_Firstname>Thibaut
+    </Contact_Firstname>
+    <Contact_Lastname>Sesia
+    </Contact_Lastname>
+    <Contact_Address>Kerpener Str. 62
+    </Contact_Address>
+    <Contact_Email>thibaut.sesia@uk-koeln.de
+    </Contact_Email>
+    <Contact_Tel>0049(0)22147882772
+    </Contact_Tel>
+    <Contact_Affiliation>Klinik für Stereotaxie und Funktionelle Neurochirurgie Universitätsklinikum Köln (AöR)
+    </Contact_Affiliation>
+    <Inclusion_Criteria>Inclusion criteria: - Selected for deep brain stimulation therapy independently of this study&lt;br&gt;- Good general condition&lt;br&gt;- be able to consent&lt;br&gt;- be able to sign the declaration of consent
+    </Inclusion_Criteria>
+    <Exclusion_Criteria>Exclusion criteria: Unable to give consent
+    </Exclusion_Criteria>
+    <Condition> &lt;br&gt;F42.9 &lt;br&gt;F95.2;Obsessive-compulsive disorder, unspecified;Combined vocal and multiple motor tic disorder [de la Tourette];F42.9;F95.2
+    </Condition>
+    <Intervention>Group 1: Change in cortical network communication following DBS treatment (deep brain stimulation)
+    </Intervention>
+    <Primary_outcome>Change in cerebral band frequency post treatment (e.g. theta, gamma bands).
+    </Primary_outcome>
+    <Secondary_outcome>Change in cross frequency coherence post treatment (e.g. theta-gamma bands).
+    </Secondary_outcome>
+    <Source_Support>Klinik Fuer Stereotaxie und Funktionelle NeurochirurgieUniklinikum Koeln
+    </Source_Support>
+    <Ethics_review_status>Approved
+    </Ethics_review_status>
+    <Ethics_review_approval_date>09/11/2020
+    </Ethics_review_approval_date>
+    <Ethics_review_contact_name>gs-ek@uni-koeln.de
+    </Ethics_review_contact_name>
+    <Ethics_review_contact_address>Ethikkommission der Medizinischen Fakultät der Universität zu Köln
+    </Ethics_review_contact_address>
+    <Ethics_review_contact_phone>+49-221-478 82900
+    </Ethics_review_contact_phone>
+    <Ethics_review_contact_email>gs-ek@uni-koeln.de
+    </Ethics_review_contact_email>
+    <results_url_link>http://drks.de/search/en/trial/DRKS00021799#studyResults
+    </results_url_link>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:49:44</Export_date>
+    <Internal_Number>13645400
+    </Internal_Number>
+    <TrialID>DRKS00024035
+    </TrialID>
+    <Last_Refreshed_on>22 January 2024
+    </Last_Refreshed_on>
+    <Public_title>The effects of gamma tACS on cortical excitability and movement in Parkinson patients compared to healthy controls
+    </Public_title>
+    <Scientific_title>The effects of gamma tACS on cortical excitability and movement in Parkinson patients compared to healthy controls - park GammatACS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+    </Scientific_title>
+    <Primary_sponsor>Carl von Ossietzky Universität Oldenburg Fakultät VI - Medizin und Gesundheitswissenschaften Department für Humanmedizin
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20210406
+    </Date_registration3>
+    <Date_registration>06/04/2021
+    </Date_registration>
+    <Source_Register>German Clinical Trials Register
+    </Source_Register>
+    <web_address>http://drks.de/search/en/trial/DRKS00024035
+    </web_address>
+    <Recruitment_Status>Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>50 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>75 Years
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>22/04/2021
+    </Date_enrollement>
+    <Target_size>24
+    </Target_size>
+    <Study_type>interventional
+    </Study_type>
+    <Study_design>Allocation: Randomized controlled study; Masking: Blinded (masking used); Control: placebo; Assignment: factorial; Study design purpose: treatment 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>Germany
+    </Countries>
+    <Contact_Firstname>Martina
+    </Contact_Firstname>
+    <Contact_Lastname>Bantel
+    </Contact_Lastname>
+    <Contact_Address>Heiligengeisthöfe 4
+    </Contact_Address>
+    <Contact_Email>neurologie@uol.de
+    </Contact_Email>
+    <Contact_Tel> +49 (0)441 798-4657
+    </Contact_Tel>
+    <Contact_Affiliation>Sekretariat der Universitätsklinik für NeurologieCarl von Ossietzky Universität Oldenburg
+    </Contact_Affiliation>
+    <Inclusion_Criteria>Inclusion criteria: Parkinson Patients:&#x0D;&lt;br&gt;a) diagnosed PD in a mild to moderate stage, equivalent UPDRS (part III) &lt; 35&#x0D;&lt;br&gt;b) Right-handedness &#x0D;&lt;br&gt;c) Age 50 -75 years&#x0D;&lt;br&gt;d) Fluency in German or English.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;Healthy Subjects are recruited based on : b), c) and d)
+    </Inclusion_Criteria>
+    <Exclusion_Criteria>Exclusion criteria: For healthy subjects and PD patients:&#x0D;&lt;br&gt;a) Implanted neurostimulators, cochlear implants or general implanted metal in the cranium&#x0D;&lt;br&gt;b) Psychiatric disorders (i.e. schizophrenia, severe dementia)&#x0D;&lt;br&gt;c) Epilepsy&#x0D;&lt;br&gt;d) Use of contraindicated medication (i.e. neuroleptics, opioids)&#x0D;&lt;br&gt;e) Coffee or alcohol consumption prior to the experiment
+    </Exclusion_Criteria>
+    <Condition> &lt;br&gt;G20 &lt;br&gt;G20.1;Parkinson disease;G20.1
+    </Condition>
+    <Intervention>Group 1: This study evaluates the effect of gamma tACS on movement and cortical excitability in Parkinson patients and healthy participants. Both groups undergo 2 sessions: in one session they will receive 20 min. of gamma tACS, whereas in the other session they will receive sham stimulation. Which session the participant will first be enrolled in is randomized.&lt;br&gt;&lt;br&gt;Arm 1= Parkinson patients (gamma tACS and Sham)&lt;br&gt;Group 2: Arm 2 = healthy participants (gamma tACS and sham)
+    </Intervention>
+    <Primary_outcome>The endpoint is the improvement of motor function after gamma tACS. Improve motor function will be assessed by the UPDRS, and changes in results in the Nine-hole- peg test and alternating finger tapping task.
+    </Primary_outcome>
+    <Secondary_outcome>The secondary endpoint is the change in reaction time after the execution of a motor task in the course of the experiment.
+    </Secondary_outcome>
+    <Source_Support>Carl von Ossietzky Universität OldenburgFakultät VI - Medizin und GesundheitswissenschaftenDepartment für Humanmedizin
+    </Source_Support>
+    <Ethics_review_status>Approved
+    </Ethics_review_status>
+    <Ethics_review_approval_date>01/04/2021
+    </Ethics_review_approval_date>
+    <Ethics_review_contact_name>med.ethikkommission@uni-oldenburg.de
+    </Ethics_review_contact_name>
+    <Ethics_review_contact_address>Geschäftsstelle der medizinischen Ethikkommission, Fakultät VI Medizin und Gesundheitswissenschaften, Carl von Ossietzky Universität Oldenburg, Gebäude V04 (Raum 1-137)
+    </Ethics_review_contact_address>
+    <Ethics_review_contact_phone>+49-441-7983109
+    </Ethics_review_contact_phone>
+    <Ethics_review_contact_email>med.ethikkommission@uni-oldenburg.de
+    </Ethics_review_contact_email>
+    <results_url_link>http://drks.de/search/en/trial/DRKS00024035#studyResults
+    </results_url_link>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:49:44</Export_date>
+    <Internal_Number>13474053
+    </Internal_Number>
+    <TrialID>JPRN-UMIN000040073
+    </TrialID>
+    <Last_Refreshed_on>17 October 2023
+    </Last_Refreshed_on>
+    <Public_title>Cognitive function assessed by recording of brain activity using multimodal methods
+    </Public_title>
+    <Scientific_title>Cognitive function assessed by recording of brain activity using multimodal methods - Cognitive function assessed by recording of brain activity using multimodal methods                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+    </Scientific_title>
+    <Primary_sponsor>Jichi Medical University
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20200406
+    </Date_registration3>
+    <Date_registration>06/04/2020
+    </Date_registration>
+    <Source_Register>JPRN
+    </Source_Register>
+    <web_address>https://center6.umin.ac.jp/cgi-open-bin/ctr_e/ctr_view.cgi?recptno=R000045685
+    </web_address>
+    <Recruitment_Status>Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>8years-old
+    </Inclusion_agemin>
+    <Inclusion_agemax>90years-old
+    </Inclusion_agemax>
+    <Inclusion_gender>Male and Female
+    </Inclusion_gender>
+    <Date_enrollement>2020/04/06
+    </Date_enrollement>
+    <Target_size>100
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Single arm Non-randomized
+    </Study_design>
+    <Phase>Not selected
+    </Phase>
+    <Countries>Japan
+    </Countries>
+    <Contact_Firstname>Kensuke
+    </Contact_Firstname>
+    <Contact_Lastname>Kawai
+    </Contact_Lastname>
+    <Contact_Address>3311-1, Yakushiji, Shimotsuke, Tochigi
+    </Contact_Address>
+    <Contact_Email>kenkawai-tky@jichi.ac.jp
+    </Contact_Email>
+    <Contact_Tel>0285-58-7373
+    </Contact_Tel>
+    <Contact_Affiliation>Jichi Medical University Department of Neurosurgery
+    </Contact_Affiliation>
+    <Inclusion_Criteria>Inclusion criteria: 
+    </Inclusion_Criteria>
+    <Exclusion_Criteria>Exclusion criteria: 1.	When the patient seems unfit to participate in the study such as restlessness and disturbance of consciousness.  2. a pacemaker is implanted.  3. the metal is in the body for use in surgery or drug injection.  4. there is a possibility that a piece of metal has been accidentally introduced into the body from working in the metal processing industry.  5. Claustrophobia;   6. Severe shortness of breath when lying down.
+    </Exclusion_Criteria>
+    <Condition>Epilepsy, Parkinson&amp;#39;s disease, dystonia, stroke, brain tumor, cerebrovascular disease
+    </Condition>
+    <Intervention>Participants: Patients with epilepsy implanted with chronic subdural or depth electrodes for epileptogenic focus surgery.   Duration: 2 ~ 4 weeks (1~3 hours / day)   Study: Measuring neural activities from the cortex and subcortical area during cognitive tasks (visual, auditory, and tactile stimuli). Furthermore, evaluating the changes of cognitive performances by using electric stimulation to the cortical and subcortical areas. The parameters of stimulation are based on the conventional clinical functional mapping protocol.
+    </Intervention>
+    <Primary_outcome>The neural activities during cognitive tasks and the behavioral performances of the cognitive tasks by stimulation of the cortex will be evaluated. The evaluation will be performed before epileptogenic focus resection surgery (~4 weeks).
+    </Primary_outcome>
+    <Secondary_outcome>1. The neural activities during cognitive tasks and the behavioral performances of the cognitive tasks by stimulation of subcortical areas will be evaluated. The evaluation will be performed before the implantation of the stimulation device used in deep brain stimulation therapy (~2 week).    2. In patients undergoing epileptic focal resection, device implantation for deep brain stimulation therapy, brain tumors, or cerebrovascular disease surgery, functional magnetic resonance imaging are used to assess the activity of cortical and subcortical areas during cognitive tasks and at rest. Evaluations will be performed before the surgery, and 1 month and 6 month after the surgery.
+    </Secondary_outcome>
+    <Source_Support>Japan Society for the Promotion of Science   (Grants-in-Aid for Scientific Research)
+    </Source_Support>
+    <Ethics_review_status>YES
+    </Ethics_review_status>
+    <Ethics_review_approval_date>24/03/2020
+    </Ethics_review_approval_date>
+    <Ethics_review_contact_name>rinri@jichi.ac.jp
+    </Ethics_review_contact_name>
+    <Ethics_review_contact_address>Jichi Medical University
+    </Ethics_review_contact_address>
+    <Ethics_review_contact_phone>0285-58-7576
+    </Ethics_review_contact_phone>
+    <Ethics_review_contact_email>rinri@jichi.ac.jp
+    </Ethics_review_contact_email>
+    <results_date_completed>30/06/2025
+    </results_date_completed>
+    <results_url_link/>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:49:44</Export_date>
+    <Internal_Number>13089401
+    </Internal_Number>
+    <TrialID>RBR-3rvfwt
+    </TrialID>
+    <Last_Refreshed_on>29 May 2023
+    </Last_Refreshed_on>
+    <Public_title>Effect of combination therapy with Noninvasive Brain Stimulation and Gamotherapy in patients with Parkinson's Disease
+    </Public_title>
+    <Scientific_title>Effect analysis of combined therapy with repetitive Transcranial Magnetic Stimulation (rTMS) and gametherapy on motor and cognitive functional capacity of individuals with PD                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+    </Scientific_title>
+    <Primary_sponsor>Universidade Federal da Paraíba-
+    </Primary_sponsor>
+    <Retrospective_flag>No
+    </Retrospective_flag>
+    <Date_registration3>20191226
+    </Date_registration3>
+    <Date_registration>26/12/2019
+    </Date_registration>
+    <Source_Register>REBEC
+    </Source_Register>
+    <web_address>http://ensaiosclinicos.gov.br/rg/RBR-3rvfwt
+    </web_address>
+    <Recruitment_Status>Not Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>35Y
+    </Inclusion_agemin>
+    <Inclusion_agemax>80Y
+    </Inclusion_agemax>
+    <Inclusion_gender>-
+    </Inclusion_gender>
+    <Date_enrollement>01/08/2018
+    </Date_enrollement>
+    <Target_size/>
+    <Study_type>Intervention
+    </Study_type>
+    <Study_design>Treatment clinical trial, randomized, controlled, double blind, parallel, 4 intervention arms.
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>Brazil
+    </Countries>
+    <Contact_Firstname>Maíra 
+    </Contact_Firstname>
+    <Contact_Lastname>Lopes
+    </Contact_Lastname>
+    <Contact_Address>Cidade Universitária
+    </Contact_Address>
+    <Contact_Email>mairalopesc@gmail.com
+    </Contact_Email>
+    <Contact_Tel>+55(83)987621343
+    </Contact_Tel>
+    <Contact_Affiliation>Universidade Federal da Paraiba
+    </Contact_Affiliation>
+    <Inclusion_Criteria>Inclusion criteria: The study included individuals with clinical diagnosis of PD, of both sexes, with clinical diagnosis of PD, with staging of PD between 1 and 3 on the Hoehn and Modified Yahr scale, who are assisted by SUS, and who agree to participate in the study.
+    </Inclusion_Criteria>
+    <Exclusion_Criteria>Exclusion criteria: Excluded from this study were: Individuals with PD associated with another chronic neurodegenerative disease; diagnosed with parkinsonian syndrome; individuals with a history of epilepsy; carriers of another disabling condition; and to participate in other physical therapy interventions; have previous experience with Kinect; individuals with functional deficit that makes it impossible to perform the practice proposed by Kinect.
+    </Exclusion_Criteria>
+    <Condition>Parkinson Disease; Pathological conditions; signs and symptoms; Cognition; Motor Activity.;F02.463.188;F01.145.632
+    </Condition>
+    <Intervention>Allocation, randomization, evaluation and intervention procedures were performed by independent researchers who did not have access to each other's work.&lt;br&gt;Initially, 26 patients were recruited, 20 of which met the inclusion criteria of the study. Participants were randomly allocated to 1 of 4 groups at a 1: 1 ratio. A random number generator was used through an online randomization program (www.random.org). Blinding was also extended to participants who were unaware of the allocation group.&lt;br&gt;During the intervention period each group performed a total of 6 sessions over three consecutive days in two weeks, the group that underwent neurostimulation followed by gamma therapy and the session lasted one hour. The groups were divided as follows: group 1 received the active Transcranial Repetitive Magnetic Stimulation (rTMS) then underwent gameterapy ((n = 6), group 2 received the placebo rTMS followed by gameterapy (n = 6), the group 3 received active rTMS (n = 4) and group 4 received placebo rTMS only (n = 4).&lt;br&gt;&lt;br&gt;Active Repetitive Transcranine Magnetic Stimulation (rTMS)&lt;br&gt;The rTMS was performed using Neurosoft MS and MSD (Russia) equipment and the Miotec MIOTOOL 400 Electromyograph (EMG) with MiotecSuite 1.0 software, research version. The individuals were submitted to the following assembly: through the cortical mapping performed by the international system 10/20 (Jasper, 1958) which has as reference the head circumference and the ear lobes (biauricular) to identify M1 (C3) and SMA ( F3), the SMA was located sagittal 15% ahead of the Cz point of the cortical mapping. The coil used in the equipment was the format in eight. Then, the motor threshold (LM) was identified, which corresponds to the lowest stimulus intensity capable of generating a Motor Evoked Potentia;Other;E02.621.820
+    </Intervention>
+    <Primary_outcome>An increase in motor functional capacity is expected through the Unified Parkinson's Disease Rating Scale - UPDRS, from the finding of a variation with a significant difference (p &lt;0.05) in pre and post intervention measurements.&lt;br&gt;It is expected an increase in cognitive capacity verified through the Scales for Outcomes of Parkinson's Disease - Cognition - SCOPA-Cog, from the finding of a variation with a significant difference (p &lt;0.05) in the pre and post intervention measurements.;Through UPDRS, the motor functional capacity was evaluated. In the item falls of the evaluation instrument the results showed a significant improvement, with a value of&lt;br&gt;p = 0.0038. An intergroup analysis was developed to identify in which groups&lt;br&gt;there was improvement and it was identified that the Active Stimulation Group (GEA) and the Active Stimulation Group (p = 0.033) and median of 1 (0.25-1) and 0 (0-0) in the reevaluation, a result similar to that found in the Comparison between GEA and Gamete Therapy Simulated Stimulation Group reiterating the positive effect of active stimulation and gamotherapy for falls in individuals with PD&lt;br&gt;-Regarding gait, the results presented were assertive for the combination therapy with active rTMS when compared to the simulated stimulation group. We observed a value of p = 0.0069 for gait, when comparing the GEAG and Simulated Stimulation Group (GES), we also observed the following values of p = 0.0023, median of 0 (0-1) for the GEAG and median 1 (1-2) for GES.&lt;br&gt;-In the rapid and alternate movement of the hands, the individuals presented significant difference before and after the intervention with the value of p = 0.012 and for the comparison between the group. The GEAG and GES presented p = 0.019 with a median of 0 (0-1) for GEAG and a median of 2 (1-2) for GES;The cognitive capacity of the study subjects was performed using the SCOPA Scale.&lt;br&gt;-For the attention domain of the scalara the results presented a significance level with the value of p = 0.014 and in the comparison between groups the value of p = 0.095 for the GEAG and GES with median values 4 (3-4) and 1 (2 -3) respectively, showing improvements to attention.&lt;br&gt;-There was a significant improvement in the executive functions of the sample, with a value of p = 0.018 and in the comparison between the groups GEAG and the GES the individuals presented a value of p = 0.023 with a median of 8 (7-9) for the GEAG. and 5 (5-7) for GES.&lt;br&gt;-Visuospatial function showed a significant difference when comparing the GEAG and GES with p = 0.023 and median of 4 (4-5) for GEAG and GES of 2 (1-4)
+    </Primary_outcome>
+    <Secondary_outcome>No Secondary Outcomes Expected
+    </Secondary_outcome>
+    <Source_Support>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
+    </Source_Support>
+    <Secondary_Sponsor>Universidade Estadual da Paraíba
+    </Secondary_Sponsor>
+    <results_url_link/>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:49:44</Export_date>
+    <Internal_Number>13728082
+    </Internal_Number>
+    <TrialID>NL-OMON45367
+    </TrialID>
+    <Last_Refreshed_on>28 February 2024
+    </Last_Refreshed_on>
+    <Public_title>Guiding personalized treatments for Parkinson*s tremor with individual neuroimaging * an exploratory study
+    </Public_title>
+    <Scientific_title>Guiding personalized treatments for Parkinson*s tremor with individual neuroimaging * an exploratory study - Tremor fingerprints in Parkinson's disease                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+    </Scientific_title>
+    <Primary_sponsor>Neurologie
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20170503
+    </Date_registration3>
+    <Date_registration>2017-05-03
+    </Date_registration>
+    <Source_Register>NL-OMON
+    </Source_Register>
+    <web_address>https://onderzoekmetmensen.nl/en/trial/45367
+    </web_address>
+    <Recruitment_Status>Not Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18
+    </Inclusion_agemin>
+    <Inclusion_agemax>64
+    </Inclusion_agemax>
+    <Inclusion_gender/>
+    <Date_enrollement>2018-01-25
+    </Date_enrollement>
+    <Target_size>30
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Open (masking not used), Uncontrolled, Basic science
+    </Study_design>
+    <Phase>2
+    </Phase>
+    <Countries>The Netherlands
+    </Countries>
+    <Contact_Firstname/>
+    <Contact_Lastname/>
+    <Contact_Address>Reinier Postlaan 4
+    </Contact_Address>
+    <Contact_Email/>
+    <Contact_Tel/>
+    <Contact_Affiliation>Selecteer
+    </Contact_Affiliation>
+    <Inclusion_Criteria>Inclusion criteria: &lt;p&gt;- Idiopathic Parkinson*s disease according to UK brain bank criteria. &lt;br&gt;- Presence of a clear resting tremor of at least one arm (UPDRS tremor-score &gt; 2). &lt;br&gt;&lt;/p&gt;&#x0D;&lt;br&gt;
+    </Inclusion_Criteria>
+    <Exclusion_Criteria>Exclusion criteria: &lt;p&gt;- neuropsychiatric co-morbidity &lt;br&gt;- contraindications for MRI scanning (e.g. pacemaker, implanted metal parts, deep brain stimulation, claustrophobia) &lt;br&gt;- Severe head tremor or dyskinesias. &lt;br&gt;- Cognitive impairment (MMSE &lt; 26)&lt;/p&gt;&#x0D;&lt;br&gt;
+    </Exclusion_Criteria>
+    <Condition> &lt;br&gt;Parkinson's disease &lt;br&gt;tremor;10028037;Parkinson's disease;tremor
+    </Condition>
+    <Intervention>&lt;p&gt;The intervention involves TACS, which is a non-invasive, non-painful way of &lt;br&gt;stimulating underlying cortical brain tissue through electrodes applied to the &lt;br&gt;scalp. When applied rhythmically at the frequency of cortical oscillatory &lt;br&gt;activity, it can exert excitatory or inhibitory (depending on the phase) &lt;br&gt;effects on brain function. In this research, we will apply TACS over the motor &lt;br&gt;cortex contralateral to the tremulous hand, in the same frequency, and &lt;br&gt;phase-locked to, the ongoing tremor. There are three conditions: inhibitory &lt;br&gt;TACS (anti-phase), stimulating TACS (in-phase), and sham (no/fake stimulation). &lt;br&gt;TACS will be applied both outside and inside the MRI scanner, to test for the &lt;br&gt;effect on the tremor circuitry.&lt;/p&gt;&lt;br&gt;;fMRI;Parkinson;tDCS;tremor
+    </Intervention>
+    <Primary_outcome>&lt;p&gt;(1) Within-subjects reproducibility of tremor-related activity and connectivity&lt;br /&gt;&lt;br&gt;(*tremor fingerprint*; quantified using concurrent EMG-fMRI across two&lt;br /&gt;&lt;br&gt;different days); (2) Modulation of tremor-related activity and connectivity by&lt;br /&gt;&lt;br&gt;TACS (comparison of the three TACS conditions); (3) Modulation of tremor by&lt;br /&gt;&lt;br&gt;TACS (quantified using accelerometry), and its correlation with network&lt;br /&gt;&lt;br&gt;parameters derived from the tremor circuit (i.e. thalamo-cortical&lt;br /&gt;&lt;br&gt;connectivity). &lt;/p&gt;&lt;br&gt;
+    </Primary_outcome>
+    <Secondary_outcome>&lt;p&gt;Not applicable. See Primary outcome measure.&lt;/p&gt;&#x0D;&lt;br&gt;
+    </Secondary_outcome>
+    <Secondary_ID>NL60572.091.17
+    </Secondary_ID>
+    <Source_Support>ZonMw (Off Road subsidie)
+    </Source_Support>
+    <Ethics_review_status>Approved
+    </Ethics_review_status>
+    <Ethics_review_approval_date>03/05/2017
+    </Ethics_review_approval_date>
+    <Ethics_review_contact_name/>
+    <Ethics_review_contact_address/>
+    <Ethics_review_contact_phone/>
+    <Ethics_review_contact_email/>
+    <results_date_completed>07/09/2019
+    </results_date_completed>
+    <results_url_link/>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:49:44</Export_date>
+    <Internal_Number>13727991
+    </Internal_Number>
+    <TrialID>NL-OMON45276
+    </TrialID>
+    <Last_Refreshed_on>28 February 2024
+    </Last_Refreshed_on>
+    <Public_title>The cerebral mechanisms underlying dystonic and essential tremor: a multimodal network approach
+    </Public_title>
+    <Scientific_title>The cerebral mechanisms underlying dystonic and essential tremor: a multimodal network approach - Cerebral mechanisms in dystonic and essential tremor                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+    </Scientific_title>
+    <Primary_sponsor>Radboud Universitair Medisch Centrum
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20170406
+    </Date_registration3>
+    <Date_registration>2017-04-06
+    </Date_registration>
+    <Source_Register>NL-OMON
+    </Source_Register>
+    <web_address>https://onderzoekmetmensen.nl/en/trial/45276
+    </web_address>
+    <Recruitment_Status>Not Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18
+    </Inclusion_agemin>
+    <Inclusion_agemax>64
+    </Inclusion_agemax>
+    <Inclusion_gender/>
+    <Date_enrollement>2017-10-20
+    </Date_enrollement>
+    <Target_size>32
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Open (masking not used), Uncontrolled, Basic science
+    </Study_design>
+    <Phase/>
+    <Countries>The Netherlands
+    </Countries>
+    <Contact_Firstname/>
+    <Contact_Lastname/>
+    <Contact_Address>Reinier Postlaan 4
+    </Contact_Address>
+    <Contact_Email/>
+    <Contact_Tel/>
+    <Contact_Affiliation>Radboud Universitair Medisch Centrum
+    </Contact_Affiliation>
+    <Inclusion_Criteria>Inclusion criteria: &lt;p&gt;For essential tremor patients: &lt;br&gt;-Clinical diagnosis of essential tremor &lt;br&gt;-Postural tremor of both hands &lt;br&gt;-Onset of tremor before the age of 65 (to exclude pathophysiological heterogeneity caused by age-related tremor [15]);For dystonic tremor patients: &lt;br&gt;-Clinical diagnosis of dystonic tremor &lt;br&gt;-Primary focal / segmental dystonia &lt;br&gt;-Presence of postural tremor of at least one arm (which may or may not be the dystonic limb)&lt;/p&gt;&#x0D;&lt;br&gt;
+    </Inclusion_Criteria>
+    <Exclusion_Criteria>Exclusion criteria: &lt;p&gt;-Neurological co-morbidity &lt;br&gt;-Moderate to severe head tremor (to avoid artifacts caused by extensive head motion during scanning) &lt;br&gt;-Cognitive dysfunction (clinical diagnosis of mild cognitive impairment or dementia) &lt;br&gt;-MRI or TACS contraindications &lt;br&gt;&lt;/p&gt;&#x0D;&lt;br&gt;
+    </Exclusion_Criteria>
+    <Condition> &lt;br&gt;dystonia;10028037;dystonia
+    </Condition>
+    <Intervention>&lt;p&gt;The intervention involves transcranial alternating current stimulation (TACS), &lt;br&gt;which is a non-invasive, non-painful way of stimulating underlying cortical &lt;br&gt;brain tissue through electrodes applied to the scalp. When applied rhythmically &lt;br&gt;at the frequency of cortical oscillatory activity, it can exert powerful &lt;br&gt;excitatory or inhibitory (depending on the phase) effects on brain function.&lt;/p&gt;&lt;br&gt;;Dystonia;Essential tremor;Neuroscience;Tremor
+    </Intervention>
+    <Primary_outcome>&lt;p&gt;We will use concurrent EMG-fMRI to localize and compare tremor-related activity&lt;br /&gt;&lt;br&gt;between both groups (outcome #1) - an approach we have previously validated in&lt;br /&gt;&lt;br&gt;Parkinson*s tremor. &lt;/p&gt;&lt;br&gt;
+    </Primary_outcome>
+    <Secondary_outcome>&lt;p&gt;Given the hypothesized role of inhibitory GABA-ergic circuits in both tremor&lt;br /&gt;&#x0D;&lt;br&gt;types, we will use 3T magnetic resonance spectroscopy to compare GABA&lt;br /&gt;&#x0D;&lt;br&gt;concentrations in the internal globus pallidus, cerebellum, and motor cortex&lt;br /&gt;&#x0D;&lt;br&gt;between both groups (outcome #2). Also, we use a non-invasive, adaptive and&lt;br /&gt;&#x0D;&lt;br&gt;controlled brain stimulation approach (transcranial alternating current&lt;br /&gt;&#x0D;&lt;br&gt;stimulation; TACS) to test for the effect of inhibiting the motor cortex and&lt;br /&gt;&#x0D;&lt;br&gt;cerebellum on tremor intensity (accelerometry) and, for the cerebellum, on&lt;br /&gt;&#x0D;&lt;br&gt;tremor-related activity (EMG-fMRI) and (outcome #3). Previous research has&lt;br /&gt;&#x0D;&lt;br&gt;shown powerful modulatory influences of TACS on both Parkinson*s tremor and ET. &lt;/p&gt;&#x0D;&lt;br&gt;
+    </Secondary_outcome>
+    <Secondary_ID>NL60335.091.17
+    </Secondary_ID>
+    <Source_Support>Hersenstichting
+    </Source_Support>
+    <Ethics_review_status>Approved
+    </Ethics_review_status>
+    <Ethics_review_approval_date>06/04/2017
+    </Ethics_review_approval_date>
+    <Ethics_review_contact_name/>
+    <Ethics_review_contact_address/>
+    <Ethics_review_contact_phone/>
+    <Ethics_review_contact_email/>
+    <results_url_link/>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:49:44</Export_date>
+    <Internal_Number>13448438
+    </Internal_Number>
+    <TrialID>JPRN-UMIN000014287
+    </TrialID>
+    <Last_Refreshed_on>17 October 2023
+    </Last_Refreshed_on>
+    <Public_title>Research for objective evaluation of efficacy of anti-Parkinson&amp;#39;s drug with repetitive transcranial magneticstimulation in Parkinson&amp;#39;s disease
+    </Public_title>
+    <Scientific_title>Research for objective evaluation of efficacy of anti-Parkinson&amp;#39;s drug with repetitive transcranial magneticstimulation in Parkinson&amp;#39;s disease - objective evaluation of efficacy of anti-Parkinson&amp;#39;s drug with repetitive transcranial magnetic stimulation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+    </Scientific_title>
+    <Primary_sponsor>University of Tokyo Hospital
+    </Primary_sponsor>
+    <Retrospective_flag>No
+    </Retrospective_flag>
+    <Date_registration3>20140618
+    </Date_registration3>
+    <Date_registration>18/06/2014
+    </Date_registration>
+    <Source_Register>JPRN
+    </Source_Register>
+    <web_address>https://center6.umin.ac.jp/cgi-open-bin/ctr_e/ctr_view.cgi?recptno=R000016468
+    </web_address>
+    <Recruitment_Status>Not Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>20years-old
+    </Inclusion_agemin>
+    <Inclusion_agemax>Not applicable
+    </Inclusion_agemax>
+    <Inclusion_gender>Male and Female
+    </Inclusion_gender>
+    <Date_enrollement>2013/08/01
+    </Date_enrollement>
+    <Target_size>30
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Single arm Non-randomized
+    </Study_design>
+    <Phase>Not applicable
+    </Phase>
+    <Countries>Japan
+    </Countries>
+    <Contact_Firstname/>
+    <Contact_Lastname>Nobuyuki Tanaka
+    </Contact_Lastname>
+    <Contact_Address>7-3-1 Hongo, Bunkyo-ku
+    </Contact_Address>
+    <Contact_Email>ntanaka-kob@umin.ac.jp
+    </Contact_Email>
+    <Contact_Tel>03-3815-5411
+    </Contact_Tel>
+    <Contact_Affiliation>University of Tokyo Hospital Neurology
+    </Contact_Affiliation>
+    <Inclusion_Criteria>Inclusion criteria: 
+    </Inclusion_Criteria>
+    <Exclusion_Criteria>Exclusion criteria: In patients with internal metal such as cardiac pace maker, drug delivery pump or DBS, cerebral stroke, brain injury, brain tumor, epilepsy, psychiatric disorder, pregnant females, or those contemplating pregnancy.  And people whom the investigators evaluate as approved.
+    </Exclusion_Criteria>
+    <Condition>Parkinson&amp;#39;s disease.
+    </Condition>
+    <Intervention>Patients come two times separated by 1-8weeks. First time, patients before treatment or Off condition and at second time patients are On condition.   Before, repetitive magnetic stimulation for 30 min, MEPs and UPDRS are measured as the baseline activity. MEPs are also measured after rTMS for 1hours to evaluate cortical excitability change.
+    </Intervention>
+    <Primary_outcome>Amplitude of the motor evoked potentials(MEP)  UPDRS score
+    </Primary_outcome>
+    <Source_Support>Dinippon Sumitomo Pharma Co. Ltd
+    </Source_Support>
+    <Ethics_review_status>YES
+    </Ethics_review_status>
+    <Ethics_review_approval_date>01/01/1900
+    </Ethics_review_approval_date>
+    <Ethics_review_contact_name/>
+    <Ethics_review_contact_address/>
+    <Ethics_review_contact_phone/>
+    <Ethics_review_contact_email/>
+    <results_url_link/>
+    
+  </Trial>
+</Trials_downloaded_from_ICTRP>

@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<Trials_downloaded_from_ICTRP>
+
+    
+  <Trial><Export_date>03/02/2024 23:54:14</Export_date>
+    <Internal_Number>13465217
+    </Internal_Number>
+    <TrialID>JPRN-UMIN000031138
+    </TrialID>
+    <Last_Refreshed_on>17 October 2023
+    </Last_Refreshed_on>
+    <Public_title>Feasibility study to evaluate the safety and effectiveness of radiofrequency ablation of the palidothalamic tract for the treatment of Parkinson&amp;#39;s disease
+    </Public_title>
+    <Scientific_title>Feasibility study to evaluate the safety and effectiveness of radiofrequency ablation of the palidothalamic tract for the treatment of Parkinson&amp;#39;s disease - Feasibility study of pallidothalamic tractotomy for Parkinson&amp;#39;s disease                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+    </Scientific_title>
+    <Primary_sponsor>Tokyo Women&amp;#39;s Medical University
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20180205
+    </Date_registration3>
+    <Date_registration>05/02/2018
+    </Date_registration>
+    <Source_Register>JPRN
+    </Source_Register>
+    <web_address>https://center6.umin.ac.jp/cgi-open-bin/ctr_e/ctr_view.cgi?recptno=R000035571
+    </web_address>
+    <Recruitment_Status>Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>20years-old
+    </Inclusion_agemin>
+    <Inclusion_agemax>80years-old
+    </Inclusion_agemax>
+    <Inclusion_gender>Male and Female
+    </Inclusion_gender>
+    <Date_enrollement>2018/02/05
+    </Date_enrollement>
+    <Target_size>20
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Single arm Non-randomized
+    </Study_design>
+    <Phase>Not selected
+    </Phase>
+    <Countries>Japan
+    </Countries>
+    <Contact_Firstname/>
+    <Contact_Lastname>Shiro Horisawa
+    </Contact_Lastname>
+    <Contact_Address>8-1 Kawada-cho, Shinjuku-ku, Tokyo
+    </Contact_Address>
+    <Contact_Email>neurosurgery0222@gmail.com
+    </Contact_Email>
+    <Contact_Tel>03-3353-8111
+    </Contact_Tel>
+    <Contact_Affiliation>Tokyo Women&amp;#39;s Medical University Department of Neurosurgery
+    </Contact_Affiliation>
+    <Inclusion_Criteria>Inclusion criteria: 
+    </Inclusion_Criteria>
+    <Exclusion_Criteria>Exclusion criteria: not suitable conditions for surgical intervention
+    </Exclusion_Criteria>
+    <Condition>Parkinson&amp;#39;s disease
+    </Condition>
+    <Intervention>Radiofrequency ablation
+    </Intervention>
+    <Primary_outcome>UPDRS score
+    </Primary_outcome>
+    <Secondary_outcome>PDQ-39  SF36  BAI/BDI  AES  FAB  MMSE  Video assessment
+    </Secondary_outcome>
+    <Source_Support>NA
+    </Source_Support>
+    <Ethics_review_status>YES
+    </Ethics_review_status>
+    <Ethics_review_approval_date>01/01/1900
+    </Ethics_review_approval_date>
+    <Ethics_review_contact_name/>
+    <Ethics_review_contact_address/>
+    <Ethics_review_contact_phone/>
+    <Ethics_review_contact_email/>
+    <results_url_link/>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:54:14</Export_date>
+    <Internal_Number>13457761
+    </Internal_Number>
+    <TrialID>JPRN-UMIN000023639
+    </TrialID>
+    <Last_Refreshed_on>17 October 2023
+    </Last_Refreshed_on>
+    <Public_title>A Study to Evaluate the Effectiveness and Safety of ExAblate Transcranial MRgFUS  Thalamotomy Treatment of Medication  Refractory Essential Tremor Subjects
+    </Public_title>
+    <Scientific_title>A Study to Evaluate the Effectiveness and Safety of ExAblate Transcranial MRgFUS  Thalamotomy Treatment of Medication  Refractory Essential Tremor Subjects - Transcranial MRgFUS Thalamotomy on   Essential Tremor Subjects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+    </Scientific_title>
+    <Primary_sponsor>Departments of Neurology and Neurosurgery,  Hokuto Hospital
+    </Primary_sponsor>
+    <Retrospective_flag>No
+    </Retrospective_flag>
+    <Date_registration3>20170101
+    </Date_registration3>
+    <Date_registration>01/01/2017
+    </Date_registration>
+    <Source_Register>JPRN
+    </Source_Register>
+    <web_address>https://center6.umin.ac.jp/cgi-open-bin/ctr_e/ctr_view.cgi?recptno=R000027204
+    </web_address>
+    <Recruitment_Status>Not Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>22years-old
+    </Inclusion_agemin>
+    <Inclusion_agemax>Not applicable
+    </Inclusion_agemax>
+    <Inclusion_gender>Male and Female
+    </Inclusion_gender>
+    <Date_enrollement>2015/03/01
+    </Date_enrollement>
+    <Target_size>10
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Single arm Non-randomized
+    </Study_design>
+    <Phase>Not selected
+    </Phase>
+    <Countries>Japan
+    </Countries>
+    <Contact_Firstname/>
+    <Contact_Lastname>Yu-ichi Tsutsumi
+    </Contact_Lastname>
+    <Contact_Address>7-5, Kisen, Inada-machi, Obihiro City, Hokkaido
+    </Contact_Address>
+    <Contact_Email>tsutsumi@hokuto7.or.jp
+    </Contact_Email>
+    <Contact_Tel>0155488000
+    </Contact_Tel>
+    <Contact_Affiliation>Hokuto Hospital Employee Relations Division
+    </Contact_Affiliation>
+    <Inclusion_Criteria>Inclusion criteria: 
+    </Inclusion_Criteria>
+    <Exclusion_Criteria>Exclusion criteria: 1. Subjects with unstable cardiac status  2. Subjects exhibiting any behaviors consistent with ethanol or substance abuse  3. Severe hypertension  4. Subjects with standard contraindications for MR imaging  5. Known intolerance or allergies to the MRI contrast agent  6. Patient with severely impaired renal function and/or who is on dialysis  7. History of abnormal bleeding and/or coagulopathy  8. Receiving anticoagulant or antiplatelet therapy within one week of focused ultrasound procedure or drugs known to increase risk or hemorrhage within one month of focused ultrasound procedure   9. Active or suspected acute or chronic uncontrolled infection  10. History of immunocompromise including those who are HIV positive  11. History of intracranial hemorrhage  12. Cerebrovascular disease  13. Subjects with uncontrolled symptoms and signs of increased intracranial pressure   14. Presence of any other neurodegenerative disease such as Parkinson-plus syndromes suspected on neurological examination       15. Anyone suspected to have the diagnosis of idiopathic Parkinson&amp;#39;s disease   16. Presence of significant cognitive impairment   17. Subjects with life-threatening systemic disease   18. Subjects with a history of seizures within the past year  19. Subjects with presence or history of psychosis. Subjects with significant or active mood disorders including depression   20. Subjects with risk factors for intraoperative or postoperative bleeding  21. Subjects with brain tumors   22. Pregnancy or lactation   23. Subjects who have had deep brain stimulation or a prior stereotactic ablation of the basal ganglia  24. Subjects who have been administered botulinum toxins for 5 months prior to Baseline  25. Subjects who have an Overall Skull Density Ratio of 0.35 or less as calculated from the screening CT
+    </Exclusion_Criteria>
+    <Condition>Essential Tremor
+    </Condition>
+    <Intervention>ExAblate MR Guided Focused Ultrasound is an attractive modality for non-invasive thermal ablation of soft tissue tumors [1-6].  Treatment begins by acquiring a series of MR images of the target tissue. The physician then reviews the images on the ExAblate system workstation, identifies a target volume on the MR images, delineates the treatment contours on the images, and reviews the treatment plan. Therapy planning software calculates the parameters required to effectively treat the defined region. During the treatment, an ultrasound transducer generates a point of focused ultrasound energy, called a sonication.  The sonication raises the tissue temperature within a well-defined region, causing a thermal coagulation effect. MR images acquired during sonication provide a quantitative, real-time temperature map of the entire field-of-view around the target area to confirm the location of the sonication and the size of the coagulated region. The sonication process is repeated at multiple adjacent points to cover the entire prescribed treatment volume.
+    </Intervention>
+    <Primary_outcome>1. Safety   Safety of ExAblate will be determined by an evaluation of the incidence and severity of device / treatment related complications from the first treatment day visit through ALL study follow ups. Adverse events (type, frequency, severity) are expected to be similar to those of previous studies using ExAblate TcMRgFUS for Thalamotomy.   All AEs will be reported and categorized by investigators as definitely, probably, possibly, or unrelated to the device or procedure and categorized by treatment group / treatment arm.     2. Effectiveness     Primary effectiveness will be evaluated using a validated, tremor rating scale: the Clinical Rating Scale for Tremors (CRST) for ET subjects, based upon subjects in whom unilateral ExAblate lesioning is attempted (i.e., Intent-to-Treat analysis).     Clinical assessments will be made at the following time points:  screening, baseline with subjects on confirmed stable medication (at 1-months post screening), and post-treatment at 1 week, 1 month, 3 months, 6 months, and 12 months.
+    </Primary_outcome>
+    <Secondary_outcome>1. Quality life claims: Questionnaire for Essential Tremor (QUEST) outcome (upper extremity questions) at Months 3 change from Baseline    2. Durability (as measured by QUEST upper arm extremity questions) of the procedure as reflected by the efficacy data through change from baseline measures through Month 12 follow up     3. Subject daily functionalities: as measured by CRST Part-C (subscales) Month 12 as compared to Baseline
+    </Secondary_outcome>
+    <Source_Support>InSightec
+    </Source_Support>
+    <Ethics_review_status>YES
+    </Ethics_review_status>
+    <Ethics_review_approval_date>01/01/1900
+    </Ethics_review_approval_date>
+    <Ethics_review_contact_name/>
+    <Ethics_review_contact_address/>
+    <Ethics_review_contact_phone/>
+    <Ethics_review_contact_email/>
+    <results_date_completed>31/12/2016
+    </results_date_completed>
+    <results_url_link/>
+    
+  </Trial>
+</Trials_downloaded_from_ICTRP>

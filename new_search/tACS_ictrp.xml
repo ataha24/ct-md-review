@@ -2,7 +2,7 @@
 <Trials_downloaded_from_ICTRP>
 
     
-  <Trial><Export_date>02/03/2024 14:33:48</Export_date>
+  <Trial><Export_date>03/02/2024 23:28:02</Export_date>
     <Internal_Number>12776696
     </Internal_Number>
     <TrialID>NCT05678725
@@ -74,7 +74,78 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:33:48</Export_date>
+  <Trial><Export_date>03/02/2024 23:28:02</Export_date>
+    <Internal_Number>12586850
+    </Internal_Number>
+    <TrialID>NCT05557786
+    </TrialID>
+    <Last_Refreshed_on>17 October 2022
+    </Last_Refreshed_on>
+    <Public_title>Treatment of Transcranial Alternating Current Stimulation(tACS)on Cerebellar Ataxia
+    </Public_title>
+    <Scientific_title>The Treatment of Transcranial Alternating Current Stimulation(tACS)on Patients With Cerebellar Ataxia: A Randomized, Triple-blind, Parallel-controlled Study
+    </Scientific_title>
+    <Acronym/>
+    <Primary_sponsor>First Affiliated Hospital of Fujian Medical University
+    </Primary_sponsor>
+    <Retrospective_flag>No
+    </Retrospective_flag>
+    <Date_registration3>20220924
+    </Date_registration3>
+    <Date_registration>24/09/2022
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/show/NCT05557786
+    </web_address>
+    <Recruitment_Status>Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>80 Years
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>August 1, 2022
+    </Date_enrollement>
+    <Target_size>164
+    </Target_size>
+    <Study_type>Observational
+    </Study_type>
+    <Study_design/>
+    <Phase/>
+    <Countries>China
+    </Countries>
+    <Contact_Firstname> ; 
+    </Contact_Firstname>
+    <Contact_Lastname>Shi-Rui Gan, MD, PhD;Shi-Rui Gan, MD.Phd
+    </Contact_Lastname>
+    <Contact_Email>ganshirui@fjmu.edu.cn;ganshirui@fjmu.edu.cn
+    </Contact_Email>
+    <Contact_Tel>0591-87982772;+8613850172725
+    </Contact_Tel>
+    <Contact_Affiliation/>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  for SCA3&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;               -  Patients with detectable clinical signs and confirmed genetic diagnosis with SCA3&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;               -  SCA3 patients aged 18 - 80 years&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;               -  Patients or their family members have informed consent to the study and signed&#x0D;&lt;br&gt;                  relevant documents&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;               -  The pre-study ataxia Assessment Score (SARA) ranged from 3 to 30&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  for MSA-C&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;               -  Aged 30-80 years&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;               -  Diagnosed as clinically determined (Established)MSA-C or clinically Probable&#x0D;&lt;br&gt;                  MSA-C according to the latest MSA diagnostic criteria&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;               -  No more than 4 years after diagnosis of MSA-C&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;               -  Able to walk independently or with assistance&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;               -  Have a life expectancy of at least 3 years&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;               -  Women of childbearing age with MSA need to use contraceptive measures&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          1. Patients who have concomitant epilepsy.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          2. Patients with a serious cognitive disorder, behavioral disorder, or mental illness&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          3. Patients with a history of seizures, stroke, encephalitis, or other degenerative&#x0D;&lt;br&gt;             neurological diseases&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          4. Patients with a serious medical disease&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;               -  Patients who concomitantly suffer from severe renal impairment, convulsions,&#x0D;&lt;br&gt;                  stomach ulcers, or moderate or more severe liver disease&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;               -  Patients with uncontrolled high blood pressure or diabetes&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          5. History of head injury or neurosurgical interventions.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          6. History of any metal in the head (outside the mouth).&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          7. Known history of any metallic particles in the eye, implanted cardiac pacemaker,&#x0D;&lt;br&gt;             implanted neurostimulators, surgical clips (above the shoulder line), or any medical&#x0D;&lt;br&gt;             pumps.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          8. Patients who have taken other investigational products within 4 weeks before being&#x0D;&lt;br&gt;             enrolled in this clinical trial, or patients who are pregnant or breastfeeding.&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Spinocerebellar Ataxia Type 3;Multiple System Atrophy-cerebellar Type
+    </Condition>
+    <Intervention>Device: Transcranial Alternating Current Stimulation
+    </Intervention>
+    <Primary_outcome>Changes in Ataxia symptoms (Scale for the Assessment and Rating of Ataxia (SARA));Changes of Clinical Evaluation from UMSARS (Unified Multiple System Atrophy Rating Scale) (only for MSA-C)
+    </Primary_outcome>
+    <Secondary_outcome>Changes in the International Cooperative Ataxia Rating Scale (ICARS) Score From Baseline;Changes in the Scale for the Assessment and Rating of Ataxia (SARA) Score From Baseline;Changes in the 9 Hole Peg Test (9HPT) Score From Baseline;Hand Grip Strength;Pittsburgh Sleep Quality Index (PSQI);Epworth score;Montreal Cognitive Assessment (MoCA);Mini-Mental State Examination (MMSE);Hamilton Anxiety Scale (HAMA);Hamilton Depression Scale (HAMD);Changes From Baseline in 5 Level EQ-5D (EQ-5D-5L);Multiple System Atrophy Quality of Life (MSA-QoL) Score;Spatiotemporal dynamic changes measured with electroencephalography (EEG);Changes from temporospatial parameters of gait;Changes in Neuroimage changes in Magnetic Resonance Imaging (MRI)
+    </Secondary_outcome>
+    <Secondary_ID>MRCTA, ECFAH of FMU[2022]399
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:28:02</Export_date>
     <Internal_Number>11897258
     </Internal_Number>
     <TrialID>NCT05220449
@@ -148,7 +219,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:33:48</Export_date>
+  <Trial><Export_date>03/02/2024 23:28:02</Export_date>
     <Internal_Number>13645400
     </Internal_Number>
     <TrialID>DRKS00024035
@@ -237,7 +308,445 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:33:48</Export_date>
+  <Trial><Export_date>03/02/2024 23:28:02</Export_date>
+    <Internal_Number>10374067
+    </Internal_Number>
+    <TrialID>NCT04509349
+    </TrialID>
+    <Last_Refreshed_on>12 December 2020
+    </Last_Refreshed_on>
+    <Public_title>Alternating Current Stimulation for Essential Tremor
+    </Public_title>
+    <Scientific_title>Alternating Current Stimulation for Essential Tremor: a Pilot Study to Identify the Most Promising Strategy
+    </Scientific_title>
+    <Acronym/>
+    <Primary_sponsor>University of Calgary
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20200720
+    </Date_registration3>
+    <Date_registration>20/07/2020
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/show/NCT04509349
+    </web_address>
+    <Recruitment_Status>Not recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>N/A
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>October 1, 2020
+    </Date_enrollement>
+    <Target_size>30
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: Randomized. Intervention model: Parallel Assignment. Primary purpose: Treatment. Masking: Single (Outcomes Assessor). 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Contact_Firstname> ; 
+    </Contact_Firstname>
+    <Contact_Lastname>Davide Martino, MD, PhD;Elaheh NosratMirshekarlou, MSc
+    </Contact_Lastname>
+    <Contact_Email>;elaheh.nosratmirshek@ucalgary.ca
+    </Contact_Email>
+    <Contact_Tel>;0014032106876
+    </Contact_Tel>
+    <Contact_Affiliation>Department of Clinical Neurosciences, University of Calgary;
+    </Contact_Affiliation>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Participants who meet Diagnostic and Statistical Manual of Mental Disorders criteria&#x0D;&lt;br&gt;             for ET (APA, DSM V).&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  18 years of age or older.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Participants should be either un-medicated or on stable medication treatment for&#x0D;&lt;br&gt;             tremor for the previous 3 months.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Psychiatric comorbidities should be clinically stable; treatment has not changed in&#x0D;&lt;br&gt;             the last 3 months.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Have a metal object/implant in their brain, skull, scalp, or neck.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Have an implantable device (e.g., cardiac pacemaker).&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Have a diagnosis of epilepsy or cardiac disease.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Have a history of traumatic brain injury, learning disability or dyslexia.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Have a severe impediment in vision or hearing.&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Essential Tremor
+    </Condition>
+    <Intervention>Device: transcranial Altering Current Stimulation;Device: Sham tACS
+    </Intervention>
+    <Primary_outcome>Essential Tremor Severity Change
+    </Primary_outcome>
+    <Secondary_ID>REB20-0889
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:28:02</Export_date>
+    <Internal_Number>10339943
+    </Internal_Number>
+    <TrialID>NCT04065022
+    </TrialID>
+    <Last_Refreshed_on>12 December 2020
+    </Last_Refreshed_on>
+    <Public_title>The Trans-cutaneous Effects on Physiological Tremor Entertainment During tACS
+    </Public_title>
+    <Scientific_title>The Trans-cutaneous Effects on Physiological Tremor Entertainment During tACS
+    </Scientific_title>
+    <Acronym/>
+    <Primary_sponsor>KU Leuven
+    </Primary_sponsor>
+    <Retrospective_flag>No
+    </Retrospective_flag>
+    <Date_registration3>20190205
+    </Date_registration3>
+    <Date_registration>05/02/2019
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/show/NCT04065022
+    </web_address>
+    <Recruitment_Status>Not recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>N/A
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>June 20, 2017
+    </Date_enrollement>
+    <Target_size>22
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: Randomized. Intervention model: Parallel Assignment. Primary purpose: Basic Science. Masking: Single (Outcomes Assessor). 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>Belgium
+    </Countries>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Above 18&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Signed informed consents&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Pregnancy&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  History of Epilepsy&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Family history of Epilepsy&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Tremor, Limb
+    </Condition>
+    <Intervention>Device: tACS at tremor frequency
+    </Intervention>
+    <Primary_outcome>Change in tremor-stimulation phase entrainment- Session 1;Change in tremor-stimulation phase entrainment- Session 2;Change in tremor-stimulation phase entrainment- Session 3
+    </Primary_outcome>
+    <Secondary_outcome>Sensation rating;Sensation threshold
+    </Secondary_outcome>
+    <Secondary_ID>S57869-1
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:28:02</Export_date>
+    <Internal_Number>13748460
+    </Internal_Number>
+    <TrialID>NL-OMON29165
+    </TrialID>
+    <Last_Refreshed_on>28 February 2024
+    </Last_Refreshed_on>
+    <Public_title>Tremor in Dystonia and Essential tremor.
+    </Public_title>
+    <Scientific_title>The cerebral mechanisms underlying dystonic and essential tremor: a multimodal network approach                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+    </Scientific_title>
+    <Primary_sponsor>Donders Institute for Brain, Cognition and Behaviour. Centre for Cognitive Neuroimaging.&#x0D;
+Kapittelweg 29 6525 EN Nijmegen
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20171130
+    </Date_registration3>
+    <Date_registration>2017-11-30
+    </Date_registration>
+    <Source_Register>NL-OMON
+    </Source_Register>
+    <web_address>https://onderzoekmetmensen.nl/en/trial/29165
+    </web_address>
+    <Recruitment_Status>Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin/>
+    <Inclusion_agemax/>
+    <Inclusion_gender/>
+    <Date_enrollement>2017-12-01
+    </Date_enrollement>
+    <Target_size>32
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Non-randomized controlled trial, Single blinded (masking used), Active, Crossover
+    </Study_design>
+    <Phase/>
+    <Contact_Firstname>Freek 
+    </Contact_Firstname>
+    <Contact_Lastname>Nieuwhof
+    </Contact_Lastname>
+    <Contact_Address/>
+    <Contact_Email>freek.nieuwhof@radboudumc.nl
+    </Contact_Email>
+    <Contact_Tel/>
+    <Contact_Affiliation/>
+    <Inclusion_Criteria>Inclusion criteria: Essential tremor: &lt;br /&gt;&lt;br&gt;-Clinical diagnosis of essential tremor&lt;br /&gt;&lt;br&gt;-Postural tremor of both hands&lt;br /&gt;&lt;br&gt;-Onset of tremor before the age of 65&lt;br&gt;&lt;br&gt;Dystonic tremor:&lt;br&gt;-Clinical diagnosis of dystonic tremor&lt;br&gt;-Primary focal / segmental dystonia&lt;br&gt;-Presence of postural tremor of at least one arm (which may or may not be the dystonic limb)
+    </Inclusion_Criteria>
+    <Exclusion_Criteria>Exclusion criteria: -Neurological co-morbidity&lt;br /&gt;&lt;br&gt;-Moderate to severe head tremor (to avoid artifacts caused by extensive head motion during scanning)&lt;br /&gt;&lt;br&gt;-Cognitive dysfunction (clinical diagnosis of mild cognitive impairment or dementia)&lt;br /&gt;&lt;br&gt;-Considerable diagnostic doubt between essential and dystonic tremor (no consensus reached in team meetings neurologists or considerable doubt in medical record).&lt;br /&gt;&lt;br&gt;-Use of anti-tremor medication other than propranolol&lt;br /&gt;&lt;br&gt;-Any contraindications for MRI or transcranial stimulation (e.g. non compatible metal implants, epilepsy, active implants).
+    </Exclusion_Criteria>
+    <Condition>English: Dystonic tremor, Dystonia, Essential tremor, tacs&#x0D;
+Dutch: Tremor bij Dystonie, Dystonie, Essentiële tremor, tacs, beven
+    </Condition>
+    <Intervention>Transcranial alternating current stimulation (tacs) over primary motor cortex and cerebellum at tremor frequency and phase locked to ongoing tremor (as measured with accelerometry). &lt;br /&gt;Stimulation during 20 blocks of 30s, at 18 degree phase difference increments around the phase circle (random ordering, phase difference between ongoing tremor and tacs).
+    </Intervention>
+    <Primary_outcome>1) phase specific tremor power suppression during M1 tacs, in ET vs DT&lt;br /&gt;&lt;br&gt;2) phase specific tremor power suppression during  Cerebellar tacs, in ET vs DT&lt;br /&gt;&lt;br&gt;3) Phase specific tremor related cerebral activity during cerebellar tacs, in ET vs DT 
+    </Primary_outcome>
+    <Secondary_outcome>-Tremor related cerebral activity and connectivity, compared between dystonic and essential tremor.&lt;br /&gt;&lt;br&gt;-GABA concentrations in GPi, cerebellum and primary motor cortex, compared between dystonic and essential tremor.&lt;br /&gt;&lt;br&gt;&lt;br&gt;
+    </Secondary_outcome>
+    <Secondary_ID>NL6686;NTR6856;NL60335.091.17 : HA2016-02-01
+    </Secondary_ID>
+    <Source_Support>Hersenstichting (Dutch brain foundation)
+    </Source_Support>
+    <Ethics_review_status>Approved
+    </Ethics_review_status>
+    <Ethics_review_approval_date>30/11/2017
+    </Ethics_review_approval_date>
+    <Ethics_review_contact_name/>
+    <Ethics_review_contact_address/>
+    <Ethics_review_contact_phone/>
+    <Ethics_review_contact_email/>
+    <results_url_link/>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:28:02</Export_date>
+    <Internal_Number>6695410
+    </Internal_Number>
+    <TrialID>NCT03337334
+    </TrialID>
+    <Last_Refreshed_on>16 December 2017
+    </Last_Refreshed_on>
+    <Public_title>Effects of High Amplitude and Focused tACS on Entraining Physiological Tremor
+    </Public_title>
+    <Scientific_title>Effects of High Amplitude and Focused tACS on Entraining Physiological Tremor
+    </Scientific_title>
+    <Acronym/>
+    <Primary_sponsor>Katholieke Universiteit Leuven
+    </Primary_sponsor>
+    <Retrospective_flag>No
+    </Retrospective_flag>
+    <Date_registration3>20171101
+    </Date_registration3>
+    <Date_registration>01/11/2017
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/show/NCT03337334
+    </web_address>
+    <Recruitment_Status>Not recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>N/A
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>June 2016
+    </Date_enrollement>
+    <Target_size>23
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: Randomized. Intervention model: Parallel Assignment. Primary purpose: Basic Science. Masking: Single (Outcomes Assessor). 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Above 18&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  signed informed written consent&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Pregnancy&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  History of Epilepsy&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Family history of Epilepsy&#x0D;&lt;br&gt;      ;&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Above 18&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  signed informed written consent&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Pregnancy&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  History of Epilepsy&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Family history of Epilepsy&#x0D;&lt;br&gt;      ;&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Above 18&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  signed informed written consent&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Pregnancy&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  History of Epilepsy&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Family history of Epilepsy&#x0D;&lt;br&gt;      ;&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Above 18&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  signed informed written consent&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Pregnancy&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  History of Epilepsy&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Family history of Epilepsy&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Tremor, Limb;Tremor, Limb;Tremor, Limb;Tremor, Limb
+    </Condition>
+    <Intervention>Device: tACS at tremor frequency;Device: tACS at tremor frequency;Device: tACS at tremor frequency;Device: tACS at tremor frequency
+    </Intervention>
+    <Primary_outcome>Tremor-stimulation phase entrainment;Tremor-stimulation phase entrainment;Tremor-stimulation phase entrainment
+    </Primary_outcome>
+    <Secondary_outcome>Phosphene rating;Phosphene threshold
+    </Secondary_outcome>
+    <Secondary_ID>S57869
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:28:02</Export_date>
+    <Internal_Number>13728082
+    </Internal_Number>
+    <TrialID>NL-OMON45367
+    </TrialID>
+    <Last_Refreshed_on>28 February 2024
+    </Last_Refreshed_on>
+    <Public_title>Guiding personalized treatments for Parkinson*s tremor with individual neuroimaging * an exploratory study
+    </Public_title>
+    <Scientific_title>Guiding personalized treatments for Parkinson*s tremor with individual neuroimaging * an exploratory study - Tremor fingerprints in Parkinson's disease                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+    </Scientific_title>
+    <Primary_sponsor>Neurologie
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20170503
+    </Date_registration3>
+    <Date_registration>2017-05-03
+    </Date_registration>
+    <Source_Register>NL-OMON
+    </Source_Register>
+    <web_address>https://onderzoekmetmensen.nl/en/trial/45367
+    </web_address>
+    <Recruitment_Status>Not Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18
+    </Inclusion_agemin>
+    <Inclusion_agemax>64
+    </Inclusion_agemax>
+    <Inclusion_gender/>
+    <Date_enrollement>2018-01-25
+    </Date_enrollement>
+    <Target_size>30
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Open (masking not used), Uncontrolled, Basic science
+    </Study_design>
+    <Phase>2
+    </Phase>
+    <Countries>The Netherlands
+    </Countries>
+    <Contact_Firstname/>
+    <Contact_Lastname/>
+    <Contact_Address>Reinier Postlaan 4
+    </Contact_Address>
+    <Contact_Email/>
+    <Contact_Tel/>
+    <Contact_Affiliation>Selecteer
+    </Contact_Affiliation>
+    <Inclusion_Criteria>Inclusion criteria: &lt;p&gt;- Idiopathic Parkinson*s disease according to UK brain bank criteria. &lt;br&gt;- Presence of a clear resting tremor of at least one arm (UPDRS tremor-score &gt; 2). &lt;br&gt;&lt;/p&gt;&#x0D;&lt;br&gt;
+    </Inclusion_Criteria>
+    <Exclusion_Criteria>Exclusion criteria: &lt;p&gt;- neuropsychiatric co-morbidity &lt;br&gt;- contraindications for MRI scanning (e.g. pacemaker, implanted metal parts, deep brain stimulation, claustrophobia) &lt;br&gt;- Severe head tremor or dyskinesias. &lt;br&gt;- Cognitive impairment (MMSE &lt; 26)&lt;/p&gt;&#x0D;&lt;br&gt;
+    </Exclusion_Criteria>
+    <Condition> &lt;br&gt;Parkinson's disease &lt;br&gt;tremor;10028037;Parkinson's disease;tremor
+    </Condition>
+    <Intervention>&lt;p&gt;The intervention involves TACS, which is a non-invasive, non-painful way of &lt;br&gt;stimulating underlying cortical brain tissue through electrodes applied to the &lt;br&gt;scalp. When applied rhythmically at the frequency of cortical oscillatory &lt;br&gt;activity, it can exert excitatory or inhibitory (depending on the phase) &lt;br&gt;effects on brain function. In this research, we will apply TACS over the motor &lt;br&gt;cortex contralateral to the tremulous hand, in the same frequency, and &lt;br&gt;phase-locked to, the ongoing tremor. There are three conditions: inhibitory &lt;br&gt;TACS (anti-phase), stimulating TACS (in-phase), and sham (no/fake stimulation). &lt;br&gt;TACS will be applied both outside and inside the MRI scanner, to test for the &lt;br&gt;effect on the tremor circuitry.&lt;/p&gt;&lt;br&gt;;fMRI;Parkinson;tDCS;tremor
+    </Intervention>
+    <Primary_outcome>&lt;p&gt;(1) Within-subjects reproducibility of tremor-related activity and connectivity&lt;br /&gt;&lt;br&gt;(*tremor fingerprint*; quantified using concurrent EMG-fMRI across two&lt;br /&gt;&lt;br&gt;different days); (2) Modulation of tremor-related activity and connectivity by&lt;br /&gt;&lt;br&gt;TACS (comparison of the three TACS conditions); (3) Modulation of tremor by&lt;br /&gt;&lt;br&gt;TACS (quantified using accelerometry), and its correlation with network&lt;br /&gt;&lt;br&gt;parameters derived from the tremor circuit (i.e. thalamo-cortical&lt;br /&gt;&lt;br&gt;connectivity). &lt;/p&gt;&lt;br&gt;
+    </Primary_outcome>
+    <Secondary_outcome>&lt;p&gt;Not applicable. See Primary outcome measure.&lt;/p&gt;&#x0D;&lt;br&gt;
+    </Secondary_outcome>
+    <Secondary_ID>NL60572.091.17
+    </Secondary_ID>
+    <Source_Support>ZonMw (Off Road subsidie)
+    </Source_Support>
+    <Ethics_review_status>Approved
+    </Ethics_review_status>
+    <Ethics_review_approval_date>03/05/2017
+    </Ethics_review_approval_date>
+    <Ethics_review_contact_name/>
+    <Ethics_review_contact_address/>
+    <Ethics_review_contact_phone/>
+    <Ethics_review_contact_email/>
+    <results_date_completed>07/09/2019
+    </results_date_completed>
+    <results_url_link/>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:28:02</Export_date>
+    <Internal_Number>13727991
+    </Internal_Number>
+    <TrialID>NL-OMON45276
+    </TrialID>
+    <Last_Refreshed_on>28 February 2024
+    </Last_Refreshed_on>
+    <Public_title>The cerebral mechanisms underlying dystonic and essential tremor: a multimodal network approach
+    </Public_title>
+    <Scientific_title>The cerebral mechanisms underlying dystonic and essential tremor: a multimodal network approach - Cerebral mechanisms in dystonic and essential tremor                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+    </Scientific_title>
+    <Primary_sponsor>Radboud Universitair Medisch Centrum
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20170406
+    </Date_registration3>
+    <Date_registration>2017-04-06
+    </Date_registration>
+    <Source_Register>NL-OMON
+    </Source_Register>
+    <web_address>https://onderzoekmetmensen.nl/en/trial/45276
+    </web_address>
+    <Recruitment_Status>Not Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18
+    </Inclusion_agemin>
+    <Inclusion_agemax>64
+    </Inclusion_agemax>
+    <Inclusion_gender/>
+    <Date_enrollement>2017-10-20
+    </Date_enrollement>
+    <Target_size>32
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Open (masking not used), Uncontrolled, Basic science
+    </Study_design>
+    <Phase/>
+    <Countries>The Netherlands
+    </Countries>
+    <Contact_Firstname/>
+    <Contact_Lastname/>
+    <Contact_Address>Reinier Postlaan 4
+    </Contact_Address>
+    <Contact_Email/>
+    <Contact_Tel/>
+    <Contact_Affiliation>Radboud Universitair Medisch Centrum
+    </Contact_Affiliation>
+    <Inclusion_Criteria>Inclusion criteria: &lt;p&gt;For essential tremor patients: &lt;br&gt;-Clinical diagnosis of essential tremor &lt;br&gt;-Postural tremor of both hands &lt;br&gt;-Onset of tremor before the age of 65 (to exclude pathophysiological heterogeneity caused by age-related tremor [15]);For dystonic tremor patients: &lt;br&gt;-Clinical diagnosis of dystonic tremor &lt;br&gt;-Primary focal / segmental dystonia &lt;br&gt;-Presence of postural tremor of at least one arm (which may or may not be the dystonic limb)&lt;/p&gt;&#x0D;&lt;br&gt;
+    </Inclusion_Criteria>
+    <Exclusion_Criteria>Exclusion criteria: &lt;p&gt;-Neurological co-morbidity &lt;br&gt;-Moderate to severe head tremor (to avoid artifacts caused by extensive head motion during scanning) &lt;br&gt;-Cognitive dysfunction (clinical diagnosis of mild cognitive impairment or dementia) &lt;br&gt;-MRI or TACS contraindications &lt;br&gt;&lt;/p&gt;&#x0D;&lt;br&gt;
+    </Exclusion_Criteria>
+    <Condition> &lt;br&gt;dystonia;10028037;dystonia
+    </Condition>
+    <Intervention>&lt;p&gt;The intervention involves transcranial alternating current stimulation (TACS), &lt;br&gt;which is a non-invasive, non-painful way of stimulating underlying cortical &lt;br&gt;brain tissue through electrodes applied to the scalp. When applied rhythmically &lt;br&gt;at the frequency of cortical oscillatory activity, it can exert powerful &lt;br&gt;excitatory or inhibitory (depending on the phase) effects on brain function.&lt;/p&gt;&lt;br&gt;;Dystonia;Essential tremor;Neuroscience;Tremor
+    </Intervention>
+    <Primary_outcome>&lt;p&gt;We will use concurrent EMG-fMRI to localize and compare tremor-related activity&lt;br /&gt;&lt;br&gt;between both groups (outcome #1) - an approach we have previously validated in&lt;br /&gt;&lt;br&gt;Parkinson*s tremor. &lt;/p&gt;&lt;br&gt;
+    </Primary_outcome>
+    <Secondary_outcome>&lt;p&gt;Given the hypothesized role of inhibitory GABA-ergic circuits in both tremor&lt;br /&gt;&#x0D;&lt;br&gt;types, we will use 3T magnetic resonance spectroscopy to compare GABA&lt;br /&gt;&#x0D;&lt;br&gt;concentrations in the internal globus pallidus, cerebellum, and motor cortex&lt;br /&gt;&#x0D;&lt;br&gt;between both groups (outcome #2). Also, we use a non-invasive, adaptive and&lt;br /&gt;&#x0D;&lt;br&gt;controlled brain stimulation approach (transcranial alternating current&lt;br /&gt;&#x0D;&lt;br&gt;stimulation; TACS) to test for the effect of inhibiting the motor cortex and&lt;br /&gt;&#x0D;&lt;br&gt;cerebellum on tremor intensity (accelerometry) and, for the cerebellum, on&lt;br /&gt;&#x0D;&lt;br&gt;tremor-related activity (EMG-fMRI) and (outcome #3). Previous research has&lt;br /&gt;&#x0D;&lt;br&gt;shown powerful modulatory influences of TACS on both Parkinson*s tremor and ET. &lt;/p&gt;&#x0D;&lt;br&gt;
+    </Secondary_outcome>
+    <Secondary_ID>NL60335.091.17
+    </Secondary_ID>
+    <Source_Support>Hersenstichting
+    </Source_Support>
+    <Ethics_review_status>Approved
+    </Ethics_review_status>
+    <Ethics_review_approval_date>06/04/2017
+    </Ethics_review_approval_date>
+    <Ethics_review_contact_name/>
+    <Ethics_review_contact_address/>
+    <Ethics_review_contact_phone/>
+    <Ethics_review_contact_email/>
+    <results_url_link/>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:28:02</Export_date>
     <Internal_Number>10920903
     </Internal_Number>
     <TrialID>NCT03221413
@@ -303,6 +812,69 @@
     <Secondary_outcome>Modifications of frequencies of oscillatory brain activity, measured as spectral power modifications (prevalence of electroencefalographic frequencies) between T0 and T1 and T1 and T2;Neuropsychological testing: improvement between T0 and T1 and T1 and T2.;Mean change in visual analogue scale (VAS) for pain;Mean change in Short Form (36) Health Survey for NP
     </Secondary_outcome>
     <Secondary_ID>UPadova
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:28:02</Export_date>
+    <Internal_Number>11330761
+    </Internal_Number>
+    <TrialID>NCT02346409
+    </TrialID>
+    <Last_Refreshed_on>7 September 2021
+    </Last_Refreshed_on>
+    <Public_title>Cerebello-thalamo-cortical Coupling in Essential Tremor
+    </Public_title>
+    <Scientific_title>Cerebello-thalamo-cortical Coupling in Essential Tremor: Effects of High Frequency tACS of the Cerebellum
+    </Scientific_title>
+    <Acronym>CERESTIM
+    </Acronym>
+    <Primary_sponsor>Institut National de la Santé Et de la Recherche Médicale, France
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20150105
+    </Date_registration3>
+    <Date_registration>05/01/2015
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/show/NCT02346409
+    </web_address>
+    <Recruitment_Status>Not recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>75 Years
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>February 4, 2015
+    </Date_enrollement>
+    <Target_size>20
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: Non-Randomized. Intervention model: Single Group Assignment. Primary purpose: Basic Science. Masking: None (Open Label). 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>France
+    </Countries>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  age below 75 years&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  diagnosis of essential tremor according to the criteria of the Tremor Investigation&#x0D;&lt;br&gt;             Group and the Consensus statement of the Movement Disorder Society Group (ref)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  health insurance&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  signed informed written consent&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  other neurological disorders&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  medications that interact with or influence brain excitability&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  significant brain lesions detected in MRI&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Essential Tremor
+    </Condition>
+    <Intervention>Device: tACS of the cerebellum
+    </Intervention>
+    <Primary_outcome>The neuronal activity in the cerebello-thalamo-cortical pathway
+    </Primary_outcome>
+    <Secondary_ID>2014-A01393-44;C14-44
     </Secondary_ID>
     <Source_Support>Please refer to primary and secondary sponsors
     </Source_Support>

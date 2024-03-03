@@ -1,0 +1,765 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<Trials_downloaded_from_ICTRP>
+
+    
+  <Trial><Export_date>03/02/2024 23:45:33</Export_date>
+    <Internal_Number>13689859
+    </Internal_Number>
+    <TrialID>NCT06232629
+    </TrialID>
+    <Last_Refreshed_on>12 February 2024
+    </Last_Refreshed_on>
+    <Public_title>Towards Noninvasive DBS of the Basal Ganglia in Parkinson's Disease Using TUS
+    </Public_title>
+    <Scientific_title>Towards Noninvasive Deep Brain Stimulation of the Basal Ganglia in Parkinson's Disease Using Low-intensity Transcranial Ultrasound Stimulation
+    </Scientific_title>
+    <Acronym/>
+    <Primary_sponsor>University Health Network, Toronto
+    </Primary_sponsor>
+    <Retrospective_flag>No
+    </Retrospective_flag>
+    <Date_registration3>20231226
+    </Date_registration3>
+    <Date_registration>26/12/2023
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/ct2/show/NCT06232629
+    </web_address>
+    <Recruitment_Status>Not recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>N/A
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>August 1, 2023
+    </Date_enrollement>
+    <Target_size>10
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: Randomized. Intervention model: Crossover Assignment. Primary purpose: Basic Science. Masking: Double (Participant, Outcomes Assessor). 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>Canada
+    </Countries>
+    <Contact_Firstname>&#x20;
+    </Contact_Firstname>
+    <Contact_Lastname>Robert Chen, MBBS
+    </Contact_Lastname>
+    <Contact_Email/>
+    <Contact_Tel/>
+    <Contact_Affiliation>University Health Network, Toronto
+    </Contact_Affiliation>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          1. Adult patients with movement disorders (diagnosed by a movement disorder specialist)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          2. Implantation of a Percept PC DBS system at least one month before the sonications&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          3. Stable dopaminergic medication dose for a minimum of 4 weeks&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          1. Concomitant neurological conditions (stroke, seizure, dementia, major depression /&#x0D;&lt;br&gt;             psychiatric disorders, active drug abuse/addiction and major&#x0D;&lt;br&gt;             neuromuscular/musculoskeletal diseases)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          2. Declined cognitive scores (MoCA score &lt; 22)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          3. Implants (cardiac pacemaker, implantable cardioverter-defibrillator, intracranial&#x0D;&lt;br&gt;             devices other than DBS system such as shunts and MR- unsafe devices)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          4. History of intracranial lesioning procedures&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          5. Major systemic illness, infection or pregnancy&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Parkinson Disease;Dystonia
+    </Condition>
+    <Intervention>Device: TUS Active;Device: TUS Sham
+    </Intervention>
+    <Primary_outcome>Any treatment-related adverse events and side effects of TUS applications;Modulations in the amplitude of the LFP power spectrum
+    </Primary_outcome>
+    <Secondary_outcome>Modulations of the aperiodic activities derived from the LFPs
+    </Secondary_outcome>
+    <Secondary_ID>20-5740#4
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:45:33</Export_date>
+    <Internal_Number>13511562
+    </Internal_Number>
+    <TrialID>NCT06090292
+    </TrialID>
+    <Last_Refreshed_on>30 October 2023
+    </Last_Refreshed_on>
+    <Public_title>Effects of Peripheral Electrical Stimulation With Focused Ultrasound on Motor Symptoms in Parkinson's Patients
+    </Public_title>
+    <Scientific_title>Investigating the Effects of Peripheral Electrical Stimulation in Combination With Low Intensity Focused Ultrasound for Upper Extremity Motor Symptoms in Patients With Parkinson Disease (PD)
+    </Scientific_title>
+    <Acronym>tbFUS-FES_PD
+    </Acronym>
+    <Primary_sponsor>University Health Network, Toronto
+    </Primary_sponsor>
+    <Retrospective_flag>No
+    </Retrospective_flag>
+    <Date_registration3>20231013
+    </Date_registration3>
+    <Date_registration>13/10/2023
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/ct2/show/NCT06090292
+    </web_address>
+    <Recruitment_Status>Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>90 Years
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>June 13, 2023
+    </Date_enrollement>
+    <Target_size>15
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: Randomized. Intervention model: Crossover Assignment. Primary purpose: Basic Science. Masking: Double (Participant, Outcomes Assessor). 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>Canada
+    </Countries>
+    <Contact_Firstname> ; ; 
+    </Contact_Firstname>
+    <Contact_Lastname>Robert Chen;Julian Kwok;Julian Kwok
+    </Contact_Lastname>
+    <Contact_Email>;julian.kwok@uhn.ca;julian.kwok@uhn.ca
+    </Contact_Email>
+    <Contact_Tel>;1 416 603 5800;1 416 603 580
+    </Contact_Tel>
+    <Contact_Affiliation>University Health Network, Toronto;
+    </Contact_Affiliation>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  18-90 years of age&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Confirmed diagnosis of Parkinson's disease&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Stable dopaminergic medication dose for a minimum of 4 weeks (applicable for PD&#x0D;&lt;br&gt;             patients only)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        History of stroke or seizure&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Comorbid dementia&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Scored below 22 on the Montreal Cognitive Assessment (MoCA)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Has intracranial implant(s) or device(s)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Has an implanted cardiac pacemaker or implantable cardioverter-defibrillator (ICD)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Has a previous surgical intervention to treat the movement disorder such as lesioning&#x0D;&lt;br&gt;             or a Deep Brain Stimulation system in place.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Presence of metal implanted in body that is contraindicated in TMS/MRI/peripheral&#x0D;&lt;br&gt;             electrical stimulation&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Pregnancy&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Major depression/psychiatric disorder that in the opinion of the Investigator will&#x0D;&lt;br&gt;             affect patient's understanding of study procedures and willingness to abide by all&#x0D;&lt;br&gt;             procedures during the course of the study&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Is on antipsychotics, anti-depressants, marijuana, or other recreational drugs that&#x0D;&lt;br&gt;             affect the nervous system&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Major musculoskeletal or neuromuscular disease or disorder of the hands, wrists and&#x0D;&lt;br&gt;             limbs&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Severe Dyskinesia&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Genetic mutations&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Major systemic illness or infection&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Parkinson Disease
+    </Condition>
+    <Intervention>Device: Real TUS;Device: Real FES;Device: Sham TUS;Device: Sham FES
+    </Intervention>
+    <Primary_outcome>Averaged 1mV Motor Evoked Potential (MEP) Amplitude recorded from the right and left FDI, APB and ADM
+    </Primary_outcome>
+    <Secondary_outcome>Unified Parkinsons Disease Rating Scale (UPDRS);Finger tapping task
+    </Secondary_outcome>
+    <Secondary_ID>20-5740 #3
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:45:33</Export_date>
+    <Internal_Number>13400627
+    </Internal_Number>
+    <TrialID>NCT05965960
+    </TrialID>
+    <Last_Refreshed_on>16 October 2023
+    </Last_Refreshed_on>
+    <Public_title>Investigating LFP Correlates of TUS in Patients With Movement Disorders
+    </Public_title>
+    <Scientific_title>Investigating Local Field Potential Correlates of Transcranial Ultrasound Stimulation in Patients With Movement Disorders
+    </Scientific_title>
+    <Acronym>TUS-LFP
+    </Acronym>
+    <Primary_sponsor>University Health Network, Toronto
+    </Primary_sponsor>
+    <Retrospective_flag>No
+    </Retrospective_flag>
+    <Date_registration3>20230607
+    </Date_registration3>
+    <Date_registration>07/06/2023
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/ct2/show/NCT05965960
+    </web_address>
+    <Recruitment_Status>Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>N/A
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>May 18, 2023
+    </Date_enrollement>
+    <Target_size>25
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: Randomized. Intervention model: Crossover Assignment. Primary purpose: Basic Science. Masking: Double (Participant, Outcomes Assessor). 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>Canada
+    </Countries>
+    <Contact_Firstname> ; ; 
+    </Contact_Firstname>
+    <Contact_Lastname>Robert Chen, MBBS;Julian Kwok;Julian Kwok
+    </Contact_Lastname>
+    <Contact_Email>;julian.kwok@uhn.ca;julian.kwok@uhn.ca
+    </Contact_Email>
+    <Contact_Tel>;1 416 603 5800;1 416 603 580
+    </Contact_Tel>
+    <Contact_Affiliation>University Health Network, Toronto;
+    </Contact_Affiliation>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          1. Adult patients with movement disorders (diagnosed by a movement disorder specialist)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          2. Implantation of a Percept PC DBS system at least one month before the sonications&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          3. Stable dopaminergic medication dose for a minimum of 4 weeks&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          1. Concomitant neurological conditions (stroke, seizure, dementia, major depression /&#x0D;&lt;br&gt;             psychiatric disorders, active drug abuse/addiction and major&#x0D;&lt;br&gt;             neuromuscular/musculoskeletal diseases)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          2. Declined cognitive scores (MoCA score &lt; 22)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          3. Implants (cardiac pacemaker, implantable cardioverter-defibrillator, intracranial&#x0D;&lt;br&gt;             devices other than DBS system such as shunts and MR-unsafe devices)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          4. History of intracranial lesioning procedures&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          5. Major systemic illness, infection or pregnancy&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Parkinson Disease;Essential Tremor;Dystonia
+    </Condition>
+    <Intervention>Device: TUS Active;Device: TUS Sham
+    </Intervention>
+    <Primary_outcome>LFP power (Experiment 1);Stimulation artifact (Experiment 2)
+    </Primary_outcome>
+    <Secondary_outcome>UPDRS (Experiment 1);Finger tapping task (Experiment 1);Adverse effect profile (Experiment 1 and 2)
+    </Secondary_outcome>
+    <Secondary_ID>20-5740#2
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:45:33</Export_date>
+    <Internal_Number>13646707
+    </Internal_Number>
+    <TrialID>DRKS00025979
+    </TrialID>
+    <Last_Refreshed_on>22 January 2024
+    </Last_Refreshed_on>
+    <Public_title>HEALTHY BRAIN AGEING (HeBA)- a European online project to identify subjects at risk for neurodegenerative disorders for further follow-up&#x0D;
+&#x0D;
+Local Sub-Title: Gesund Altern!– eine populations- und internetbasierte Studie zu Früherkennungsmöglichkeiten des idiopathischen Parkinson-Syndroms und dementieller Syndrome
+    </Public_title>
+    <Scientific_title>HEALTHY BRAIN AGEING (HeBA)- a European online project to identify subjects at risk for neurodegenerative disorders for further follow-up&#x0D;
+&#x0D;
+Local Sub-Title: Gesund Altern!– eine populations- und internetbasierte Studie zu Früherkennungsmöglichkeiten des idiopathischen Parkinson-Syndroms und dementieller Syndrome - HeBA-Study                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+    </Scientific_title>
+    <Primary_sponsor>Paracelsus-Elena-Klinik Kassel
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20220107
+    </Date_registration3>
+    <Date_registration>07/01/2022
+    </Date_registration>
+    <Source_Register>German Clinical Trials Register
+    </Source_Register>
+    <web_address>http://drks.de/search/en/trial/DRKS00025979
+    </web_address>
+    <Recruitment_Status>Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>50 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>80 Years
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>15/01/2022
+    </Date_enrollement>
+    <Target_size>900
+    </Target_size>
+    <Study_type>observational
+    </Study_type>
+    <Study_design>Allocation: ; Masking: ; Control: ; Assignment: ; Study design purpose: screening 
+    </Study_design>
+    <Phase/>
+    <Countries>Austria;Germany;Spain;Luxembourg
+    </Countries>
+    <Contact_Firstname/>
+    <Contact_Lastname/>
+    <Contact_Address>Klinikstraße 16
+    </Contact_Address>
+    <Contact_Email>gesundaltern@pkd.de
+    </Contact_Email>
+    <Contact_Tel>495616009250
+    </Contact_Tel>
+    <Contact_Affiliation>Paracelsus-Elena-Klinik Kassel
+    </Contact_Affiliation>
+    <Inclusion_Criteria>Inclusion criteria: Phase 1a (Online Survey):&#x0D;&lt;br&gt;(a)	registered residents of the city of Kassel and the district of Kassel&#x0D;&lt;br&gt;(b)	male or female age 50 till 80&#x0D;&lt;br&gt;(c)	consent to study participation via WebConsent form&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;Phase 1b (Smell Assessment)&#x0D;&lt;br&gt;(a)	participants of phase 1 with highest risk according to the screening algorithm with subjective hyposmia (n=600) or subjective normosmia (n=2000)&#x0D;&lt;br&gt;(b)	consent to be contacted by the study team for follow-up investigation via WebConsent form&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;Phase 2 (In-Person Visits)&#x0D;&lt;br&gt;(a)	participants of phase 1a with lowest risk according to the risk assessment of the online survey &#x0D;&lt;br&gt;(b)	participants of phase 1b with pathological olfactory function test (defined as at or below the 15th percentile by age and gender determined by UPSIT®)&#x0D;&lt;br&gt;(c)	consent to be contacted by the study team for invitation to in-person investigations via WebConsent form&#x0D;&lt;br&gt;(d)	written informed consent to participate in more in-depth examinations after consultation at the beginning of the in-person visit&#x0D;&lt;br&gt;
+    </Inclusion_Criteria>
+    <Exclusion_Criteria>Exclusion criteria: Phase 1a (Online Survey)&#x0D;&lt;br&gt;(a)	lack of consent &#x0D;&lt;br&gt;&#x0D;&lt;br&gt;Phase 1b (Smell Assessment)&#x0D;&lt;br&gt;(a)	subjects with previously diagnosed movement disorder (idiopathic or atypical PD) or diagnosed dementia&#x0D;&lt;br&gt;(b)	subjects with clinically relevant diseases of the central nervous system (multiple sclerosis, severe vascular encephalopathy, Korsakoff syndrome, etc.)&#x0D;&lt;br&gt;(c)	subjects who take medication that can cause drug-induced PD (e.g. Haloperidol, Risperdal, etc.) &#x0D;&lt;br&gt;&#x0D;&lt;br&gt;Phase 2 (In-Person Visits)&#x0D;&lt;br&gt;(a)	subjects with previously diagnosed movement disorder (idiopathic or atypical PD) or diagnosed dementia or high clinical suspicion of these conditions (in the opinion of the investigator)&#x0D;&lt;br&gt;b)	subjects with clinically relevant diseases of the central nervous system (multiple sclerosis, severe vascular encephalopathy, Korsakoff syndrome, etc.) or high clinical suspicion of these conditions (in the opinion of the investigator)&#x0D;&lt;br&gt;c)	subjects who take medication that can cause drug-induced PD (e.g. Haloperidol, Risperdal, etc.) &#x0D;&lt;br&gt;d)	inability to provide written informed consent&#x0D;&lt;br&gt;
+    </Exclusion_Criteria>
+    <Condition> &lt;br&gt;G20 &lt;br&gt;G30.9;Parkinson disease;Alzheimer disease, unspecified;G30.9
+    </Condition>
+    <Intervention>Group 1: high-risk cohort&lt;br&gt;&lt;br&gt;study plan: &lt;br&gt;phase 1a (Online Survey): &lt;br&gt;Participants fill out a specially designed questionnaire online, which determines risk factors and prodromal markers determined in previous studies. A risk score is calculated based on the questionnaires answered by adding up the relative risks or odds ratios associated with the respective answers. Participants are then allocated to their respective risk cohort according to their personal risk score. (time point: after initiation of the online survey)&lt;br&gt;&lt;br&gt;phase 1b (Smell Assessment):&lt;br&gt;Participants will self-administer a University of Pennsylvania Smell Identification Test (UPSIT®). (time point: after risk cohort allocation)&lt;br&gt;&lt;br&gt;phase 2 (In-Person Visits):&lt;br&gt;Prodromal markers and risk factors of the participants are verified using gold standard methods; investigations include structured interview, validated questionnaires, cognitive screening (MoCA), physical examination, sampling of blood, saliva, urine, stool, cerebra-spinal fluid, skin, nasal lavage, transcranial ultrasound, lying and standing blood pressure, cranial magnetic resonance imaging, polysomnography. (time point: after smell assessment evaluation)&lt;br&gt;&lt;br&gt;&lt;br&gt;Group 2: low-risk cohort&lt;br&gt;&lt;br&gt;study plan: see high risk cohort&lt;br&gt;Group 3: medium-risk cohort&lt;br&gt;&lt;br&gt;study plan: see high risk cohort
+    </Intervention>
+    <Primary_outcome>ONLINE SURVEY: The primary goal of phase 1a is the questionnaire-based characterization of the general population between the ages of 50 and 80 with regard to risk factors for prodromal PD and/or dementia.&lt;br&gt;&lt;br&gt;SMELL ASSESSMENT: The primary goal of phase 1b is the additional characterization of olfactory function of subjects with highest risk according to the results of phase 1a.&lt;br&gt;&lt;br&gt;IN-PERSON VISITS: The primary goal of phase 2 is the evaluation of the screening module of phase 1a with regard to specificity / validity, if necessary, optimization of the module.&lt;br&gt;
+    </Primary_outcome>
+    <Secondary_outcome>A secondary goal of phase 1a (online survey) is to identify a population-based “high” and “low” risk cohort with regard to the likelihood of developing PD and/or dementia using known algorithms (risk assessment).&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;A secondary goal of phase 1b (smell assessment) is to identify eligible subjects for in-person visits of phase 2 according to their olfactory function.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;A secondary goal of phase 2 (in-person visits) is the clinical and diagnostic characterization of the population-based “high” and “low-risk cohort” as well as the establishment of a longitudinal cohort.
+    </Secondary_outcome>
+    <Source_Support>The Michael J. Fox Foundation for Parkinson's Research;Paracelsus-Elena-Klinik
+    </Source_Support>
+    <Ethics_review_status>Approved
+    </Ethics_review_status>
+    <Ethics_review_approval_date>26/06/2020
+    </Ethics_review_approval_date>
+    <Ethics_review_contact_name>ethikkommission@laekh.de
+    </Ethics_review_contact_name>
+    <Ethics_review_contact_address>Ethik-Kommission der Landesärztekammer Hessen
+    </Ethics_review_contact_address>
+    <Ethics_review_contact_phone>+49-69-97672209
+    </Ethics_review_contact_phone>
+    <Ethics_review_contact_email>ethikkommission@laekh.de
+    </Ethics_review_contact_email>
+    <results_url_link>http://drks.de/search/en/trial/DRKS00025979#studyResults
+    </results_url_link>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:45:33</Export_date>
+    <Internal_Number>13432983
+    </Internal_Number>
+    <TrialID>JPRN-jRCTs032210506
+    </TrialID>
+    <Last_Refreshed_on>17 October 2023
+    </Last_Refreshed_on>
+    <Public_title>Focused ultrasound pallidothalamic tractotomy for cervical dystonia
+    </Public_title>
+    <Scientific_title>A pilot trial of safety and effectiveness of Magnetic Resonance-guided
+Focused Ultrasound (MRgFUS) Ablation of the pallidothalamic tract for the
+Treatment of Cervical Dystonia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+    </Scientific_title>
+    <Primary_sponsor>Shiro Horisawa
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20211222
+    </Date_registration3>
+    <Date_registration>22/12/2021
+    </Date_registration>
+    <Source_Register>JPRN
+    </Source_Register>
+    <web_address>https://jrct.niph.go.jp/latest-detail/jRCTs032210506
+    </web_address>
+    <Recruitment_Status>Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>&gt;= 20age old
+    </Inclusion_agemin>
+    <Inclusion_agemax>&lt;= 70age old
+    </Inclusion_agemax>
+    <Inclusion_gender>Both
+    </Inclusion_gender>
+    <Date_enrollement>10/03/2022
+    </Date_enrollement>
+    <Target_size>10
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>single arm study, single blind, uncontrolled control, single assignment, treatment purpose
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Contact_Firstname>Horisawa
+    </Contact_Firstname>
+    <Contact_Lastname>Shiro
+    </Contact_Lastname>
+    <Contact_Address>kawadacho, 8-1, Shinjuku, Tokyo
+    </Contact_Address>
+    <Contact_Email>neurosurgery0222@gmail.com
+    </Contact_Email>
+    <Contact_Tel>+81-3-3353-8111
+    </Contact_Tel>
+    <Contact_Affiliation>Tokyo Women's Medical University Hospital
+    </Contact_Affiliation>
+    <Inclusion_Criteria>Inclusion criteria: 1) cervical dystonia&lt;br&gt;2) Age: 20-70&lt;br&gt;3) Toronto Western SpasmodicTorticollis Rating Scale severity scale more than 15&lt;br&gt;4) medically and botulinum toxin injection refractory cervical dystonia&lt;br&gt;5) patient who can understand the study protocol by oneself
+    </Inclusion_Criteria>
+    <Exclusion_Criteria>Exclusion criteria: 1) inability to stop antiplatelete or anticoagulant medications&lt;br&gt;2) inability to take MRI&lt;br&gt;3) lactating or pregnant woman&lt;br&gt;4) on hemodialysis&lt;br&gt;5) intractable hypertension ( diastolic pressure &gt; 100)&lt;br&gt;6) past history of cranial surgery&lt;br&gt;7) past history of cervical surgery&lt;br&gt;8) past history of stroke&lt;br&gt;9) past history of structural lesion in the brain&lt;br&gt;10) progressive neurodegenerative disease&lt;br&gt;11) past history of psychiatric disorders&lt;br&gt;12) Any patient that in the investigator's opinion preclude participation in this study.
+    </Exclusion_Criteria>
+    <Condition>cervical dystonia
+    </Condition>
+    <Intervention>MR-guided focused ultrasound pallidothalamic tractotomy:&lt;br&gt;hair-shaved, frame fixation, MRI/CT, on the MRI/Exablate Transcranial MRgFUS therapy table, treatment sonication with intraoperative MR thermometry&lt;br&gt;the procedure takes 60-180 minutes&lt;br&gt;postoperative MRI confirm the lesion location and complications
+    </Intervention>
+    <Primary_outcome>6-month postoperative Toronto Western Spasmodic Torticollis Rating Scale (TWSTRS)
+    </Primary_outcome>
+    <Secondary_outcome>BFMDRS, BDI, BAI, AES, MMSE, Postoperative neurological deficit
+    </Secondary_outcome>
+    <Source_Support>The Focused Ultrasound Foundation
+    </Source_Support>
+    <Ethics_review_status>Approval
+    </Ethics_review_status>
+    <Ethics_review_approval_date>15/10/2021
+    </Ethics_review_approval_date>
+    <Ethics_review_contact_name>kenkyu-shinsa@hosp.ncgm.go.jp
+    </Ethics_review_contact_name>
+    <Ethics_review_contact_address>Certified Review Board of National Center for Global Health and Medicine
+    </Ethics_review_contact_address>
+    <Ethics_review_contact_phone>+81-3-3202-7181
+    </Ethics_review_contact_phone>
+    <Ethics_review_contact_email>kenkyu-shinsa@hosp.ncgm.go.jp
+    </Ethics_review_contact_email>
+    <results_url_link/>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:45:33</Export_date>
+    <Internal_Number>11276297
+    </Internal_Number>
+    <TrialID>NCT05008094
+    </TrialID>
+    <Last_Refreshed_on>24 August 2021
+    </Last_Refreshed_on>
+    <Public_title>The Epidemiology of Parkinson's Disease in Croatia and the Influence of Genetic Factors and Microbiota on the Progression and Treatment Outcomes of the Disease (GiOPARK)
+    </Public_title>
+    <Scientific_title>The Epidemiology of Parkinson's Disease in Croatia and the Influence of Genetic Factors and Microbiota on the Progression and Treatment Outcomes of the Disease
+    </Scientific_title>
+    <Acronym>GiOPARK
+    </Acronym>
+    <Primary_sponsor>Clinical Hospital Center Rijeka
+    </Primary_sponsor>
+    <Retrospective_flag>No
+    </Retrospective_flag>
+    <Date_registration3>20210804
+    </Date_registration3>
+    <Date_registration>04/08/2021
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/show/NCT05008094
+    </web_address>
+    <Recruitment_Status>Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>85 Years
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>May 1, 2020
+    </Date_enrollement>
+    <Target_size>300
+    </Target_size>
+    <Study_type>Observational
+    </Study_type>
+    <Study_design/>
+    <Phase/>
+    <Countries>Croatia
+    </Countries>
+    <Contact_Firstname>&#x20;
+    </Contact_Firstname>
+    <Contact_Lastname>Vladimira Vuletic
+    </Contact_Lastname>
+    <Contact_Email/>
+    <Contact_Tel/>
+    <Contact_Affiliation>Clinical Hospital Center Rijeka
+    </Contact_Affiliation>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Inclusion criteria for participation of drug-naïve patients is a confirmed PD&#x0D;&lt;br&gt;             diagnosis according to the Movement Disorder Society Clinical Diagnostic criteria.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  The healthy control group will consist of participants from the same age group with&#x0D;&lt;br&gt;             the same nutritional status (body mass index), as well as living in the same&#x0D;&lt;br&gt;             geographical area as the test group.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  unique diet plans, chronic bowel disease, any autoimmune disorder, acute infectious&#x0D;&lt;br&gt;             diseases, acute active inflammation, patient history positive for significant&#x0D;&lt;br&gt;             gastrointestinal surgical procedures and an active antibiotic, probiotic use.&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Parkinson Disease;Genetic Disease;Microbiota;Neuro-Degenerative Disease;Neuroinflammatory Response
+    </Condition>
+    <Intervention>Diagnostic Test: Whole-exome sequencing;Diagnostic Test: Microbiota sequencing;Diagnostic Test: Magnetic resonance imaging;Diagnostic Test: Transcranial ultrasound and Electroencephalography;Diagnostic Test: ELISA (Enzyme-Linked Immunosorbent Assay);Diagnostic Test: Fluorescent correlation spectroscopy (FCS)
+    </Intervention>
+    <Primary_outcome>Genetic mutations in familial or early onset Croatian Parkinson's disease patients;Influence of genetic factors on the disease's progression and treatment outcomes.;Influence of microbiological factors on the disease's progression and treatment outcomes.
+    </Primary_outcome>
+    <Secondary_outcome>Genetic factors in general Croatian Parkinson's disease patients;Composition of microbiota in Croatian PD patients and controls;Effects of Parkinson's disease treatment on microbiota and inflammatory response in Parkinson's disease patients;Influence of microbiota and inflammatory factors on progression and treatment in Croatian PD patients;Pathological alpha-synuclein conformation in PD patients and controls
+    </Secondary_outcome>
+    <Secondary_ID>IP-2019-04-7276
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    <Secondary_Sponsor>University Medical Centre Ljubljana;Croatian Science Foundation;Karolinska Institutet
+    </Secondary_Sponsor>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:45:33</Export_date>
+    <Internal_Number>11190303
+    </Internal_Number>
+    <TrialID>NCT04970745
+    </TrialID>
+    <Last_Refreshed_on>26 July 2021
+    </Last_Refreshed_on>
+    <Public_title>Application of Tremor Analysis in Parkinson's Disease and Its Related Diseases
+    </Public_title>
+    <Scientific_title>Application of Tremor Analysis in Parkinson's Disease and Its Related Diseases
+    </Scientific_title>
+    <Acronym/>
+    <Primary_sponsor>Peking University Third Hospital
+    </Primary_sponsor>
+    <Retrospective_flag>No
+    </Retrospective_flag>
+    <Date_registration3>20210627
+    </Date_registration3>
+    <Date_registration>27/06/2021
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/show/NCT04970745
+    </web_address>
+    <Recruitment_Status>Not recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>45 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>75 Years
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>January 1, 2018
+    </Date_enrollement>
+    <Target_size>120
+    </Target_size>
+    <Study_type>Observational
+    </Study_type>
+    <Study_design/>
+    <Phase/>
+    <Countries>China
+    </Countries>
+    <Contact_Firstname>&#x20;
+    </Contact_Firstname>
+    <Contact_Lastname>Xiaoxuan Liu
+    </Contact_Lastname>
+    <Contact_Email/>
+    <Contact_Tel/>
+    <Contact_Affiliation>Peking University Third Hospital
+    </Contact_Affiliation>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Enrollment criteria: All patients from the outpatient and inpatient department of&#x0D;&lt;br&gt;             neurological movement disorders, aged 45-75 years, meet the following symptom scores&#x0D;&lt;br&gt;             greater than or equal to 4 points: olfactory disorder (2 points), rapid eye movement&#x0D;&lt;br&gt;             sleep behavior disorder (2 points) , Constipation (1 point), anxiety and depression&#x0D;&lt;br&gt;             symptoms (1 point), muscle stiffness (1 point), tremor (1 point), balance disorder (1&#x0D;&lt;br&gt;             point), signed informed consent;&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  exclusion criteria: a. Clear cerebellar abnormalities; b. Downward vertical&#x0D;&lt;br&gt;             supranuclear gaze palsy, or selective downward vertical saccade slowed down; c. Within&#x0D;&lt;br&gt;             the first 5 years of onset, diagnosed as possible behavioral variant frontotemporal&#x0D;&lt;br&gt;             dementia or primary Progressive aphasia; d. The onset of Parkinson's syndrome that is&#x0D;&lt;br&gt;             still limited to the lower limbs for 3 years; e. Parkinson's syndrome caused by drugs;&#x0D;&lt;br&gt;             f. The effect of levodopa is not good; g. Cortical sensory loss.&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Parkinson Disease
+    </Condition>
+    <Intervention>Other: Transcranial parenchymal color Doppler ultrasound (TCS);Other: Electromyography (EMG) tremor analysis
+    </Intervention>
+    <Primary_outcome>nigrostriatal echogenic area;Electromyography (EMG) tremor analysis;Electromyography (EMG) tremor analysis
+    </Primary_outcome>
+    <Secondary_ID>M2018222
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:45:33</Export_date>
+    <Internal_Number>12917981
+    </Internal_Number>
+    <TrialID>NCT04250376
+    </TrialID>
+    <Last_Refreshed_on>3 April 2023
+    </Last_Refreshed_on>
+    <Public_title>The Use of Transcranial Focused Ultrasound for the Treatment of Neurodegenerative Dementias
+    </Public_title>
+    <Scientific_title>The Use of Transcranial Focused Ultrasound for the Treatment of Neurodegenerative Dementias
+    </Scientific_title>
+    <Acronym/>
+    <Primary_sponsor>Neurological Associates of West Los Angeles
+    </Primary_sponsor>
+    <Retrospective_flag>No
+    </Retrospective_flag>
+    <Date_registration3>20200129
+    </Date_registration3>
+    <Date_registration>29/01/2020
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/show/NCT04250376
+    </web_address>
+    <Recruitment_Status>Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>45 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>93 Years
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>November 27, 2017
+    </Date_enrollement>
+    <Target_size>100
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: N/A. Intervention model: Single Group Assignment. Primary purpose: Treatment. Masking: None (Open Label). 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>United States
+    </Countries>
+    <Contact_Firstname>&#x20;
+    </Contact_Firstname>
+    <Contact_Lastname>Sheldon E Jordan, M.D.
+    </Contact_Lastname>
+    <Contact_Email/>
+    <Contact_Tel/>
+    <Contact_Affiliation>Neurology Management Associates
+    </Contact_Affiliation>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  CDR stage of at least 0.5 (mild cognitive impairment)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  At least one pathognomic imaging biomarker of a neurodegenerative process.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Cognitive decline clearly related to an acute illness&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Subjects unable to give informed consent&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Subjects with scalp rash or open wounds on the scalp (for example from treatment of&#x0D;&lt;br&gt;             squamous cell cancer)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Advanced terminal illness&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Advanced kidney, pulmonary, cardiac or liver failure&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Subjects who would not be able to lay down without excessive movement in a calm&#x0D;&lt;br&gt;             environment sufficiently long enough to be able to achieve sleep&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Subjects with major depressive disorder&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Subjects with vascular causes of dementia&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Mild Cognitive Impairment;Mild Dementia;Parkinson Disease;Alzheimer Disease
+    </Condition>
+    <Intervention>Device: Focused Transcranial Ultrasound
+    </Intervention>
+    <Primary_outcome>Quick Dementia Rating Scale
+    </Primary_outcome>
+    <Secondary_outcome>Repeatable Battery Assessment for Neuropsychological Status (RBANS);Repeatable Battery Assessment for Neuropsychological Status (RBANS);Montreal Cognitive Assessment (MoCA);Montreal Cognitive Assessment (MoCA);Quick Dementia Rating Scale (QDRS)
+    </Secondary_outcome>
+    <Secondary_ID>32222-1
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:45:33</Export_date>
+    <Internal_Number>13674607
+    </Internal_Number>
+    <TrialID>NCT04074031
+    </TrialID>
+    <Last_Refreshed_on>5 February 2024
+    </Last_Refreshed_on>
+    <Public_title>Transcranial Ultrasound Therapy of Essential Tremor
+    </Public_title>
+    <Scientific_title>Transcranial Ultrasound Therapy of Essential Tremor
+    </Scientific_title>
+    <Acronym>ULTRABRAINTher
+    </Acronym>
+    <Primary_sponsor>Assistance Publique - Hôpitaux de Paris
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20190729
+    </Date_registration3>
+    <Date_registration>29/07/2019
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/ct2/show/NCT04074031
+    </web_address>
+    <Recruitment_Status>Not recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>80 Years
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>January 7, 2020
+    </Date_enrollement>
+    <Target_size>15
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: N/A. Intervention model: Single Group Assignment. Primary purpose: Treatment. Masking: None (Open Label). 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>France
+    </Countries>
+    <Contact_Firstname>&#x20;
+    </Contact_Firstname>
+    <Contact_Lastname>Nadya Pyatigorskaya, MD
+    </Contact_Lastname>
+    <Contact_Email/>
+    <Contact_Tel/>
+    <Contact_Affiliation>Assistance Publique - Hôpitaux de Paris
+    </Contact_Affiliation>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Men and women, aged 18 to 80&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Diagnosis of essential tremor according to the criteria of the Consensus Statement of&#x0D;&lt;br&gt;             the Movement Disorders Society (MDS)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Patients with significant disability related to their essential Tremor, despite&#x0D;&lt;br&gt;             well-conducted medical treatment&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Stable essential tremor drug therapy for at least 30 days prior to inclusion&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Contraindication or refusal or preference of deep brain stimulation&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Patient receiving Social Security or Universal Medical Coverage or any equivalent plan&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Person who voluntarily and knowingly agreed to participate in the study (signing of a&#x0D;&lt;br&gt;             written consent)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion criteria :&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Inability to stop anticoagulant or antiplatelet therapy or any other medication that&#x0D;&lt;br&gt;             may increase the risk of bleeding during the 2 weeks prior to the procedure&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Current state of health causing bleeding and / or abnormal coagulopathy&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Unstable cardiac pathology or severe hypertension that cannot be controlled by&#x0D;&lt;br&gt;             medication (diastolic blood pressure&gt; 100 with drugs).&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Active epilepsy in the year preceding the inclusion&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Contraindications to magnetic resonance imaging such as non-compatible implanted metal&#x0D;&lt;br&gt;             devices (including pacemakers), size limits, etc. including presence of implants in&#x0D;&lt;br&gt;             the brain or skull)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Known hypersensitivity to local anesthetics (Xylocaine 20mg / ml)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Important claustrophobia that cannot be managed with mild medication&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Inability to maintain prolonged stationary supine position necessary for treatment&#x0D;&lt;br&gt;             (3-4 hours)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Woman of childbearing age without means of contraception&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Pregnant or lactating woman&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Major persons subject to a measure of legal protection (guardianship, curators or&#x0D;&lt;br&gt;             under the protection of justice)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Subject in exclusion period of another biomedical research or participating in any&#x0D;&lt;br&gt;             other biomedical stimulation or therapeutic trial&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Patients under AME (state medical aid) (except if exemption from affiliation)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Patient cannot communicate with the doctor during the treatment procedure&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Subjects with behavior compatible with the abuse of ethanol or psychoactive substances&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Progressive neurological pathology other than TE, stroke or cerebral hemorrhage &lt; 6&#x0D;&lt;br&gt;             months, multiple stroke ATCD, brain tumor or intracranial aneurysm&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Patients who have taken in the last 6 months drugs lowering the epileptogenic&#x0D;&lt;br&gt;             threshold significantly (CNS stimulants, sympathomimetics, neuroleptics, imipraminic&#x0D;&lt;br&gt;             antidepressants, amantadine, fampridine, fluoroquinolones, mefloquine)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Significant healing in an area on the path of the planned energy path to the treatment&#x0D;&lt;br&gt;             area&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Recourse to neurosurgical treatments for essential tremor (deep brain stimulation or&#x0D;&lt;br&gt;             gamma knife&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Essential Tremor
+    </Condition>
+    <Intervention>Device: Transcranial Ultrasound Therapy (Exablate® 4000 Type 1.1)
+    </Intervention>
+    <Primary_outcome>The main objective is to evaluate the efficacy of Vim lesion produced by transcranial focused ultrasound on contralateral upper limb tremor at the 3-month procedure.
+    </Primary_outcome>
+    <Secondary_outcome>Interest of neuromodulation effect for the prediction of the final clinical effect;Adverse events
+    </Secondary_outcome>
+    <Secondary_ID>APHP190407
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:45:33</Export_date>
+    <Internal_Number>13604953
+    </Internal_Number>
+    <TrialID>NCT03981055
+    </TrialID>
+    <Last_Refreshed_on>8 January 2024
+    </Last_Refreshed_on>
+    <Public_title>Parkinson's Disease: Enhancing Physical Therapy With Brain Stimulation for Treating Postural Instability.
+    </Public_title>
+    <Scientific_title>Parkinson's Disease: Enhancing Physical Therapy With Brain Stimulation for Treating Postural Instability.
+    </Scientific_title>
+    <Acronym/>
+    <Primary_sponsor>Spaulding Rehabilitation Hospital
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20190128
+    </Date_registration3>
+    <Date_registration>28/01/2019
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/ct2/show/NCT03981055
+    </web_address>
+    <Recruitment_Status>Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>40 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>90 Years
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>January 23, 2020
+    </Date_enrollement>
+    <Target_size>40
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: Randomized. Intervention model: Parallel Assignment. Primary purpose: Other. Masking: Triple (Participant, Investigator, Outcomes Assessor). 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>United States
+    </Countries>
+    <Contact_Firstname> ; ; 
+    </Contact_Firstname>
+    <Contact_Lastname>Felipe Fregni, MD, PhD;Felipe Fregni, MD, PhD;Felipe Fregni, MD PhD MPH
+    </Contact_Lastname>
+    <Contact_Email>;Fregni.Felipe@mgh.harvard.edu;ffregni@partners.org
+    </Contact_Email>
+    <Contact_Tel>;6179526158;617-952-6156
+    </Contact_Tel>
+    <Contact_Affiliation>Spaulding Rehabilitation Hospital;
+    </Contact_Affiliation>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          1. Diagnosis of "probable" or "possible" PD, as defined by the current clinical criteria&#x0D;&lt;br&gt;             (Gelb D, Oliver E, Gilman S. Diagnostic Criteria for Parkinson's Disease. Arch&#x0D;&lt;br&gt;             Neurol.1999;56:33-39) as confirmed by co-investigator neurologist, or confirmation via&#x0D;&lt;br&gt;             medical records or a letter from patient physician;&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          2. Complaints about balance impairment or postural instability due to PD (self-report);&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          3. Age from 40 to 90 years old;&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          4. Taking stable medications for PD for at least 30 days.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          1. Features suggestive of other causes of parkinsonism/Parkinson's-plus syndromes;&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          2. History of deep brain stimulation or brain ablation surgeries, malignant mass brain&#x0D;&lt;br&gt;             lesions;&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          3. History of schizophrenia, bipolar illness; history of alcohol/drug abuse within the&#x0D;&lt;br&gt;             past 6 months;&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          4. Need for rapid clinical response due to conditions such as initiation, psychosis, or&#x0D;&lt;br&gt;             suicidality;&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          5. Contraindications to transcranial brain stimulation or TUS, i.e. metal in the head,&#x0D;&lt;br&gt;             implanted brain medical devices, etc.;&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          6. Unstable medical conditions (e.g., uncontrolled diabetes, uncompensated cardiac&#x0D;&lt;br&gt;             issues, heart failure, uncompensated pulmonary disease, or chronic obstructive&#x0D;&lt;br&gt;             pulmonary disease);&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          7. Pregnancy.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          8. Epilepsy or disorders that significantly increase likelihood of seizures including:&#x0D;&lt;br&gt;             severe traumatic brain injury, congenital birth defects leading to seizures, brain&#x0D;&lt;br&gt;             tumor, metabolic disorders associated with seizures, intracranial or subarachnoid&#x0D;&lt;br&gt;             hemorrhage, and nonlacunar strokes.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          9. Recent (&lt;= 2 months) or planned enrollment in an additional physician prescribed&#x0D;&lt;br&gt;             physical therapy program during their time in the trial.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;         10. Presence of another disorder that might have a significant impact on balance (as&#x0D;&lt;br&gt;             assessed by a co-investigator neurologist).&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;         11. Bed or wheelchair-bound&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Parkinson Disease
+    </Condition>
+    <Intervention>Device: Active Comparator: Active tDCS and Active TUS;Device: Sham Comparator: Sham TDCS and Sham TUS;Other: Physical Therapy
+    </Intervention>
+    <Primary_outcome>Change in postural sway
+    </Primary_outcome>
+    <Secondary_outcome>Unified Parkinson's Disease Rating Scale (UPDRS);Leg Agility;Arising from a chair;Balance;Gait;Toe tapping
+    </Secondary_outcome>
+    <Secondary_ID>2018P002733
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    <Secondary_Sponsor>Highland Instruments, Inc.
+    </Secondary_Sponsor>
+    
+  </Trial>
+</Trials_downloaded_from_ICTRP>

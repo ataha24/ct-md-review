@@ -2,7 +2,152 @@
 <Trials_downloaded_from_ICTRP>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
+    <Internal_Number>13708439
+    </Internal_Number>
+    <TrialID>NCT06245070
+    </TrialID>
+    <Last_Refreshed_on>27 February 2024
+    </Last_Refreshed_on>
+    <Public_title>Speech and Voice Outcomes Following HD-tDCS Over the Left SMA
+    </Public_title>
+    <Scientific_title>Immediate and Short-term Effects of High-definition Transcranial Direct Current Stimulation Over the Left Supplementary Motor Area on Voice and Speech Functions in Parkinson's Disease
+    </Scientific_title>
+    <Acronym/>
+    <Primary_sponsor>Louisiana State University and A&amp;M College
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20240124
+    </Date_registration3>
+    <Date_registration>24/01/2024
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/ct2/show/NCT06245070
+    </web_address>
+    <Recruitment_Status>Not recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>80 Years
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>February 2, 2025
+    </Date_enrollement>
+    <Target_size>48
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: Randomized. Intervention model: Parallel Assignment. Primary purpose: Treatment. Masking: Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor). 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Contact_Firstname>&#x20;
+    </Contact_Firstname>
+    <Contact_Lastname>Karim Johari
+    </Contact_Lastname>
+    <Contact_Email>karimjohari@lsu.edu
+    </Contact_Email>
+    <Contact_Tel>225-578-3934
+    </Contact_Tel>
+    <Contact_Affiliation/>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Clinical diagnosis of Parkinson's disease&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Native English speakers&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Adequate age-relative hearing and vision to perform the outlined tasks&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Able to provide their own written consent&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria :&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Neurological disorders besides Parkinson's disease&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Previous brain surgery including deep brain stimulation&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Clinical diagnosis of dementia&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Parkinson Disease
+    </Condition>
+    <Intervention>Device: Active transcranial direct current stimulation;Device: Sham transcranial direct current stimulation
+    </Intervention>
+    <Primary_outcome>Voice loudness measures;Fundamental frequency measures;Accuracy of syllable repetition;Speech rate;Speech rate stability
+    </Primary_outcome>
+    <Secondary_ID>IRBAM-21-1019
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
+    <Internal_Number>13690093
+    </Internal_Number>
+    <TrialID>NCT06239675
+    </TrialID>
+    <Last_Refreshed_on>12 February 2024
+    </Last_Refreshed_on>
+    <Public_title>Cerebral pAlsy Motor Promotion With Transcranial Direct Current Stimulation (CAMP-tDCS)
+    </Public_title>
+    <Scientific_title>Concurrent Transcranial Direct Current Stimulation and Constraint-induced Movement Therapy in Children With Hemiplegic Cerebral Palsy: A Randomized Controlled Study on Efficacy and Brain Mechanisms
+    </Scientific_title>
+    <Acronym/>
+    <Primary_sponsor>University of Texas Southwestern Medical Center
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20240117
+    </Date_registration3>
+    <Date_registration>17/01/2024
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/ct2/show/NCT06239675
+    </web_address>
+    <Recruitment_Status>Not recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>5 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>17 Years
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>April 1, 2024
+    </Date_enrollement>
+    <Target_size>60
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: Randomized. Intervention model: Parallel Assignment. Primary purpose: Treatment. Masking: Double (Participant, Care Provider). 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>United States
+    </Countries>
+    <Contact_Firstname> ; ; 
+    </Contact_Firstname>
+    <Contact_Lastname>Yanlong Song, PhD;Yanlong Song, PhD;Yanlong Song, PhD
+    </Contact_Lastname>
+    <Contact_Email>;yanlong.song@utsouthwestern.edu;
+    </Contact_Email>
+    <Contact_Tel>;214-648-0593;
+    </Contact_Tel>
+    <Contact_Affiliation>University of Texas Southwestern Medical Center;
+    </Contact_Affiliation>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  formal diagnosis of hemiplegic cerebral palsy&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  unilateral upper limb (arm and hand) motor and sensory impairments&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  capable of understanding and following experimental instructions and procedures&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  capable of performing study procedures without assistance&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  5-17 years of age, including 5-year-old and 17-year-old&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  brain surgery, peripheral nerve surgery, genetic disorders, other neurological&#x0D;&lt;br&gt;             disorders or injuries&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  muscle toxin injection within six months before recruitment&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  received constraint-induced movement therapy (CIMT) within one year before recruitment&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  uncontrolled seizures within one year before recruitment&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  orthopedic surgery in upper limb within one year before recruitment&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  incapable of understanding and following experimental instructions and procedures&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  non-removable metallic objects or infusion pumps in the body&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  psychoactive or myorelaxant medication during study procedures&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  less than five years of age and older than 17 years of age&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Cerebral Palsy, Hemiplegic
+    </Condition>
+    <Intervention>Device: tDCS;Behavioral: CIMT;Device: sham tDCS
+    </Intervention>
+    <Primary_outcome>gross manual dexterity;fine manual dexterity
+    </Primary_outcome>
+    <Secondary_outcome>quality of upper extremity skill;finger touch sensitivity
+    </Secondary_outcome>
+    <Secondary_ID>STU-2023-0925
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    <Secondary_Sponsor>Children's Health
+    </Secondary_Sponsor>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13632109
     </Internal_Number>
     <TrialID>NCT06214377
@@ -78,7 +223,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13632108
     </Internal_Number>
     <TrialID>NCT06214364
@@ -154,7 +299,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13579253
     </Internal_Number>
     <TrialID>NCT06145776
@@ -228,7 +373,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13393400
     </Internal_Number>
     <TrialID>ACTRN12623001065684
@@ -302,7 +447,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13188849
     </Internal_Number>
     <TrialID>RBR-3ksnxkm
@@ -392,7 +537,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13140733
     </Internal_Number>
     <TrialID>IRCT20090301001722N29
@@ -474,7 +619,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13611184
     </Internal_Number>
     <TrialID>NCT05919485
@@ -549,7 +694,92 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
+    <Internal_Number>13109782
+    </Internal_Number>
+    <TrialID>ChiCTR2300070920
+    </TrialID>
+    <Last_Refreshed_on>4 June 2023
+    </Last_Refreshed_on>
+    <Public_title>Efficacy and safety of transcranial direct current stimulation for focal dystonia: a randomized double-blind controlled study
+    </Public_title>
+    <Scientific_title>Efficacy and safety of transcranial direct current stimulation for focal dystonia: a randomized double-blind controlled study                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+    </Scientific_title>
+    <Primary_sponsor>The First Affiliated Hospital of Sun Yat-sen University
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20230426
+    </Date_registration3>
+    <Date_registration>2023-04-26
+    </Date_registration>
+    <Source_Register>ChiCTR
+    </Source_Register>
+    <web_address>https://www.chictr.org.cn/showproj.html?proj=195171
+    </web_address>
+    <Recruitment_Status>Not Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>20
+    </Inclusion_agemin>
+    <Inclusion_agemax>70
+    </Inclusion_agemax>
+    <Inclusion_gender>Both
+    </Inclusion_gender>
+    <Date_enrollement>2023-05-01
+    </Date_enrollement>
+    <Target_size>tDCS group:48;tDCS sham stimulation group:48;cTBS group:48;cTBS sham stimulation group:48;
+    </Target_size>
+    <Study_type>Interventional study
+    </Study_type>
+    <Study_design>Parallel
+    </Study_design>
+    <Phase>0
+    </Phase>
+    <Countries>China
+    </Countries>
+    <Contact_Firstname>Liu Gang
+    </Contact_Firstname>
+    <Contact_Lastname/>
+    <Contact_Address>No.58, Zhongshan Road 2, Guangzhou, Guangdong Province, China
+    </Contact_Address>
+    <Contact_Email>liug26@mail.sysu.edu.cn
+    </Contact_Email>
+    <Contact_Tel>+86 18664678483
+    </Contact_Tel>
+    <Contact_Affiliation>The First Affiliated Hospital of Sun Yat-sen University
+    </Contact_Affiliation>
+    <Inclusion_Criteria>Inclusion criteria:  (1) A diagnosis of BSP or CD or blepharospasm-oromandibular dystonia established according to the published criteria;&lt;br&gt; (2) JRS severity score of = 3 or TWSTRS severity score of = 15;&lt;br&gt; (3) With poor effects of medications treatment, and with contraindications of botulinum toxin ( BoNT) treatment or serious complications such as ptosis and exposure keratitis after BoNT injection, or with rejection of BoNT injection;&lt;br&gt;(4) With short remission duration less than 2 months of BoNT treatment during the 6-month observation period;&lt;br&gt;(5) With primary resistance to BoNT (patients with less than 25% improvement after two or three consecutive injections of increasing doses of BoNT) or secondary resistance to BoNT after repeated injections (patients with at least 50% improvement after at least two treatment cycles, but  subsequent improvement of less than 25% of baseline in two or more subsequent treatment cycles);&lt;br&gt;(6) After the last BoNT treatment for at least 3 months or medications treatment at least 1 month;&lt;br&gt;(7) Written informed consent was obtained from all participants.
+    </Inclusion_Criteria>
+    <Exclusion_Criteria>Exclusion criteria: (1) Any contraindications to cerebral magnetic resonance imaging (MRI) examination;&lt;br&gt;(2) With acute intracranial diseases (e.g. stroke, intracranial infection, etc.);&lt;br&gt;(3) With hyperalgesia, injury or inflammation of the area of stimulation;&lt;br&gt;(4) A history of mental illness, depression, anxiety, dementia, epilepsy, Tourette's syndrome, Parkinson's disease or Parkinson's syndrome, or serious systemic diseases that significantly shorten life expectancy;&lt;br&gt;(5) T2-weighted MRI images with abnormal white matter signal of grade 2 or above;&lt;br&gt;(6) A history of participation in other clinical trials in the past 3 months.
+    </Exclusion_Criteria>
+    <Condition>Focal dystonia
+    </Condition>
+    <Intervention>tDCS group:  The anodal stimulation target is the right cerebellar lobe VIII, and the cathode is placed on the ipsilateral buccal muscle. The stimulation intensity is 2mA, and the duration of single stimulation is 20 minutes. The treatment frequency is once a day, 5 times a week, and the total course of treatment is 2 weeks.;tDCS sham stimulation group:   The anodal stimulation target is the right cerebellar lobe VIII, and the cathode is placed on the ipsilateral buccal muscle. The current is stopped after 10-second stimulation at the beginning and end of the treatment, respectively. The treatment frequency is once a day, 5 times a week, and the total course of treatment is 2 weeks.;cTBS group:  The right SMA stimulation target is imported into neuronavigation system.TMS with a figure-of-eight coil is tangential to the subject's scalp, and pulses are delivered at 80% of  RMT. The cTBS protocol lasts 40 s and consists of a burst of three pulses delivered at 50 Hz, which is repeated every 200 ms (at 5 Hz) for a total of 600 pulses.The treatment frequency is once a day, 5 times a week, and the total course of treatment is 2 weeks.;cTBS sham stimulation group:  The right SMA stimulation target is imported into neuronavigation system.TMS with a figure-of-eight coil is perpendicular to the subject's scalp, and then no current is generated in the cerebral cortex. Pulses are delivered at 80% of the RMT. The cTBS protocol lasts 40 s and consists of a burst of three pulses delivered at 50 Hz, which is repeated every 200 ms (at 5 Hz) for a total of 600 pulses.The treatment frequency is once a day, 5 times a week, and the total course of treatment is 2 weeks.;
+    </Intervention>
+    <Primary_outcome>The improvement rate of clinical symptom severity scores;
+    </Primary_outcome>
+    <Secondary_outcome>Effective rate;The improvement rate of clinical symptom of BSP, JRS, BSS, TWSTRS scores, and CDQ-24 scores;PEGR scores;
+    </Secondary_outcome>
+    <Source_Support>Natural Science Foundation of Guangdong Province
+    </Source_Support>
+    <Ethics_review_status>Approved
+    </Ethics_review_status>
+    <Ethics_review_approval_date>27/12/2022
+    </Ethics_review_approval_date>
+    <Ethics_review_contact_name/>
+    <Ethics_review_contact_address>Chen Zhanyong
+    </Ethics_review_contact_address>
+    <Ethics_review_contact_phone>+86 20 87780263
+    </Ethics_review_contact_phone>
+    <Ethics_review_contact_email/>
+    <results_url_link/>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>12962731
     </Internal_Number>
     <TrialID>NCT05752240
@@ -620,7 +850,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>12776696
     </Internal_Number>
     <TrialID>NCT05678725
@@ -692,7 +922,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>12776574
     </Internal_Number>
     <TrialID>NCT05670522
@@ -768,7 +998,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>12510684
     </Internal_Number>
     <TrialID>IRCT20220725055552N1
@@ -852,7 +1082,81 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
+    <Internal_Number>13676661
+    </Internal_Number>
+    <TrialID>NCT05326451
+    </TrialID>
+    <Last_Refreshed_on>5 February 2024
+    </Last_Refreshed_on>
+    <Public_title>Home-based Transcranial Direct Current Stimulation Open Trial for Behavioral and Cognitive Symptoms in Huntington's Disease
+    </Public_title>
+    <Scientific_title>Home-based Transcranial Direct Current Stimulation Open Trial for Behavioral and Cognitive Symptoms in Huntington's Disease
+    </Scientific_title>
+    <Acronym/>
+    <Primary_sponsor>The University of Texas Health Science Center, Houston
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20220405
+    </Date_registration3>
+    <Date_registration>05/04/2022
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/ct2/show/NCT05326451
+    </web_address>
+    <Recruitment_Status>Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>70 Years
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>June 21, 2023
+    </Date_enrollement>
+    <Target_size>10
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: N/A. Intervention model: Single Group Assignment. Primary purpose: Treatment. Masking: None (Open Label). 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>United States
+    </Countries>
+    <Contact_Firstname> ; ; 
+    </Contact_Firstname>
+    <Contact_Lastname>Erin Stimming, MD;Erin Stimming, MD;Erin Stimming, MD
+    </Contact_Lastname>
+    <Contact_Email>;Erin.E.Furr@uth.tmc.edu;Erin.E.Furr@uth.tmc.edu
+    </Contact_Email>
+    <Contact_Tel>;(713) 500-7033;713-500-7033
+    </Contact_Tel>
+    <Contact_Affiliation>The University of Texas Health Science Center, Houston;
+    </Contact_Affiliation>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Participant:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  confirmed HD mutation carriers&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  early (stages 1 and 2) or moderate (stage 3) stages according to Shoulson-Fahn&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  exhibit mild to moderate behavioral symptoms, such as clinically diagnosed apathy,&#x0D;&lt;br&gt;             irritability, anxiety, depression, aggression and repetition&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  stable doses of medications for at least one month&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  unstable medical conditions&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  history of epilepsy&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  metallic objects in the brain&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  clinical diagnosis of major cognitive disorder or dementia&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Have risk of suicidal behavior, defined as any suicidal behavior or suicidal ideation&#x0D;&lt;br&gt;             of type 4&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Caregiver:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        -willingness to participate in the study&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        -motor/cognitive symptoms related to Alzheimer's disease or Huntington's disease that might&#x0D;&lt;br&gt;        impair the ability to assist the participant during the research study.&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Huntington Disease
+    </Condition>
+    <Intervention>Device: active tDCS
+    </Intervention>
+    <Primary_outcome>Feasibility as assessed by the number of participants included and who successfully completed the protocol;Change in acceptability of the treatment as assessed by the tDCS acceptability questionnaire;Change in safety of home-based tDCS treatment as as assessed by the tDCS side effect questionnaire
+    </Primary_outcome>
+    <Secondary_outcome>Change in Motor function as assessed by the Unified Huntington Disease Rating Scale (UHDRS);Change in Cognitive function as assessed by the Unified Huntington Disease Rating Scale (UHDRS);Change in Behavior as assessed by the Unified Huntington Disease Rating Scale (UHDRS);Change in apathy as assessed by the Brief Dimensional Apathy Scale (bDAS);Change in depression as assessed by the Patient Health Questionnaire (PHQ-9);Change in irritability as assessed by the Irritability Questionnaire;Change in cognition as assessed by the Montreal Cognitive Assessment (MoCA);Change in anxiety and depressive symptoms as assessed by the Hospital Anxiety and Depression Scale (HADS);Change in behavioral symptoms as assessed by the Problem Behaviours Assessment (PBA-s)
+    </Secondary_outcome>
+    <Secondary_ID>HSC-MS-21-1065
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13433551
     </Internal_Number>
     <TrialID>JPRN-jRCTs042210161
@@ -936,7 +1240,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>11986819
     </Internal_Number>
     <TrialID>NCT05264909
@@ -1012,7 +1316,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>12652254
     </Internal_Number>
     <TrialID>NCT05243394
@@ -1088,7 +1392,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13646949
     </Internal_Number>
     <TrialID>DRKS00026640
@@ -1179,7 +1483,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13135909
     </Internal_Number>
     <TrialID>NCT05071586
@@ -1251,7 +1555,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>11987680
     </Internal_Number>
     <TrialID>ChiCTR2100047946
@@ -1334,7 +1638,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>12361347
     </Internal_Number>
     <TrialID>NCT04811066
@@ -1406,7 +1710,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>10819418
     </Internal_Number>
     <TrialID>NCT04819061
@@ -1478,7 +1782,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>11335817
     </Internal_Number>
     <TrialID>NCT04787406
@@ -1548,7 +1852,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>10590356
     </Internal_Number>
     <TrialID>NCT04725019
@@ -1619,7 +1923,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13063393
     </Internal_Number>
     <TrialID>NCT04759898
@@ -1689,7 +1993,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13217418
     </Internal_Number>
     <TrialID>NCT04655079
@@ -1754,7 +2058,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>12790117
     </Internal_Number>
     <TrialID>NCT04651699
@@ -1830,7 +2134,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13432929
     </Internal_Number>
     <TrialID>JPRN-jRCTs032200173
@@ -1914,7 +2218,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>12261751
     </Internal_Number>
     <TrialID>NCT04606979
@@ -1988,7 +2292,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13658511
     </Internal_Number>
     <TrialID>TCTR20200909005
@@ -2080,12 +2384,12 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
-    <Internal_Number>13565304
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
+    <Internal_Number>13703637
     </Internal_Number>
     <TrialID>NCT04504422
     </TrialID>
-    <Last_Refreshed_on>4 December 2023
+    <Last_Refreshed_on>27 February 2024
     </Last_Refreshed_on>
     <Public_title>tDCS for Dual-task Performance in Patients With PD
     </Public_title>
@@ -2104,7 +2408,7 @@
     </Source_Register>
     <web_address>https://clinicaltrials.gov/ct2/show/NCT04504422
     </web_address>
-    <Recruitment_Status>Recruiting
+    <Recruitment_Status>Not recruiting
     </Recruitment_Status>
     <other_records>No
     </other_records>
@@ -2126,15 +2430,13 @@
     </Phase>
     <Countries>Korea, Republic of
     </Countries>
-    <Contact_Firstname> ; ; 
+    <Contact_Firstname>&#x20;
     </Contact_Firstname>
-    <Contact_Lastname>Han Gil Seo, MD, PhD;Han Gil Seo, MD, PhD;Han Gil Seo, MD
+    <Contact_Lastname>Han Gil Seo, MD, PhD
     </Contact_Lastname>
-    <Contact_Email>;hgseo80@gmail.com;hgseo80@gmail.com
-    </Contact_Email>
-    <Contact_Tel>;82-2-2072-1659;82-2-2072-1659
-    </Contact_Tel>
-    <Contact_Affiliation>Seoul National University Hospital;
+    <Contact_Email/>
+    <Contact_Tel/>
+    <Contact_Affiliation>Seoul National University Hospital
     </Contact_Affiliation>
     <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Clinically diagnosed as idiopathic Parkinson's disease&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  modified Hoehn &amp; Yahr stage 2, 2.5, or 3&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  History of seizure&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Metallic implants, such as cardiac pacemaker or an artificial cochlea&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Patients with inflammation, burns, or wounds in the stimulation area&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Parkinson's disease dementia; cut-off is &lt; 7 of Korean-Montreal Cognitive Assessment&#x0D;&lt;br&gt;             for illiterate patients, &lt; 13 for those educated for 0.5-3 years, &lt; 16 for 4-6 years&#x0D;&lt;br&gt;             of education, &lt; 19 for 7-9 years of education, and &lt; 20 for 10 or more years of&#x0D;&lt;br&gt;             education.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Severe dyskinesia or severe on-off phenomenon&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Plan to adjust medication at the time of screening&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Sensory abnormalities of the lower extremities, other neurological or orthopedic&#x0D;&lt;br&gt;             disease affecting lower extremities, or severe cardiovascular diseases&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Vestibular disease or paroxysmal vertigo&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Pregnant or lactating patients&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Other comorbidities that make it difficult to participate in this study&#x0D;&lt;br&gt;      
     </Inclusion_Criteria>
@@ -2154,7 +2456,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>10375484
     </Internal_Number>
     <TrialID>NCT04527809
@@ -2226,7 +2528,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>8981532
     </Internal_Number>
     <TrialID>ACTRN12620000330943
@@ -2301,7 +2603,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>10353227
     </Internal_Number>
     <TrialID>NCT04237948
@@ -2375,7 +2677,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>10352901
     </Internal_Number>
     <TrialID>NCT04233710
@@ -2450,7 +2752,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>10351974
     </Internal_Number>
     <TrialID>NCT04221659
@@ -2524,7 +2826,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>11464389
     </Internal_Number>
     <TrialID>NCT04174573
@@ -2595,7 +2897,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>12181834
     </Internal_Number>
     <TrialID>NCT04171804
@@ -2668,7 +2970,82 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
+    <Internal_Number>10790553
+    </Internal_Number>
+    <TrialID>NCT04153110
+    </TrialID>
+    <Last_Refreshed_on>29 March 2021
+    </Last_Refreshed_on>
+    <Public_title>Cerebello-Spinal tDCS as Rehabilitative Intervention in Neurodegenerative Ataxia
+    </Public_title>
+    <Scientific_title>Cerebello-Spinal tDCS as Rehabilitative Intervention in Neurodegenerative Ataxias: a Randomized, Double-blind, Sham-controlled Trial Followed by an Open-label Phase
+    </Scientific_title>
+    <Acronym>SCA02
+    </Acronym>
+    <Primary_sponsor>Azienda Socio Sanitaria Territoriale degli Spedali Civili di Brescia
+    </Primary_sponsor>
+    <Retrospective_flag>No
+    </Retrospective_flag>
+    <Date_registration3>20191029
+    </Date_registration3>
+    <Date_registration>29/10/2019
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/show/NCT04153110
+    </web_address>
+    <Recruitment_Status>Not recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>N/A
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>December 1, 2018
+    </Date_enrollement>
+    <Target_size>61
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: Randomized. Intervention model: Parallel Assignment. Primary purpose: Treatment. Masking: Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor). 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>Italy
+    </Countries>
+    <Contact_Firstname> ; 
+    </Contact_Firstname>
+    <Contact_Lastname>Barbara Borroni, MD;Alberto Benussi, MD
+    </Contact_Lastname>
+    <Contact_Email>;
+    </Contact_Email>
+    <Contact_Tel>;
+    </Contact_Tel>
+    <Contact_Affiliation>Azienda Ospedaliera Spedali Civili, Brescia;Università degli Studi di Brescia
+    </Contact_Affiliation>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Patients with a cerebellar syndrome and quantifiable cerebellar atrophy&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Severe head trauma in the past&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  History of seizures&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  History of ischemic stroke or hemorrhage&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Pacemaker&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Metal implants in the head/neck region&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Severe comorbidity&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Intake of illegal drugs&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Pregnancy&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Ataxia;Spinocerebellar Ataxias;Spinocerebellar Ataxia Type 1;Spinocerebellar Ataxia Type 2;Spinocerebellar Ataxia 3;Multiple System Atrophy;Ataxia With Oculomotor Apraxia;CANVAS
+    </Condition>
+    <Intervention>Device: Anodal cerebellar and cathodal spinal tDCS;Device: Sham cerebellar and sham spinal tDCS
+    </Intervention>
+    <Primary_outcome>Change in the International Cooperative Ataxia Rating Scale (ICARS) Score From Baseline;Change in the Scale for the Assessment and Rating of Ataxia (SARA) Score From Baseline;Change in the Cerebellar cognitive affective syndrome (CCAS) Scale From Baseline
+    </Primary_outcome>
+    <Secondary_outcome>Change in the International Cooperative Ataxia Rating Scale (ICARS) Score From Baseline;Change in the Scale for the Assessment and Rating of Ataxia (SARA) Score From Baseline;Change in the Cerebellar cognitive affective syndrome (CCAS) Scale From Baseline;Change in Cerebellar Brain Inhibition (CBI) Measurements From Baseline;Change in the Short-Form Health Survey 36 (SF36) Score From Baseline
+    </Secondary_outcome>
+    <Secondary_ID>NP3244
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13089080
     </Internal_Number>
     <TrialID>RBR-6bvnx6
@@ -2746,7 +3123,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>10642175
     </Internal_Number>
     <TrialID>NCT04090385
@@ -2820,7 +3197,81 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
+    <Internal_Number>10342057
+    </Internal_Number>
+    <TrialID>NCT04092556
+    </TrialID>
+    <Last_Refreshed_on>12 December 2020
+    </Last_Refreshed_on>
+    <Public_title>tDCS for Multiple System Atrophy With Cerebellar Feature
+    </Public_title>
+    <Scientific_title>Exploratory Study to Evaluate the Effective Site for Control of Motor Coordination Function After Transcranial Direct Current Stimulation in Multiple Systemic Atrophy With Cerebellar Feature
+    </Scientific_title>
+    <Acronym/>
+    <Primary_sponsor>Samsung Medical Center
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20190908
+    </Date_registration3>
+    <Date_registration>08/09/2019
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/show/NCT04092556
+    </web_address>
+    <Recruitment_Status>Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>40 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>70 Years
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>October 1, 2019
+    </Date_enrollement>
+    <Target_size>10
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: Randomized. Intervention model: Crossover Assignment. Primary purpose: Treatment. Masking: Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor). 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>Korea, Republic of
+    </Countries>
+    <Contact_Firstname> ; ; 
+    </Contact_Firstname>
+    <Contact_Lastname>Jinyoung Youn;Jinyoung Youn;Jinyoung Youn
+    </Contact_Lastname>
+    <Contact_Email>;genian@skku.edu;genian@skku.edu
+    </Contact_Email>
+    <Contact_Tel>;82-2-3410-0245;82-2-3410-0245
+    </Contact_Tel>
+    <Contact_Affiliation>Samsung Medical Center, Department of Neurology;
+    </Contact_Affiliation>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  1. Patients who meet the clinical criteria for probable multiple system atrophy with&#x0D;&lt;br&gt;             cerebellar features (MDS second consensus statement on the diagnosis of multiple&#x0D;&lt;br&gt;             system atrophy)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  2. Patients aged between 40 and 70&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  3. Patients who do not have rigidity and bradykinesia&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  4. Patients who have given voluntary consent after understanding the content of the&#x0D;&lt;br&gt;             clinical trial&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  1. Patients with a serious cognitive disorder, behavioral disorder, or mental illness&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  2. Patients have history of seizure, stroke, encephalitis, other degenerative&#x0D;&lt;br&gt;             neurological disease&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  3. Patients with a serious medical disease&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;               -  Patients who concomitantly suffer from severe renal impairment, convulsions,&#x0D;&lt;br&gt;                  stomach ulcers, moderate or more severe liver disease&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;               -  Patients with un-controlled high blood pressure or diabetes&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  4. Patients who have taken another investigational products within 4 weeks prior to&#x0D;&lt;br&gt;             being enrolled in this clinical trial, or patients who are pregnant or breastfeeding&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Multiple System Atrophy, Cerebellar Variant (Disorder)
+    </Condition>
+    <Intervention>Device: transcranial direct current stimulation
+    </Intervention>
+    <Primary_outcome>Change from International Cooperative Ataxia Rating Scale (ICARS)
+    </Primary_outcome>
+    <Secondary_outcome>Change from temporospatial parameters of gait;Change from posturography
+    </Secondary_outcome>
+    <Secondary_ID>2018-10-010-002
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>10338484
     </Internal_Number>
     <TrialID>NCT04046055
@@ -2890,7 +3341,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>10338378
     </Internal_Number>
     <TrialID>NCT04044677
@@ -2962,7 +3413,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>8297153
     </Internal_Number>
     <TrialID>IRCT20190412043248N1
@@ -3046,7 +3497,175 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
+    <Internal_Number>10331271
+    </Internal_Number>
+    <TrialID>NCT03952117
+    </TrialID>
+    <Last_Refreshed_on>12 December 2020
+    </Last_Refreshed_on>
+    <Public_title>Transcranial Direct Current Stimulation of the Motor Cortex in Essential Tremor
+    </Public_title>
+    <Scientific_title>Transcranial Direct Current Stimulation of the Motor Cortex in Essential Tremor : A Randomized Controlled Pilot Study
+    </Scientific_title>
+    <Acronym/>
+    <Primary_sponsor>Lebanese American University
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20190514
+    </Date_registration3>
+    <Date_registration>14/05/2019
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/show/NCT03952117
+    </web_address>
+    <Recruitment_Status>Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>N/A
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>July 19, 2019
+    </Date_enrollement>
+    <Target_size>40
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: Randomized. Intervention model: Crossover Assignment. Primary purpose: Treatment. Masking: Triple (Participant, Investigator, Outcomes Assessor). 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>Lebanon
+    </Countries>
+    <Contact_Firstname> ; ; 
+    </Contact_Firstname>
+    <Contact_Lastname>Rechdi Ahdab;Naji Riachi, MD;Naji Riachi, MD
+    </Contact_Lastname>
+    <Contact_Email>;Naji.riachi@lau.edu.lb;Naji.riachi@lau.edu
+    </Contact_Email>
+    <Contact_Tel>;009611200800;009611200800
+    </Contact_Tel>
+    <Contact_Affiliation>Lebanese American University Medical Center;
+    </Contact_Affiliation>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        - Patients who fulfil the 2017 Movement society concusses statement criteria for essential&#x0D;&lt;br&gt;        tremor&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Isolated focal tremor (voice, head)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Orthostatic tremor with a frequency of more than 12 Hz&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Task and position specific tremor&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Sudden onset and stepwise deterioration of tremor&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  History of substance abuse or dependence in the past&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Co-morbid medical conditions capable of producing or enhancing tremors&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Use of a medication with potential effect on tremor&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  History of neurological disorders, brain tumors, brain surgery or abnormal&#x0D;&lt;br&gt;             neurological examination&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Epileptic disorders&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Cardiac pacemakers&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Metallic hardware in the head or scalp (surgical clips)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Eczema or skin abrasion at the intended site of stimulation&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Currently pregnant or plan for pregnancy in the next 6 months&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Patients with prior experience with tDCS&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Major psychosocial problems or medical problems rendering informed consent impossible&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Essential Tremor;Transcranial Direct Current Stimulation
+    </Condition>
+    <Intervention>Device: transcranial direct current stimulation
+    </Intervention>
+    <Primary_outcome>Tremor amplitude
+    </Primary_outcome>
+    <Secondary_outcome>Functional impact of tremor
+    </Secondary_outcome>
+    <Secondary_ID>LAUMCRH.RA3.11/Apr/2019
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
+    <Internal_Number>13434595
+    </Internal_Number>
+    <TrialID>JPRN-jRCTs072180090
+    </TrialID>
+    <Last_Refreshed_on>17 October 2023
+    </Last_Refreshed_on>
+    <Public_title>Efficiency of transcranial direct current electrical stimulation for voice disorder
+    </Public_title>
+    <Scientific_title>Efficiency of transcranial direct current electrical stimulation for voice disorder - Efficiency of transcranial direct current electrical stimulation for voice disorder                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+    </Scientific_title>
+    <Primary_sponsor>Kiyuna Asanori
+    </Primary_sponsor>
+    <Retrospective_flag>No
+    </Retrospective_flag>
+    <Date_registration3>20190329
+    </Date_registration3>
+    <Date_registration>29/03/2019
+    </Date_registration>
+    <Source_Register>JPRN
+    </Source_Register>
+    <web_address>https://jrct.niph.go.jp/latest-detail/jRCTs072180090
+    </web_address>
+    <Recruitment_Status>Not Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>&gt;= 20age old
+    </Inclusion_agemin>
+    <Inclusion_agemax>&lt;= 75age old
+    </Inclusion_agemax>
+    <Inclusion_gender>Both
+    </Inclusion_gender>
+    <Date_enrollement>28/06/2017
+    </Date_enrollement>
+    <Target_size>5
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>single arm study, open(masking not used), no treatment control/standard of care control, single assignment, treatment purpose
+    </Study_design>
+    <Phase>2
+    </Phase>
+    <Countries>United States;Japan
+    </Countries>
+    <Contact_Firstname>Asanori
+    </Contact_Firstname>
+    <Contact_Lastname>Kiyuna
+    </Contact_Lastname>
+    <Contact_Address>207 Uehara, Nishihara-cho, Okinawa
+    </Contact_Address>
+    <Contact_Email>asanori@med.u-ryukyu.ac.jp
+    </Contact_Email>
+    <Contact_Tel>+81-98-895-1183
+    </Contact_Tel>
+    <Contact_Affiliation>University of the Ryukyus
+    </Contact_Affiliation>
+    <Inclusion_Criteria>Inclusion criteria: 1. Patients with voice disorder without organic disease in the vocal cords who received the Otolaryngology Department of the University of the Ryukyus.&lt;br&gt;2.  SD patients who do not hope for surgical treatment or symptom is mild,or are no indication for surgical treatment, or the patient has operated but the symptoms remain.&lt;br&gt;3. Cases in which normal speech rehabilitation was performed for more than 3 months in all cases and there was no effect.
+    </Inclusion_Criteria>
+    <Exclusion_Criteria>Exclusion criteria: 1.Cases of brain abnormalities such as epilepsy, cerebral infarction, and brain tumor.&lt;br&gt;2.Case in which there are scars or eczema on the head skin.&lt;br&gt;3.Cases with poor physical condition on the day of examination
+    </Exclusion_Criteria>
+    <Condition>Voice disorder(Spasmodic dysphonia,essential Voice tremor, Psychogenic dysphonia)
+    </Condition>
+    <Intervention>For patients with dysphonia, we will investigate whether the improvement of the speech disorder can be seen by modifying the nerve activity just below the electrodes by performing weak direct current electrical stimulation from above the scalp using a transcranial electrical stimulation device.
+    </Intervention>
+    <Primary_outcome>Laryngeal fiber findings, auditory impression, voice inspection; vocal function test, acoustic analysis, time to count from 1 to 20, mora method, patient impairment evaluation, voice interview slip
+    </Primary_outcome>
+    <Secondary_outcome>Adverse event
+    </Secondary_outcome>
+    <Secondary_Sponsor>Mikio Suzuki
+    </Secondary_Sponsor>
+    <Ethics_review_status>Approval
+    </Ethics_review_status>
+    <Ethics_review_approval_date>01/01/1900
+    </Ethics_review_approval_date>
+    <Ethics_review_contact_name>knknkyu@to.jim.u-ryukyu.ac.jp
+    </Ethics_review_contact_name>
+    <Ethics_review_contact_address>Review Board of University of the Ryukyus for Clinical Research Ethics
+    </Ethics_review_contact_address>
+    <Ethics_review_contact_phone>+81-98-895-8016
+    </Ethics_review_contact_phone>
+    <Ethics_review_contact_email>knknkyu@to.jim.u-ryukyu.ac.jp
+    </Ethics_review_contact_email>
+    <results_yes_no>Yes
+    </results_yes_no>
+    <results_date_posted>28/08/2021
+    </results_date_posted>
+    <results_date_completed>28/08/2021
+    </results_date_completed>
+    <results_url_link/>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13604953
     </Internal_Number>
     <TrialID>NCT03981055
@@ -3122,7 +3741,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>10316450
     </Internal_Number>
     <TrialID>NCT03759132
@@ -3184,7 +3803,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13088417
     </Internal_Number>
     <TrialID>RBR-6zys9x
@@ -3261,7 +3880,81 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
+    <Internal_Number>10313590
+    </Internal_Number>
+    <TrialID>NCT03721887
+    </TrialID>
+    <Last_Refreshed_on>12 December 2020
+    </Last_Refreshed_on>
+    <Public_title>Exploit the Neural Source and the Feasibility of Transcranial Direct Current Stimulation for Freezing of Gait in Parkinson's Disease and Multiple System Atrophy
+    </Public_title>
+    <Scientific_title>Exploit the Neural Source and the Feasibility of Transcranial Direct Current Stimulation for Freezing of Gait in Parkinson's Disease and Multiple System Atrophy
+    </Scientific_title>
+    <Acronym/>
+    <Primary_sponsor>China Medical University Hospital
+    </Primary_sponsor>
+    <Retrospective_flag>No
+    </Retrospective_flag>
+    <Date_registration3>20180917
+    </Date_registration3>
+    <Date_registration>17/09/2018
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/show/NCT03721887
+    </web_address>
+    <Recruitment_Status>Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>30 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>85 Years
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>August 1, 2018
+    </Date_enrollement>
+    <Target_size>40
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: Randomized. Intervention model: Crossover Assignment. Primary purpose: Treatment. Masking: Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor). 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>Taiwan
+    </Countries>
+    <Contact_Firstname>&#x20;
+    </Contact_Firstname>
+    <Contact_Lastname>Chon-Haw Tsai, PHD
+    </Contact_Lastname>
+    <Contact_Email>d8079@mail.cmuh.org.tw
+    </Contact_Email>
+    <Contact_Tel>8864-22052121
+    </Contact_Tel>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          1. Patients meet the diagnosis of PD41 or MSA43 based on the established consensus&#x0D;&lt;br&gt;             criteria&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          2. Age above 30 years old and below 85 years&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          1. Impairment of cognition that leads unable to fully cooperate with the oral commands&#x0D;&lt;br&gt;             during examinations&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          2. Functional III or above congestive heart failure, or cancer with distant metastasis&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          3. Hoehn and Yahr stage 5 in PD or MSA&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Parkinson's Disease;Multiple System Atrophy
+    </Condition>
+    <Intervention>Device: Transcranial direct current stimulation
+    </Intervention>
+    <Primary_outcome>EEG recording before and after the tDCS session
+    </Primary_outcome>
+    <Secondary_outcome>Electromyography recording before and after the tDCS session;Change in Unified Parkinson's Disease Rating Scale (UPDRS) Part III before and after the tDCS session;Change in Unified Multiple System Atrophy Rating Scale (UMSARS) subscores (UMSARS-1 and UMSARS-2) before and after the tDCS session
+    </Secondary_outcome>
+    <Secondary_ID>CMUH106-REC2-171
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    <Secondary_Sponsor>Ministry of Science and Technology, Taiwan
+    </Secondary_Sponsor>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>10307186
     </Internal_Number>
     <TrialID>NCT03638531
@@ -3333,7 +4026,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>10306974
     </Internal_Number>
     <TrialID>NCT03635775
@@ -3399,7 +4092,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13467308
     </Internal_Number>
     <TrialID>JPRN-UMIN000033253
@@ -3482,7 +4175,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13088027
     </Internal_Number>
     <TrialID>RBR-94c26n
@@ -3559,7 +4252,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>10921387
     </Internal_Number>
     <TrialID>NCT03473522
@@ -3625,7 +4318,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13177732
     </Internal_Number>
     <TrialID>NCT03402854
@@ -3701,7 +4394,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>10289039
     </Internal_Number>
     <TrialID>NCT03401996
@@ -3776,7 +4469,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>10283069
     </Internal_Number>
     <TrialID>NCT03302871
@@ -3848,7 +4541,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13462084
     </Internal_Number>
     <TrialID>JPRN-UMIN000027977
@@ -3931,7 +4624,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>10278198
     </Internal_Number>
     <TrialID>NCT03216837
@@ -4008,7 +4701,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>10276681
     </Internal_Number>
     <TrialID>NCT03189472
@@ -4078,7 +4771,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>11830769
     </Internal_Number>
     <TrialID>NCT03145532
@@ -4140,7 +4833,90 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
+    <Internal_Number>13728082
+    </Internal_Number>
+    <TrialID>NL-OMON45367
+    </TrialID>
+    <Last_Refreshed_on>28 February 2024
+    </Last_Refreshed_on>
+    <Public_title>Guiding personalized treatments for Parkinson*s tremor with individual neuroimaging * an exploratory study
+    </Public_title>
+    <Scientific_title>Guiding personalized treatments for Parkinson*s tremor with individual neuroimaging * an exploratory study - Tremor fingerprints in Parkinson's disease                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+    </Scientific_title>
+    <Primary_sponsor>Neurologie
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20170503
+    </Date_registration3>
+    <Date_registration>2017-05-03
+    </Date_registration>
+    <Source_Register>NL-OMON
+    </Source_Register>
+    <web_address>https://onderzoekmetmensen.nl/en/trial/45367
+    </web_address>
+    <Recruitment_Status>Not Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18
+    </Inclusion_agemin>
+    <Inclusion_agemax>64
+    </Inclusion_agemax>
+    <Inclusion_gender/>
+    <Date_enrollement>2018-01-25
+    </Date_enrollement>
+    <Target_size>30
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Open (masking not used), Uncontrolled, Basic science
+    </Study_design>
+    <Phase>2
+    </Phase>
+    <Countries>The Netherlands
+    </Countries>
+    <Contact_Firstname/>
+    <Contact_Lastname/>
+    <Contact_Address>Reinier Postlaan 4
+    </Contact_Address>
+    <Contact_Email/>
+    <Contact_Tel/>
+    <Contact_Affiliation>Selecteer
+    </Contact_Affiliation>
+    <Inclusion_Criteria>Inclusion criteria: &lt;p&gt;- Idiopathic Parkinson*s disease according to UK brain bank criteria. &lt;br&gt;- Presence of a clear resting tremor of at least one arm (UPDRS tremor-score &gt; 2). &lt;br&gt;&lt;/p&gt;&#x0D;&lt;br&gt;
+    </Inclusion_Criteria>
+    <Exclusion_Criteria>Exclusion criteria: &lt;p&gt;- neuropsychiatric co-morbidity &lt;br&gt;- contraindications for MRI scanning (e.g. pacemaker, implanted metal parts, deep brain stimulation, claustrophobia) &lt;br&gt;- Severe head tremor or dyskinesias. &lt;br&gt;- Cognitive impairment (MMSE &lt; 26)&lt;/p&gt;&#x0D;&lt;br&gt;
+    </Exclusion_Criteria>
+    <Condition> &lt;br&gt;Parkinson's disease &lt;br&gt;tremor;10028037;Parkinson's disease;tremor
+    </Condition>
+    <Intervention>&lt;p&gt;The intervention involves TACS, which is a non-invasive, non-painful way of &lt;br&gt;stimulating underlying cortical brain tissue through electrodes applied to the &lt;br&gt;scalp. When applied rhythmically at the frequency of cortical oscillatory &lt;br&gt;activity, it can exert excitatory or inhibitory (depending on the phase) &lt;br&gt;effects on brain function. In this research, we will apply TACS over the motor &lt;br&gt;cortex contralateral to the tremulous hand, in the same frequency, and &lt;br&gt;phase-locked to, the ongoing tremor. There are three conditions: inhibitory &lt;br&gt;TACS (anti-phase), stimulating TACS (in-phase), and sham (no/fake stimulation). &lt;br&gt;TACS will be applied both outside and inside the MRI scanner, to test for the &lt;br&gt;effect on the tremor circuitry.&lt;/p&gt;&lt;br&gt;;fMRI;Parkinson;tDCS;tremor
+    </Intervention>
+    <Primary_outcome>&lt;p&gt;(1) Within-subjects reproducibility of tremor-related activity and connectivity&lt;br /&gt;&lt;br&gt;(*tremor fingerprint*; quantified using concurrent EMG-fMRI across two&lt;br /&gt;&lt;br&gt;different days); (2) Modulation of tremor-related activity and connectivity by&lt;br /&gt;&lt;br&gt;TACS (comparison of the three TACS conditions); (3) Modulation of tremor by&lt;br /&gt;&lt;br&gt;TACS (quantified using accelerometry), and its correlation with network&lt;br /&gt;&lt;br&gt;parameters derived from the tremor circuit (i.e. thalamo-cortical&lt;br /&gt;&lt;br&gt;connectivity). &lt;/p&gt;&lt;br&gt;
+    </Primary_outcome>
+    <Secondary_outcome>&lt;p&gt;Not applicable. See Primary outcome measure.&lt;/p&gt;&#x0D;&lt;br&gt;
+    </Secondary_outcome>
+    <Secondary_ID>NL60572.091.17
+    </Secondary_ID>
+    <Source_Support>ZonMw (Off Road subsidie)
+    </Source_Support>
+    <Ethics_review_status>Approved
+    </Ethics_review_status>
+    <Ethics_review_approval_date>03/05/2017
+    </Ethics_review_approval_date>
+    <Ethics_review_contact_name/>
+    <Ethics_review_contact_address/>
+    <Ethics_review_contact_phone/>
+    <Ethics_review_contact_email/>
+    <results_date_completed>07/09/2019
+    </results_date_completed>
+    <results_url_link/>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13603829
     </Internal_Number>
     <TrialID>NCT03191916
@@ -4215,7 +4991,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>10273911
     </Internal_Number>
     <TrialID>NCT03137940
@@ -4287,7 +5063,88 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
+    <Internal_Number>10272966
+    </Internal_Number>
+    <TrialID>NCT03120013
+    </TrialID>
+    <Last_Refreshed_on>12 December 2020
+    </Last_Refreshed_on>
+    <Public_title>Rehabilitative Trial With Cerebello-Spinal tDCS in Neurodegenerative Ataxia
+    </Public_title>
+    <Scientific_title>Rehabilitative Trial With Cerebello-Spinal tDCS for the Treatment of Neurodegenerative Ataxia
+    </Scientific_title>
+    <Acronym>CStDCSAtaxia
+    </Acronym>
+    <Primary_sponsor>Azienda Socio Sanitaria Territoriale degli Spedali Civili di Brescia
+    </Primary_sponsor>
+    <Retrospective_flag>No
+    </Retrospective_flag>
+    <Date_registration3>20170414
+    </Date_registration3>
+    <Date_registration>14/04/2017
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/show/NCT03120013
+    </web_address>
+    <Recruitment_Status>Not recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>N/A
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>February 6, 2017
+    </Date_enrollement>
+    <Target_size>21
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: Randomized. Intervention model: Crossover Assignment. Primary purpose: Treatment. Masking: Triple (Participant, Care Provider, Investigator). 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>Italy
+    </Countries>
+    <Contact_Firstname> ; 
+    </Contact_Firstname>
+    <Contact_Lastname>Barbara Borroni, MD;Alberto Benussi, MD
+    </Contact_Lastname>
+    <Contact_Email>;
+    </Contact_Email>
+    <Contact_Tel>;
+    </Contact_Tel>
+    <Contact_Affiliation>Azienda Ospedaliera Spedali Civili, Brescia;Università degli Studi di Brescia
+    </Contact_Affiliation>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Patients with a cerebellar syndrome and quantifiable cerebellar atrophy&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Severe head trauma in the past&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  History of seizures&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  History of ischemic stroke or hemorrhage&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Pacemaker&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Metal implants in the head/neck region&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Severe comorbidity&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Intake of illegal drugs&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Pregnancy&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Ataxia, Cerebellar;Cerebellar Ataxia;Spinocerebellar Ataxias;Ataxia, Spinocerebellar;Spinocerebellar Ataxia Type 1;Spinocerebellar Ataxia Type 2;Spinocerebellar Ataxia 3;Spinocerebellar Degenerations;Friedreich Ataxia;Ataxia With Oculomotor Apraxia;Multiple System Atrophy
+    </Condition>
+    <Intervention>Device: Anodal cerebellar and cathodal spinal tDCS;Device: Sham cerebellar and sham spinal tDCS
+    </Intervention>
+    <Primary_outcome>Change in the International Cooperative Ataxia Rating Scale (ICARS) Score From Baseline;Change in the Scale for the Assessment and Rating of Ataxia (SARA) Score From Baseline
+    </Primary_outcome>
+    <Secondary_outcome>Change in the International Cooperative Ataxia Rating Scale (ICARS) Score From Baseline;Change in the Scale for the Assessment and Rating of Ataxia (SARA) Score From Baseline;Change in the 9 Hole Peg Test (9HPT) Score From Baseline;Change in the 8-Meter Walking Time (8MW) Score From Baseline;Change in Cerebellar Brain Inhibition (CBI) Measurements From Baseline;Change in the Short-Form Health Survey 36 (SF36) Score From Baseline
+    </Secondary_outcome>
+    <Secondary_ID>NP1576
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    <results_yes_no>Yes
+    </results_yes_no>
+    <results_date_posted>28/06/2019
+    </results_date_posted>
+    <results_url_link>https://clinicaltrials.gov/ct2/show/results/NCT03120013
+    </results_url_link>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>12572560
     </Internal_Number>
     <TrialID>NCT03038269
@@ -4351,7 +5208,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13572436
     </Internal_Number>
     <TrialID>NCT03025334
@@ -4425,7 +5282,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>5876701
     </Internal_Number>
     <TrialID>NCT02960464
@@ -4499,7 +5356,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>6663367
     </Internal_Number>
     <TrialID>NCT02850159
@@ -4565,7 +5422,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>5785284
     </Internal_Number>
     <TrialID>NCT02917122
@@ -4638,7 +5495,7 @@
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13662279
     </Internal_Number>
     <TrialID>TCTR20160330002
@@ -4731,7 +5588,7 @@ plus physical therapy on gait in Parkinson&#x0D;
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>12956773
     </Internal_Number>
     <TrialID>NCT03074812
@@ -4805,7 +5662,7 @@ plus physical therapy on gait in Parkinson&#x0D;
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13086641
     </Internal_Number>
     <TrialID>RBR-95xwc7
@@ -4882,7 +5739,7 @@ plus physical therapy on gait in Parkinson&#x0D;
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>5019833
     </Internal_Number>
     <TrialID>NCT02503930
@@ -4956,7 +5813,7 @@ plus physical therapy on gait in Parkinson&#x0D;
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>8762894
     </Internal_Number>
     <TrialID>ACTRN12615000592549
@@ -5034,7 +5891,7 @@ plus physical therapy on gait in Parkinson&#x0D;
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>10242451
     </Internal_Number>
     <TrialID>NCT02453763
@@ -5105,7 +5962,7 @@ plus physical therapy on gait in Parkinson&#x0D;
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13086522
     </Internal_Number>
     <TrialID>RBR-4hvfzj
@@ -5182,7 +6039,7 @@ plus physical therapy on gait in Parkinson&#x0D;
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13086472
     </Internal_Number>
     <TrialID>RBR-6v4y3k
@@ -5259,7 +6116,88 @@ plus physical therapy on gait in Parkinson&#x0D;
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
+    <Internal_Number>13723046
+    </Internal_Number>
+    <TrialID>NL-OMON40332
+    </TrialID>
+    <Last_Refreshed_on>28 February 2024
+    </Last_Refreshed_on>
+    <Public_title>Transcranial Direct Current Stmulation in Children with Unilateral Motor Deficits: A New Approach for Pediatric Rehabilitation.
+    </Public_title>
+    <Scientific_title>Transcranial Direct Current Stmulation in Children with Unilateral Motor Deficits: A New Approach for Pediatric Rehabilitation. - TDCS and Pediatric Rehabilitation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+    </Scientific_title>
+    <Primary_sponsor>Erasmus MC, Universitair Medisch Centrum Rotterdam
+    </Primary_sponsor>
+    <Retrospective_flag>No
+    </Retrospective_flag>
+    <Date_registration3>20141013
+    </Date_registration3>
+    <Date_registration>2014-10-13
+    </Date_registration>
+    <Source_Register>NL-OMON
+    </Source_Register>
+    <web_address>https://onderzoekmetmensen.nl/en/trial/40332
+    </web_address>
+    <Recruitment_Status>Not Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>2
+    </Inclusion_agemin>
+    <Inclusion_agemax>11
+    </Inclusion_agemax>
+    <Inclusion_gender/>
+    <Date_enrollement>2014-09-01
+    </Date_enrollement>
+    <Target_size>16
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Randomized  controlled trial, Double blinded (masking used), Placebo, Crossover, Treatment
+    </Study_design>
+    <Phase>3
+    </Phase>
+    <Countries>The Netherlands
+    </Countries>
+    <Contact_Firstname/>
+    <Contact_Lastname/>
+    <Contact_Address>Dr. Molenwaterplein 50
+    </Contact_Address>
+    <Contact_Email/>
+    <Contact_Tel/>
+    <Contact_Affiliation>Erasmus MC, Universitair Medisch Centrum Rotterdam
+    </Contact_Affiliation>
+    <Inclusion_Criteria>Inclusion criteria: &lt;p&gt;• Aged between 7-9 years. &lt;br&gt;• CP diagnosis. &lt;br&gt;• A score of 2 or 3 on the MACS (Manual Ability Classification System). &lt;br&gt;• Mild unilateral motor deficit. &lt;br&gt;• Ability to cooperate and follow directions. &lt;br&gt;&lt;/p&gt;&#x0D;&lt;br&gt;
+    </Inclusion_Criteria>
+    <Exclusion_Criteria>Exclusion criteria: &lt;p&gt;• Epilepsy. &lt;br&gt;• Non removable metal plates in or near the head. &lt;br&gt;• Orthopaedic surgery in the past 3 months on upper limb. &lt;br&gt;• Gross motor deficits &lt;br&gt;• History of neurological or psychiatric disorders&lt;/p&gt;&#x0D;&lt;br&gt;
+    </Exclusion_Criteria>
+    <Condition>Cebrale Parese &lt;br&gt;Cerebral Palsy. Movement disorder after stroke;10007963;Cerebral Palsy. Movement disorder after stroke
+    </Condition>
+    <Intervention>&lt;p&gt;Subjects receive tDCS (real or sham) over the motor cortex for 20 minutes with &lt;br&gt;an intensity of 1 mA.&lt;/p&gt;&lt;br&gt;;Children;Motor deficits;tDCS
+    </Intervention>
+    <Primary_outcome>&lt;p&gt;The main objective of the study is to investigate the effect of a single tDCS&lt;br /&gt;&lt;br&gt;session on motor learning in a young population. Motor learning is investigated&lt;br /&gt;&lt;br&gt;in three independent motor tasks: 1) the JTT a well validated training and test&lt;br /&gt;&lt;br&gt;for functional motor assessment that reflects activities of daily living 2) the&lt;br /&gt;&lt;br&gt;finger-sequencing task and 3) a simple reaction time task which measure motor&lt;br /&gt;&lt;br&gt;improvement in a quantitative manner. Motor learning is calculated as accuracy&lt;br /&gt;&lt;br&gt;and reaction time in every stimulation condition in blocks of three (sessions)&lt;br /&gt;&lt;br&gt;for all the independent motor tasks.&lt;br /&gt;&lt;br&gt;Motor learning will be used to compare different stimulation conditions&lt;br /&gt;&lt;br&gt;(prefrontal, cerebellar and sham).&lt;/p&gt;&lt;br&gt;
+    </Primary_outcome>
+    <Secondary_outcome>&lt;p&gt;To determine the main effect of each of the tDCS electrode configurations in&lt;br /&gt;&#x0D;&lt;br&gt;children with mild CP on different motor tasks with regard to motor performance.&lt;br /&gt;&#x0D;&lt;br&gt;&lt;br /&gt;&#x0D;&lt;br&gt;To determine if interactions are present between tDCS electrode configurations&lt;br /&gt;&#x0D;&lt;br&gt;and specific motor tasks with regard to motor performance.&lt;br /&gt;&#x0D;&lt;br&gt;&lt;br /&gt;&#x0D;&lt;br&gt;To determine the size of the interaction effects with regard to motor&lt;br /&gt;&#x0D;&lt;br&gt;performance.&lt;br /&gt;&#x0D;&lt;br&gt;&lt;br /&gt;&#x0D;&lt;br&gt;To determine the wash-out effect (the decline of the effect of the tDCS&lt;br /&gt;&#x0D;&lt;br&gt;stimulation between conditions) of a single session tDCS effects on motor&lt;br /&gt;&#x0D;&lt;br&gt;performance in children with mild CP. &lt;/p&gt;&#x0D;&lt;br&gt;
+    </Secondary_outcome>
+    <Secondary_ID>NL46142.000.14
+    </Secondary_ID>
+    <Source_Support>Ministerie van OC&amp;W;Stichting Coolsingel
+    </Source_Support>
+    <Ethics_review_status>Approved
+    </Ethics_review_status>
+    <Ethics_review_approval_date>30/09/2014
+    </Ethics_review_approval_date>
+    <Ethics_review_contact_name/>
+    <Ethics_review_contact_address/>
+    <Ethics_review_contact_phone/>
+    <Ethics_review_contact_email/>
+    <results_url_link/>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>10234188
     </Internal_Number>
     <TrialID>NCT02216474
@@ -5325,7 +6263,7 @@ plus physical therapy on gait in Parkinson&#x0D;
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>5014670
     </Internal_Number>
     <TrialID>NCT02205216
@@ -5399,7 +6337,81 @@ plus physical therapy on gait in Parkinson&#x0D;
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
+    <Internal_Number>6638264
+    </Internal_Number>
+    <TrialID>NCT02180139
+    </TrialID>
+    <Last_Refreshed_on>16 December 2017
+    </Last_Refreshed_on>
+    <Public_title>tDCS in Cervical Dystonia
+    </Public_title>
+    <Scientific_title>Optimizing tDCS in Cervical Dystonia
+    </Scientific_title>
+    <Acronym/>
+    <Primary_sponsor>University of Minnesota - Clinical and Translational Science Institute
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20140630
+    </Date_registration3>
+    <Date_registration>30/06/2014
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/show/NCT02180139
+    </web_address>
+    <Recruitment_Status>Not recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>21 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>65 Years
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>September 2017
+    </Date_enrollement>
+    <Target_size>0
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: Randomized. Intervention model: Parallel Assignment. Primary purpose: Treatment. Masking: Single (Participant). 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>United States;United States;United States;United States;United States
+    </Countries>
+    <Contact_Firstname> ; ; ; ; 
+    </Contact_Firstname>
+    <Contact_Lastname>Teresa J Kimberley, PT, PhD;Teresa J Kimberley, PT, PhD;Teresa J Kimberley, PT, PhD;Teresa J Kimberley, PT, PhD;Teresa J Kimberley, PT, PhD
+    </Contact_Lastname>
+    <Contact_Email>;;;;
+    </Contact_Email>
+    <Contact_Tel>;;;;
+    </Contact_Tel>
+    <Contact_Affiliation>University of Minnesota - Clinical and Translational Science Institute;University of Minnesota - Clinical and Translational Science Institute;University of Minnesota - Clinical and Translational Science Institute;University of Minnesota - Clinical and Translational Science Institute;University of Minnesota - Clinical and Translational Science Institute
+    </Contact_Affiliation>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          1. 21-65 years of age&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          2. Segmental dystonia, defined as dystonia in the neck plus another region is allowed,&#x0D;&lt;br&gt;             but CD must be primary source of disability.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          3. Medications for dystonia are allowed, but they must be on a stable dose for the&#x0D;&lt;br&gt;             duration of the experiment. Individuals may be receiving BTX injections, but must be&#x0D;&lt;br&gt;             on a 2-cycle stable dose prior to experiment (first SC visit). Individuals who do not&#x0D;&lt;br&gt;             take BTX are also allowed to participate.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          1. Any surgical intervention or musculoskeletal impairment that would interfere with&#x0D;&lt;br&gt;             participation (eg., neck fusion, deep brain stimulation, peripheral denervation)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          2. secondary dystonia (eg., Parkinson syndrome)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          3. any neurologic or psychiatric disability that would interfere with participation&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          4. pregnancy&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          5. history of seizure within the last two years&#x0D;&lt;br&gt;      ;&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          1. 21-65 years of age&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          2. Segmental dystonia, defined as dystonia in the neck plus another region is allowed,&#x0D;&lt;br&gt;             but CD must be primary source of disability.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          3. Medications for dystonia are allowed, but they must be on a stable dose for the&#x0D;&lt;br&gt;             duration of the experiment. Individuals may be receiving BTX injections, but must be&#x0D;&lt;br&gt;             on a 2-cycle stable dose prior to experiment (first SC visit). Individuals who do not&#x0D;&lt;br&gt;             take BTX are also allowed to participate.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          1. Any surgical intervention or musculoskeletal impairment that would interfere with&#x0D;&lt;br&gt;             participation (eg., neck fusion, deep brain stimulation, peripheral denervation)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          2. secondary dystonia (eg., Parkinson syndrome)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          3. any neurologic or psychiatric disability that would interfere with participation&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          4. pregnancy&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          5. history of seizure within the last two years&#x0D;&lt;br&gt;      ;&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          1. 21-65 years of age&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          2. Segmental dystonia, defined as dystonia in the neck plus another region is allowed,&#x0D;&lt;br&gt;             but CD must be primary source of disability.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          3. Medications for dystonia are allowed, but they must be on a stable dose for the&#x0D;&lt;br&gt;             duration of the experiment. Individuals may be receiving BTX injections, but must be&#x0D;&lt;br&gt;             on a 2-cycle stable dose prior to experiment (first SC visit). Individuals who do not&#x0D;&lt;br&gt;             take BTX are also allowed to participate.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          1. Any surgical intervention or musculoskeletal impairment that would interfere with&#x0D;&lt;br&gt;             participation (eg., neck fusion, deep brain stimulation, peripheral denervation)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          2. secondary dystonia (eg., Parkinson syndrome)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          3. any neurologic or psychiatric disability that would interfere with participation&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          4. pregnancy&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          5. history of seizure within the last two years&#x0D;&lt;br&gt;      ;&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          1. 21-65 years of age&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          2. Segmental dystonia, defined as dystonia in the neck plus another region is allowed,&#x0D;&lt;br&gt;             but CD must be primary source of disability.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          3. Medications for dystonia are allowed, but they must be on a stable dose for the&#x0D;&lt;br&gt;             duration of the experiment. Individuals may be receiving BTX injections, but must be&#x0D;&lt;br&gt;             on a 2-cycle stable dose prior to experiment (first SC visit). Individuals who do not&#x0D;&lt;br&gt;             take BTX are also allowed to participate.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          1. Any surgical intervention or musculoskeletal impairment that would interfere with&#x0D;&lt;br&gt;             participation (eg., neck fusion, deep brain stimulation, peripheral denervation)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          2. secondary dystonia (eg., Parkinson syndrome)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          3. any neurologic or psychiatric disability that would interfere with participation&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          4. pregnancy&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          5. history of seizure within the last two years&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Cervical Dystonia;Cervical Dystonia;Cervical Dystonia;Cervical Dystonia
+    </Condition>
+    <Intervention>Device: transcranial direct current stimulation;Device: transcranial direct current stimulation;Device: transcranial direct current stimulation;Device: transcranial direct current stimulation
+    </Intervention>
+    <Primary_outcome>Cervical Dystonia Questionnaire (CDQ-24);Cervical Dystonia Questionnaire (CDQ-24);Cervical Dystonia Questionnaire (CDQ-24)
+    </Primary_outcome>
+    <Secondary_outcome>Toronto Western Spasmodic Torticollis Rating Scale (TWSTRS);Visual Analog Scale (VAS);Cortical Excitability as measured by transcranial magnetic stimulation
+    </Secondary_outcome>
+    <Secondary_ID>TDCS-2014
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>4951859
     </Internal_Number>
     <TrialID>NCT02170285
@@ -5472,7 +6484,80 @@ plus physical therapy on gait in Parkinson&#x0D;
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
+    <Internal_Number>10229368
+    </Internal_Number>
+    <TrialID>NCT02052271
+    </TrialID>
+    <Last_Refreshed_on>12 December 2020
+    </Last_Refreshed_on>
+    <Public_title>Experimental Therapeutics in Essential Tremor Using Cerebellar Transcranial Direct Current Stimulation
+    </Public_title>
+    <Scientific_title>Thérapeutique expérimentale du Tremblement Essentiel Par la Stimulation Transcranienne Par Courant Direct (tDCS) du Cortex Cerebelleux
+    </Scientific_title>
+    <Acronym>ELECTRE2
+    </Acronym>
+    <Primary_sponsor>Institut National de la Santé Et de la Recherche Médicale, France
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20140128
+    </Date_registration3>
+    <Date_registration>28/01/2014
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/show/NCT02052271
+    </web_address>
+    <Recruitment_Status>Not recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>65 Years
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>June 3, 2014
+    </Date_enrollement>
+    <Target_size>16
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: Randomized. Intervention model: Parallel Assignment. Primary purpose: Other. Masking: Triple (Participant, Investigator, Outcomes Assessor). 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>France
+    </Countries>
+    <Contact_Firstname>&#x20;
+    </Contact_Firstname>
+    <Contact_Lastname>Emmanuel Flamand-Roze, MD
+    </Contact_Lastname>
+    <Contact_Email/>
+    <Contact_Tel/>
+    <Contact_Affiliation>Institut du Cerveau et de la Moelle et Fédération de Neurologie de l'Hôpital Pitié-Salpétrière, Paris
+    </Contact_Affiliation>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Age = 18 years and = 65 years&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Important essential tremor (bilateral postural and/or action tremor since more than&#x0D;&lt;br&gt;             one year)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Normal physical and neurological examination, except for essential tremor&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Insufficient efficiency of usual essential tremor's treatment&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  No treatment altering the cortical excitability&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Agreement to use a medically acceptable method of contraception throughout the study&#x0D;&lt;br&gt;             for female of childbearing potential&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  mini-mental status score &gt;24&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Age &lt; 18 years and &gt; 65 years&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Current neurological or psychiatric illness other than essential tremor&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Individual who is on medication which is known to lower seizure threshold&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Previous history of seizure, loss of conciousness or current active epilepsy&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Contraindication for MRI or TMS study&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Intake of antiepileptic medications for essential tremor (barbiturates, gabapentine,&#x0D;&lt;br&gt;             topiramate, clonazepam), within the 7 days preceeding the first visit&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  alcohol intake within the 24 hours preceeding the first visit&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Pregnancy, breast feeding women and women who are of childbearing age and not&#x0D;&lt;br&gt;             practicing adequate birth control&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Individual who have MMS = 24/30 or patients legally protected or inability to provide&#x0D;&lt;br&gt;             an informed consent&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Simultaneous participation in another clinical trial&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Patients who are not enrolled at social security&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Essential Tremor
+    </Condition>
+    <Intervention>Device: Cathodal cerebellar transcranial direct current stimulation
+    </Intervention>
+    <Primary_outcome>Change from baseline in tremor amplitude on clinical rating scale
+    </Primary_outcome>
+    <Secondary_outcome>Change from baseline in tremor amplitude on accelerometric recording;Change from baseline in tremor amplitude on electromyographic recordings;Change from baseline in tremor amplitude on digitized tablet;Change from baseline in tremor amplitude on clinical rating scale;Change from baseline of amplitude of motor evoked potentials elicited by TMS
+    </Secondary_outcome>
+    <Secondary_ID>2013-A01404-41;C13-24
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>6505921
     </Internal_Number>
     <TrialID>NCT01877148
@@ -5551,7 +6636,7 @@ plus physical therapy on gait in Parkinson&#x0D;
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>10224072
     </Internal_Number>
     <TrialID>NCT01852474
@@ -5625,7 +6710,7 @@ plus physical therapy on gait in Parkinson&#x0D;
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13086264
     </Internal_Number>
     <TrialID>RBR-9b5dh7
@@ -5702,7 +6787,7 @@ plus physical therapy on gait in Parkinson&#x0D;
   </Trial>
 
     
-  <Trial><Export_date>02/03/2024 14:34:55</Export_date>
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
     <Internal_Number>13442956
     </Internal_Number>
     <TrialID>JPRN-UMIN000008796
@@ -5779,6 +6864,224 @@ plus physical therapy on gait in Parkinson&#x0D;
     <Ethics_review_contact_phone/>
     <Ethics_review_contact_email/>
     <results_url_link/>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
+    <Internal_Number>4710026
+    </Internal_Number>
+    <TrialID>NCT01579435
+    </TrialID>
+    <Last_Refreshed_on>19 February 2015
+    </Last_Refreshed_on>
+    <Public_title>Experimental Therapeutics in Essential Tremor Using Transcranial Direct Current Stimulation
+    </Public_title>
+    <Scientific_title>Thérapeutique expérimentale du Tremblement Essentiel Par la Stimulation Trans-crânienne Par Courant Direct (tDCS) du Cortex cérébelleux et du Cortex Moteur. Etude Exploratoire.
+    </Scientific_title>
+    <Acronym>ELECTRE
+    </Acronym>
+    <Primary_sponsor>Institut National de la Santé Et de la Recherche Médicale, France
+    </Primary_sponsor>
+    <Retrospective_flag>No
+    </Retrospective_flag>
+    <Date_registration3>20120405
+    </Date_registration3>
+    <Date_registration>05/04/2012
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>http://clinicaltrials.gov/show/NCT01579435
+    </web_address>
+    <Recruitment_Status>Not recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>50 Years
+    </Inclusion_agemax>
+    <Inclusion_gender>Both
+    </Inclusion_gender>
+    <Date_enrollement>April 2012
+    </Date_enrollement>
+    <Target_size>12
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Basic Science
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>France
+    </Countries>
+    <Contact_Firstname>&#x20;
+    </Contact_Firstname>
+    <Contact_Lastname>Emmanuel Flamand-Roze, MD
+    </Contact_Lastname>
+    <Contact_Email/>
+    <Contact_Tel/>
+    <Contact_Affiliation>Institut du Cerveau et de la Moelle et Fédération de Neurologie de l'Hôpital Pitié-Salpétrière, Paris
+    </Contact_Affiliation>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        Inclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Age = 18 years and &lt; 50 years&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Important essential tremor (bilateral postural and/or action tremor since more than&#x0D;&lt;br&gt;             one year)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Normal physical and neurological examination, except for essential tremor&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Insufficient efficiency of usual essential tremor's treatment&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  No treatment altering the cortical excitability&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Agreement to use a medically acceptable method of contraception throughout the study&#x0D;&lt;br&gt;             for female of childbearing potential&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Exclusion Criteria:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Cervical tremor&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Current neurological or psychiatric illness other than essential tremor&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Individual who is on medication which is known to lower seizure threshold&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Previous history of seizure(s), malaise or current active epilepsy&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Contraindication for MRI or TMS study&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Pregnancy, breast feeding women and women who are of childbearing age and not&#x0D;&lt;br&gt;             practicing adequate birth control&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Individual who have MMS = 24/30 or patients legally protected or inability to provide&#x0D;&lt;br&gt;             an informed consent&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Simultaneous participation in another clinical trial&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Patients who are not enrolled at social security&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Essential Tremor
+    </Condition>
+    <Intervention>Device: transcranial direct current stimulation
+    </Intervention>
+    <Primary_outcome>Change from baseline in tremor amplitude on accelerometric recording 10 minutes after the end of tDCS
+    </Primary_outcome>
+    <Secondary_outcome>Change from baseline in tremor amplitude on electromyographic recordings;Change from baseline in tremor amplitude on digitized tablet;Change from baseline in tremor amplitude on accelerometric recording
+    </Secondary_outcome>
+    <Secondary_ID>2011-A01453-38;C11-37
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
+    <Internal_Number>8758507
+    </Internal_Number>
+    <TrialID>ACTRN12612000339853
+    </TrialID>
+    <Last_Refreshed_on>13 January 2020
+    </Last_Refreshed_on>
+    <Public_title>Non-invasive cerebellar stimulation for focal dystonia
+    </Public_title>
+    <Scientific_title>Focal Dystonia treated using transcranial direct current stimulation compared to sham stimulation on neurophysioloigcal and functional measures                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+    </Scientific_title>
+    <Primary_sponsor>Lynley Bradnam
+    </Primary_sponsor>
+    <Retrospective_flag>No
+    </Retrospective_flag>
+    <Date_registration3>20120323
+    </Date_registration3>
+    <Date_registration>23/03/2012
+    </Date_registration>
+    <Source_Register>ANZCTR
+    </Source_Register>
+    <web_address>https://anzctr.org.au/ACTRN12612000339853.aspx
+    </web_address>
+    <Recruitment_Status>Recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>No limit
+    </Inclusion_agemax>
+    <Inclusion_gender>Both males and females
+    </Inclusion_gender>
+    <Date_enrollement>20/03/2012
+    </Date_enrollement>
+    <Target_size>16
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Purpose: Treatment; Allocation: Randomised controlled trial; Masking: Blinded (masking used);Assignment: Parallel;Type of endpoint: Efficacy;
+    </Study_design>
+    <Phase>Not Applicable
+    </Phase>
+    <Countries>Australia
+    </Countries>
+    <Inclusion_Criteria>Inclusion criteria: Over 18 years of age,&#x0D;&lt;br&gt;Diagnosis of Primary Focal Dystonia by a neurologist&#x0D;&lt;br&gt;No contraindications to TMS or TDCS (head injury, epilepsy, implanted devices, some medications)&#x0D;&lt;br&gt;No other neurological or musculoskeletal disorder affecting the dystonic region
+    </Inclusion_Criteria>
+    <Exclusion_Criteria>Exclusion criteria: Condtraindications to TMS or TDCS&#x0D;&lt;br&gt;Musculoskeletal or neurological disorders other than primay focal dystonia affecting the body part&#x0D;&lt;br&gt;Secondary Dystonia (eg after stroke or Parkinsons Disease)&#x0D;&lt;br&gt;Generalised Dystonia
+    </Exclusion_Criteria>
+    <Condition>Focal Dystonia; &lt;br&gt;Focal Dystonia;Neurological - Other neurological disorders
+    </Condition>
+    <Intervention>Transcranial Direct Current Stimulation (TDCS) is a painless form of non-invasive brain stimulation. It is proposed to work by polarising brain tissue beneath the stimulating electrodes. Usually applied over the motor cortex, TDCS can either increase (anodal) or suppress (cathodal) excitability depending on electrode configuration. In this study, TDCS will be applied over the cerebellum. The current will be applied at 2mA for 20 minutes in three separate sessions, one week apart. The order of the sessions will be randomised. Two sessions will be cathodal, andodal and  sham session. The randomisation order and the intervention will be applied by an independent investigator. Investigators who are collecting and analysing data will remaind blinded until the end of the study period.
+    </Intervention>
+    <Primary_outcome>Neurophysiological measures using Transcranial Magnetic Stimulation (TMS). TMS is used to test excitability of intracortical brain circuits, that are known to be affected in primary focal dystonia. A change in these measures more toward 'normal' (as measured by comparison to a healthy group) will indicate improvement.[Immediately post treatment]
+    </Primary_outcome>
+    <Secondary_outcome>Handwriting and circle drawing tasks will be used to assess kinematics before and after the intervention. An improvement in these tasks is expected. The measures of interest include stroke frequency, mean pen pressure and the Coefficient of Variation of positive velocity peaks (CV). These are calculated using computer software. The Handwriting task will also be analysed using the Writers Cramp Rating Scale (WCRS) by an independent assesor.[Immediately post treatment]
+    </Secondary_outcome>
+    <Secondary_ID>NIL
+    </Secondary_ID>
+    <Source_Support>Brain Foundation of Australia
+    </Source_Support>
+    <Ethics_review_status>Approved
+    </Ethics_review_status>
+    <Ethics_review_approval_date>01/01/1900
+    </Ethics_review_approval_date>
+    <Ethics_review_contact_name/>
+    <Ethics_review_contact_address>Southern Adelaide Clinical Human Research Ethics Committee
+    </Ethics_review_contact_address>
+    <Ethics_review_contact_phone/>
+    <Ethics_review_contact_email/>
+    <results_url_link/>
+    
+  </Trial>
+
+    
+  <Trial><Export_date>03/02/2024 23:30:06</Export_date>
+    <Internal_Number>13701481
+    </Internal_Number>
+    <TrialID>NCT01019343
+    </TrialID>
+    <Last_Refreshed_on>27 February 2024
+    </Last_Refreshed_on>
+    <Public_title>Physiological Investigations of Movement Disorders
+    </Public_title>
+    <Scientific_title>Physiological Investigations of Movement Disorders
+    </Scientific_title>
+    <Acronym/>
+    <Primary_sponsor>National Institute of Neurological Disorders and Stroke (NINDS)
+    </Primary_sponsor>
+    <Retrospective_flag>Yes
+    </Retrospective_flag>
+    <Date_registration3>20091124
+    </Date_registration3>
+    <Date_registration>24/11/2009
+    </Date_registration>
+    <Source_Register>ClinicalTrials.gov
+    </Source_Register>
+    <web_address>https://clinicaltrials.gov/ct2/show/NCT01019343
+    </web_address>
+    <Recruitment_Status>Not recruiting
+    </Recruitment_Status>
+    <other_records>No
+    </other_records>
+    <Inclusion_agemin>18 Years
+    </Inclusion_agemin>
+    <Inclusion_agemax>N/A
+    </Inclusion_agemax>
+    <Inclusion_gender>All
+    </Inclusion_gender>
+    <Date_enrollement>December 8, 2009
+    </Date_enrollement>
+    <Target_size>1273
+    </Target_size>
+    <Study_type>Interventional
+    </Study_type>
+    <Study_design>Allocation: Non-Randomized. Intervention model: Parallel Assignment. Primary purpose: Basic Science. Masking: None (Open Label). 
+    </Study_design>
+    <Phase>N/A
+    </Phase>
+    <Countries>United States
+    </Countries>
+    <Contact_Firstname>&#x20;
+    </Contact_Firstname>
+    <Contact_Lastname>Lauren B Reoma, M.D.
+    </Contact_Lastname>
+    <Contact_Email/>
+    <Contact_Tel/>
+    <Contact_Affiliation>National Institute of Neurological Disorders and Stroke (NINDS)
+    </Contact_Affiliation>
+    <Inclusion_Criteria>&#x0D;&lt;br&gt;        -  INCLUSION CRITERIA:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        INCLUSION CRITERIA FOR MOVEMENT DISORDER PATIENTS:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Patients will either have a well-defined diagnosis or be a diagnostic dilemma,&#x0D;&lt;br&gt;             depending upon the sub-study&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Age 18 or older&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Able to give informed consent&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Agree to not drink caffeine or alcohol for 48 hours before certain study sessions&#x0D;&lt;br&gt;             because both agents can modify brain activity and may confound outcome measures.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        INCLUSION CRITERIA FOR HEALTHY VOLUNTEERS:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Age 18 or older.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Able to give informed consent.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Agree to not drink caffeine or alcohol for 48 hours before certain study sessions&#x0D;&lt;br&gt;             because both agents may modify the activity of the brain during the study.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        EXCLUSION CRITERIA:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        EXCLUSION CRITERIA FOR MOVEMENT DISORDER PATIENTS:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Have used illegal drugs within the past 6 months&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Have more than 7 alcoholic drinks a week in the case of a woman or 14 alcoholic drinks&#x0D;&lt;br&gt;             a week in the case of a man.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Have had a brain tumor, a stroke, head trauma, epilepsy or a history of seizures.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Have a psychotic disorder, Bipolar Disorder or a current depressive episode.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Have another neurologic disorder than a movement disorder&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Have had a head injury where there was a loss of consciousness for more than a few&#x0D;&lt;br&gt;             seconds.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        EXCLUSION CRITERIA FOR HEALTHY VOLUNTEERS:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Have abnormal findings on a neurological examination that we will perform&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Have used illegal drugs within the past 6 months&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Have more than 7 alcoholic drinks a week in the case of a woman or 14 alcoholic drinks&#x0D;&lt;br&gt;             a week in the case of a man&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Have had a brain tumor, a stroke, head trauma, epilepsy or a history of seizures.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Have major depression or any major mental disorders (axis I disorders)&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Have had a head injury where there was a loss of consciousness for more than a few&#x0D;&lt;br&gt;             seconds.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        ADDITIONAL EXCLUSION CRITERIA FOR MOVEMENT DISORDER PATIENTS AND HEALTHY VOLUNTEERS&#x0D;&lt;br&gt;        SPECIFICALLY FOR fMRI:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        We will follow the NMR Center guidelines for MR safety.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        Some of the exclusions are:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Have non-MRI compatible metal in the body, such as a cardiac pacemaker, brain&#x0D;&lt;br&gt;             stimulator, shrapnel, surgical metal, clips in the brain or on blood vessels, cochlear&#x0D;&lt;br&gt;             implants, artificial heart valves or metal fragments in the eye as these make having&#x0D;&lt;br&gt;             an MRI unsafe.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Unable to lie flat on the back for the expected length of the experiment up to 3 hours&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Have uncontrolled movements of the head&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Have an abnormality on the brain imaging or neurologic examination not related to the&#x0D;&lt;br&gt;             diagnosis&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Uncomfortable being in a small space for the expected length of the experiment up to 3&#x0D;&lt;br&gt;             hours&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Pregnancy&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;        ADDITIONAL EXCLUSION CRITERIA FOR MOVEMENT DISORDER PATIENTS AND HEALTHY VOLUNTEERS&#x0D;&lt;br&gt;        SPECIFICALLY FOR TMS:&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Have metal in the eye or skull area, brain stimulator, shrapnel, surgical metal, clips&#x0D;&lt;br&gt;             in the brain, cochlear implants, metal fragments in the eye, as these make TMS unsafe.&#x0D;&lt;br&gt;             Having a cardiac pacemaker, intracardiac lines, implanted pumps or stimulators are&#x0D;&lt;br&gt;             also exclusion criteria.&#x0D;&lt;br&gt;&#x0D;&lt;br&gt;          -  Have hearing loss.&#x0D;&lt;br&gt;      
+    </Inclusion_Criteria>
+    <Condition>Parkinson's Disease;Tourette's Syndrome;Tic Disorders;Dystonia;Movement Disorders
+    </Condition>
+    <Intervention>Procedure: Transcranial Direct Current Stimulation (tDCS);Device: Eye-tracking Device;Device: Pulsed vibrator;Other: Gait Trainer Treadmill (GTT);Other: Standard psychiatric scales SCID-I, YBOCS and SCI-OBS-lifetime and cognitive scales MMSE and MOCA;Device: iMobility;Device: QMAT;Diagnostic Test: Treadmill Test;Device: Arm Intellistretch Device;Procedure: Transcranial Sonography (TCS);Other: Behavioral tasks;Procedure: TMS single/paired pulse;Procedure: MEG;Procedure: EEG;Procedure: MRI techniques;Procedure: Peripheral Nerve Stimulation;Procedure: EMG;Procedure: Trancutaneous spinal direct current stimulation (tsDCS)
+    </Intervention>
+    <Primary_outcome>MRI;EEG and MEG;TMS;Behavioral measures
+    </Primary_outcome>
+    <Secondary_ID>10-N-0009;100009
+    </Secondary_ID>
+    <Source_Support>Please refer to primary and secondary sponsors
+    </Source_Support>
     
   </Trial>
 </Trials_downloaded_from_ICTRP>
